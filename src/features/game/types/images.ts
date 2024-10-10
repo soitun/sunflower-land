@@ -707,10 +707,10 @@ import { AchievementName, ACHIEVEMENTS } from "./achievements";
 import { SUNNYSIDE } from "assets/sunnyside";
 import { CROP_LIFECYCLE } from "features/island/plots/lib/plant";
 import {
-  FRUIT,
-  FRUIT_SEEDS,
   GREENHOUSE_FRUIT,
   GREENHOUSE_FRUIT_SEEDS,
+  PATCH_FRUIT,
+  PATCH_FRUIT_SEEDS,
 } from "./fruits";
 import { FLOWER_SEEDS, FLOWERS } from "./flowers";
 import { CONSUMABLES, COOKABLES } from "./consumables";
@@ -888,27 +888,27 @@ export const ITEM_DETAILS: Items = {
   },
   "Apple Seed": {
     image: appleSeed,
-    description: FRUIT_SEEDS()["Apple Seed"].description,
+    description: PATCH_FRUIT_SEEDS()["Apple Seed"].description,
   },
   "Blueberry Seed": {
     image: blueberrySeed,
-    description: FRUIT_SEEDS()["Blueberry Seed"].description,
+    description: PATCH_FRUIT_SEEDS()["Blueberry Seed"].description,
   },
   "Orange Seed": {
     image: orangeSeed,
-    description: FRUIT_SEEDS()["Orange Seed"].description,
+    description: PATCH_FRUIT_SEEDS()["Orange Seed"].description,
   },
   "Banana Plant": {
     image: bananaPlant,
-    description: FRUIT_SEEDS()["Banana Plant"].description,
+    description: PATCH_FRUIT_SEEDS()["Banana Plant"].description,
   },
   "Tomato Seed": {
     image: tomatoSeed,
-    description: FRUIT_SEEDS()["Tomato Seed"].description,
+    description: PATCH_FRUIT_SEEDS()["Tomato Seed"].description,
   },
   "Lemon Seed": {
     image: lemonSeed,
-    description: FRUIT_SEEDS()["Lemon Seed"].description,
+    description: PATCH_FRUIT_SEEDS()["Lemon Seed"].description,
   },
   "Sunpetal Seed": {
     image: sunpetalSeed,
@@ -968,27 +968,27 @@ export const ITEM_DETAILS: Items = {
   },
   Apple: {
     image: apple,
-    description: FRUIT().Apple.description,
+    description: PATCH_FRUIT().Apple.description,
   },
   Blueberry: {
     image: blueberry,
-    description: FRUIT().Blueberry.description,
+    description: PATCH_FRUIT().Blueberry.description,
   },
   Orange: {
     image: orange,
-    description: FRUIT().Orange.description,
+    description: PATCH_FRUIT().Orange.description,
   },
   Banana: {
     image: banana,
-    description: FRUIT().Orange.description,
+    description: PATCH_FRUIT().Orange.description,
   },
   Tomato: {
     image: tomato,
-    description: FRUIT().Tomato.description,
+    description: PATCH_FRUIT().Tomato.description,
   },
   Lemon: {
     image: lemon,
-    description: FRUIT().Lemon.description,
+    description: PATCH_FRUIT().Lemon.description,
   },
   Honey: {
     image: honey,
@@ -1083,11 +1083,11 @@ export const ITEM_DETAILS: Items = {
     description: ANIMALS.Chicken.description,
   },
   Cow: {
-    image: SUNNYSIDE.icons.expression_confused,
+    image: SUNNYSIDE.animals.cow,
     description: ANIMALS.Cow.description,
   },
   Sheep: {
-    image: SUNNYSIDE.icons.expression_confused,
+    image: SUNNYSIDE.animals.sheep,
     description: ANIMALS.Sheep.description,
   },
   Pig: {
@@ -4102,5 +4102,25 @@ export const ITEM_DETAILS: Items = {
   Morty: {
     image: morty,
     description: translate("description.morty"),
+  },
+  Leather: {
+    image: SUNNYSIDE.resource.leather,
+    description: "Resource you can collect from cows",
+  },
+  Wool: {
+    image: SUNNYSIDE.resource.wool,
+    description: "Resource you can collect from sheep",
+  },
+  "Merino Wool": {
+    image: SUNNYSIDE.resource.merino_wool,
+    description: "Rare resource you can collect from sheep",
+  },
+  Feather: {
+    image: SUNNYSIDE.resource.feather,
+    description: "Resource you can collect from chicken",
+  },
+  Milk: {
+    image: SUNNYSIDE.resource.milk,
+    description: "Resource you can collect from cows",
   },
 };

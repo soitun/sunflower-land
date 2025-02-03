@@ -691,7 +691,7 @@ const INITIAL_VOLCANO_LAND: Pick<
       width: 2,
       height: 2,
       oil: {
-        amount: 1,
+        amount: 10,
         drilledAt: 0,
       },
       drilled: 0,
@@ -957,6 +957,9 @@ const INITIAL_VOLCANO_LAND: Pick<
 };
 
 const SUNSTONE_RELOCATION: Coordinates[] = [
+  { x: -5, y: 5 },
+  { x: -5, y: 9 },
+  { x: -5, y: 7 },
   { x: -3, y: 7 },
   { x: -1, y: 7 },
   { x: 1, y: 7 },
@@ -1228,16 +1231,15 @@ export function upgrade({ state, action, createdAt = Date.now() }: Options) {
     mushrooms: {},
     spawnedAt: game.mushrooms?.spawnedAt ?? 0,
   };
-  game.buds = getKeys(game.buds ?? {}).reduce(
-    (acc, key) => ({
-      ...acc,
-      [key]: {
-        ...(game.buds ?? {})[key],
-        location: undefined,
-        coordinates: undefined,
+  game.buds = Object.fromEntries(
+    Object.entries(game.buds ?? {}).map(([budId, bud]) => [
+      budId,
+      {
+        ...bud,
+        location: bud.location === "home" ? "home" : undefined,
+        coordinates: bud.location === "home" ? bud.coordinates : undefined,
       },
-    }),
-    game.buds,
+    ]),
   );
   game.crimstones = {};
   game.beehives = {};

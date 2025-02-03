@@ -102,7 +102,7 @@ describe("upgradeFarm", () => {
         oilReserves: {
           oil: {
             oil: {
-              amount: 1,
+              amount: 10,
               drilledAt: 1,
             },
             createdAt: 1,
@@ -526,7 +526,7 @@ describe("upgradeFarm", () => {
     expect(state.inventory["Sunstone"]).toEqual(new Decimal(1));
     expect(state.sunstones).toEqual({
       ...sunstones,
-      "1234": { ...sunstones["1234"], x: -3, y: 7 },
+      "1234": { ...sunstones["1234"], x: -5, y: 5 },
     });
   });
 
@@ -587,7 +587,7 @@ describe("upgradeFarm", () => {
 
     expect(state.inventory["Sunstone"]).toEqual(new Decimal(1));
     expect(state.sunstones).toEqual({
-      "1234": { ...sunstones["1234"], x: -3, y: 7 },
+      "1234": { ...sunstones["1234"], x: -5, y: 5 },
     });
   });
 
@@ -714,5 +714,87 @@ describe("upgradeFarm", () => {
         },
       }),
     ).toThrow("Not implemented");
+  });
+
+  it("does not remove buds from home on upgrade", () => {
+    const state = upgrade({
+      action: {
+        type: "farm.upgraded",
+      },
+      state: {
+        ...TEST_FARM,
+        inventory: {
+          "Basic Land": new Decimal(25),
+          Oil: new Decimal(200),
+        },
+        island: {
+          type: "desert",
+        },
+        buds: {
+          "1": {
+            type: "Beach",
+            colour: "Beige",
+            stem: "3 Leaf Clover",
+            aura: "Basic",
+            ears: "Ears",
+            location: "home",
+            coordinates: { x: 0, y: 0 },
+          },
+        },
+      },
+    });
+
+    expect(state.buds).toEqual({
+      "1": {
+        type: "Beach",
+        colour: "Beige",
+        stem: "3 Leaf Clover",
+        aura: "Basic",
+        ears: "Ears",
+        location: "home",
+        coordinates: { x: 0, y: 0 },
+      },
+    });
+  });
+
+  it("removes buds from farm on upgrade", () => {
+    const state = upgrade({
+      action: {
+        type: "farm.upgraded",
+      },
+      state: {
+        ...INITIAL_FARM,
+        inventory: {
+          "Basic Land": new Decimal(25),
+          Oil: new Decimal(200),
+        },
+        island: {
+          type: "desert",
+        },
+        buds: {
+          "1": {
+            type: "Beach",
+            colour: "Beige",
+            stem: "3 Leaf Clover",
+            aura: "Basic",
+            ears: "Ears",
+            location: "farm",
+            coordinates: { x: 0, y: 0 },
+          },
+        },
+      },
+    });
+
+    expect(state.buds).toEqual({
+      "1": {
+        type: "Beach",
+        colour: "Beige",
+        stem: "3 Leaf Clover",
+        aura: "Basic",
+        ears: "Ears",
+        coordinates: undefined,
+        location: undefined,
+      },
+    });
   });
 });

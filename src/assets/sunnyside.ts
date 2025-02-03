@@ -66,8 +66,10 @@ export const SUNNYSIDE = {
     factions: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/factions.png`,
     desertSeason: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/desert_season.png`,
     bullRunSeason: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/bull_run_season.png`,
+    windsOfChangeSeason: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/winds_of_change.png`,
     pharaohSeasonRares: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/pharaoh_seasonal_rares.png`,
     bullRunSeasonRares: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/bull_run_seasonal_rares.webp`,
+    windsOfChangeSeasonRares: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/winds_of_change_rares.webp`,
     marketplace: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/marketplace_dark.png`,
     marketplaceLight: `${CONFIG.PROTECTED_IMAGE_URL}/announcements/marketplace.png`,
   },
@@ -717,8 +719,6 @@ export const SUNNYSIDE = {
     stone: `${CONFIG.PROTECTED_IMAGE_URL}/resources/stone.png`,
     stump: `${CONFIG.PROTECTED_IMAGE_URL}/resources/stump.png`,
     tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree.png`,
-    shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/shake_sheet.png`,
-    springShakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/spring_shake_sheet.png`,
     spring_tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/flower_tree.png`,
     choppedSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/chopped_sheet.png`,
     tree_stump: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/stump.png`,
@@ -741,6 +741,126 @@ export const SUNNYSIDE = {
     land: `${CONFIG.PROTECTED_IMAGE_URL}/resources/land.png`,
     plot: `${CONFIG.PROTECTED_IMAGE_URL}/resources/plot.png`,
     fruitPatch: `${CONFIG.PROTECTED_IMAGE_URL}/resources/fruit_patch.png`,
+    basic: {
+      spring: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/spring_basic_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/spring_basic_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/spring_basic_trees_shake_sheet.webp`,
+      },
+      summer: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/summer_basic_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/summer_basic_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/summer_basic_trees_shake_sheet.webp`,
+      },
+      autumn: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/autumn_basic_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/autumn_basic_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/autumn_basic_trees_shake_sheet.webp`,
+      },
+      winter: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/winter_basic_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/winter_basic_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Basic/winter_basic_trees_shake_sheet.webp`,
+      },
+    },
+    spring: {
+      spring: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/spring_spring_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/spring_spring_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/spring_spring_trees_shake_sheet.webp`,
+      },
+      summer: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/summer_spring_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/summer_spring_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/summer_spring_trees_shake_sheet.webp`,
+      },
+      autumn: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/autumn_spring_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/autumn_spring_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/autumn_spring_trees_shake_sheet.webp`,
+      },
+      winter: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/winter_spring_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/winter_spring_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Spring/winter_spring_trees_shake_sheet.webp`,
+      },
+    },
+    desert: {
+      spring: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/spring_desert_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/spring_desert_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/spring_desert_trees_shake_sheet.webp`,
+      },
+      summer: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/summer_desert_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/summer_desert_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/summer_desert_trees_shake_sheet.webp`,
+      },
+      autumn: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/autumn_desert_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/autumn_desert_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/autumn_desert_trees_shake_sheet.webp`,
+      },
+      winter: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/winter_desert_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/winter_desert_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Desert/winter_desert_trees_shake_sheet.webp`,
+      },
+    },
+    volcano: {
+      spring: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/spring_volcano_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/spring_volcano_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/spring_volcano_trees_shake_sheet.webp`,
+      },
+      summer: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/summer_volcano_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/summer_volcano_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/summer_volcano_trees_shake_sheet.webp`,
+      },
+      autumn: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/autumn_volcano_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/autumn_volcano_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/autumn_volcano_trees_shake_sheet.webp`,
+      },
+      winter: {
+        tree: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/winter_volcano_tree.webp`,
+        bush: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/winter_volcano_bush.webp`,
+        shakeSheet: `${CONFIG.PROTECTED_IMAGE_URL}/resources/tree/Volcano/winter_volcano_trees_shake_sheet.webp`,
+      },
+    },
+  },
+  seasons: {
+    spring: {
+      bakery: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/bakery.webp`,
+      deli: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/deli.webp`,
+      greenhouse: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/greenhouse.webp`,
+      hen_house_1: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/hen_house_1.webp`,
+      hen_house_2: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/hen_house_2.webp`,
+      hen_house_3: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/hen_house_3.webp`,
+      smoothie_shack_desk: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/smoothie_shack_desk.webp`,
+      well: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/spring/well.webp`,
+    },
+    autumn: {
+      bakery: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/bakery.webp`,
+      deli: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/deli.webp`,
+      greenhouse: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/greenhouse.webp`,
+      hen_house_1: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/hen_house_1.webp`,
+      hen_house_2: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/hen_house_2.webp`,
+      hen_house_3: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/hen_house_3.webp`,
+      smoothie_shack_desk: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/smoothie_shack_desk.webp`,
+      well: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/autumn/well.webp`,
+    },
+    winter: {
+      bakery: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/bakery.webp`,
+      deli: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/deli.webp`,
+      greenhouse: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/greenhouse.webp`,
+      hen_house_1: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/hen_house_1.webp`,
+      hen_house_2: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/hen_house_2.webp`,
+      hen_house_3: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/hen_house_3.webp`,
+      smoothie_shack_desk: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/smoothie_shack_desk.webp`,
+      well: `${CONFIG.PROTECTED_IMAGE_URL}/buildings/winter/well.webp`,
+    },
   },
   //Tools
   tools: {

@@ -9,7 +9,6 @@ import {
   INITIAL_STOCK,
 } from "./constants";
 import { INITIAL_REWARDS } from "../types/rewards";
-import { makeAnimalBuilding } from "./animals";
 import { Equipped } from "../types/bumpkin";
 import { tokenUriBuilder } from "lib/utils/tokenUriBuilder";
 
@@ -23,6 +22,7 @@ export const STATIC_OFFLINE_FARM: GameState = {
     expiresAt: Date.now() + 31 * 24 * 60 * 60 * 1000,
   },
   inventory: {
+    "Golden Sheep": new Decimal(1),
     Potato: new Decimal(100),
     Rhubarb: new Decimal(100),
     "Sunpetal Seed": new Decimal(1),
@@ -201,9 +201,16 @@ export const STATIC_OFFLINE_FARM: GameState = {
     skills: {
       "Blooming Boost": 1,
       "Flower Power": 1,
+      "Instant Gratification": 1,
+      "Instant Growth": 1,
+      "Barnyard Rouse": 1,
     },
     tokenUri: `1_${tokenUriBuilder(INITIAL_EQUIPMENT)}`,
     achievements: {},
+    previousPowerUseAt: {
+      "Instant Gratification": Date.now() - 1000 * 60,
+      "Instant Growth": Date.now() - 1000 * 60,
+    },
 
     activity: {},
   },
@@ -345,6 +352,17 @@ export const STATIC_OFFLINE_FARM: GameState = {
   chickens: {},
   trades: {},
   buildings: {
+    Barn: [
+      {
+        id: "123",
+        readyAt: 0,
+        coordinates: {
+          x: -1,
+          y: -8,
+        },
+        createdAt: 0,
+      },
+    ],
     Mansion: [
       {
         id: "123",
@@ -419,6 +437,17 @@ export const STATIC_OFFLINE_FARM: GameState = {
         coordinates: {
           x: 5,
           y: 4,
+        },
+        createdAt: 0,
+      },
+    ],
+    "Hen House": [
+      {
+        id: "123",
+        readyAt: 0,
+        coordinates: {
+          x: 9,
+          y: -2,
         },
         createdAt: 0,
       },
@@ -547,8 +576,49 @@ export const STATIC_OFFLINE_FARM: GameState = {
       patterns: [],
     },
   },
-  henHouse: makeAnimalBuilding("Hen House"),
-  barn: makeAnimalBuilding("Barn"),
+  henHouse: {
+    level: 2,
+    animals: {
+      "1": {
+        id: "1",
+        type: "Chicken",
+        state: "idle",
+        createdAt: 0,
+        experience: 120,
+        asleepAt: Date.now() - 1000 * 60 * 60 * 12,
+        awakeAt: Date.now() + 1000 * 60 * 60 * 12,
+        lovedAt: Date.now(),
+        item: "Petting Hand",
+      },
+    },
+  },
+  barn: {
+    level: 2,
+    animals: {
+      "1": {
+        id: "1",
+        type: "Sheep",
+        state: "idle",
+        createdAt: 0,
+        experience: 120,
+        asleepAt: Date.now() - 1000 * 60 * 60 * 12,
+        awakeAt: Date.now() + 1000 * 60 * 60 * 12,
+        lovedAt: Date.now(),
+        item: "Petting Hand",
+      },
+      "2": {
+        id: "2",
+        type: "Cow",
+        state: "idle",
+        createdAt: 0,
+        experience: 120,
+        asleepAt: Date.now() - 1000 * 60 * 60 * 12,
+        awakeAt: Date.now() + 1000 * 60 * 60 * 12,
+        lovedAt: Date.now(),
+        item: "Petting Hand",
+      },
+    },
+  },
   craftingBox: {
     status: "idle",
     startedAt: 0,

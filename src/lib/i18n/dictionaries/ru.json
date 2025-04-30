@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "Продавайте ресурсы и предметы, чтобы заработать $FLOWER.",
   "marketplace.quickswap.description": "Вы скоро будете перенаправлены на Quickswap, децентрализованную биржу, управляемую сообществом, чтобы купить $FLOWER.",
   "marketplace.estimated.price": "*Ориентировочная цена цветов в долларах США",
-  "vip.benefit.stellaDiscounts": "Скидки от Стеллы ФЛАУЭР",
   "reputation.seedling.deliveries": "Доставка 1 цветка в день",
   "reputation.grower.description": "Отозвать ЦВЕТОК",
   "reputation.grower.sfl": "2 доставки цветов в день",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "Добро пожаловать на Mega Bounty Board! Ознакомьтесь с наградами на этой неделе. Если у вас есть запрошенные предметы, вы можете отправиться в Poppy in the Plaza и обменять их на награды!",
   "petalPuzzle.alreadyClaimed": "Уже заявлено",
   "petalPuzzle.comeBackTomorrow": "Сегодня вы уже получили приз. Возвращайтесь завтра.",
-  "petalPuzzle.congratulations": "Поздравляем, вы все решили сегодняшнюю головоломку!"
+  "petalPuzzle.congratulations": "Поздравляем, вы все решили сегодняшнюю головоломку!",
+  "bounties.bonus.allCompleted": "Все награды выполнены!",
+  "bounties.bonus.headToPoppy": "Отправляйтесь в Poppy, чтобы получить бонус!",
+  "bounties.bonus.clickToClaim": "Претендуйте бонус",
+  "bounties.bonus.getBonus": "Получите бонус 50 {{seasonalTicket}} за выполнение всех наград!",
+  "description.bronzeFoodBox": "Бронзовая коробка для еды",
+  "description.silverFoodBox": "Серебряная коробка с едой",
+  "description.goldFoodBox": "Золотая коробка с едой",
+  "description.bronzeToolBox": "Бронзовый ящик для инструментов",
+  "description.silverToolBox": "Серебряный ящик для инструментов",
+  "description.goldToolBox": "Золотой ящик для инструментов",
+  "description.testBox": "Тестовая коробка",
+  "vip.benefit.stellaDiscounts": "Скидки от Stella FLOWER (50%)",
+  "vip.benefit.greatBloom": "2 награды в виде цветочных коробок Great Bloom VIP"
 }

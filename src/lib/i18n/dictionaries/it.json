@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "Vendi risorse e oggetti per guadagnare $FLOWER.",
   "marketplace.quickswap.description": "Stai per essere reindirizzato a Quickswap, un exchange decentralizzato e guidato dalla comunità per acquistare $FLOWER.",
   "marketplace.estimated.price": "*Prezzo stimato in USD/FLOWER",
-  "vip.benefit.stellaDiscounts": "Sconti Stella FLOWER",
   "reputation.seedling.deliveries": "Consegna di 1 FIORE al giorno",
   "reputation.grower.description": "Ritira FLOWER",
   "reputation.grower.sfl": "2 consegne di fiori al giorno",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "Benvenuto nel Mega Bounty Board! Dai un'occhiata ai premi di questa settimana. Se hai uno degli oggetti richiesti, puoi andare a Poppy in the plaza per scambiarli con ricompense!",
   "petalPuzzle.alreadyClaimed": "Già richiesto",
   "petalPuzzle.comeBackTomorrow": "Hai già ritirato il premio oggi. Torna domani.",
-  "petalPuzzle.congratulations": "Congratulazioni, avete risolto tutti il puzzle di oggi!"
+  "petalPuzzle.congratulations": "Congratulazioni, avete risolto tutti il puzzle di oggi!",
+  "bounties.bonus.allCompleted": "Tutti i premi completati!",
+  "bounties.bonus.headToPoppy": "Vai su Poppy per richiedere il tuo bonus!",
+  "bounties.bonus.clickToClaim": "Richiedi il bonus",
+  "bounties.bonus.getBonus": "Ottieni un bonus di 50 {{seasonalTicket}} per aver completato tutte le taglie!",
+  "description.bronzeFoodBox": "Una scatola per alimenti in bronzo",
+  "description.silverFoodBox": "Una scatola per alimenti in argento",
+  "description.goldFoodBox": "Una scatola per alimenti dorata",
+  "description.bronzeToolBox": "Una cassetta degli attrezzi in bronzo",
+  "description.silverToolBox": "Una cassetta degli attrezzi in argento",
+  "description.goldToolBox": "Una cassetta degli attrezzi dorata",
+  "description.testBox": "Una scatola di prova",
+  "vip.benefit.stellaDiscounts": "Sconti Stella FLOWER (50%)",
+  "vip.benefit.greatBloom": "Ottimi premi VIP per la confezione di fiori Bloom VIP"
 }

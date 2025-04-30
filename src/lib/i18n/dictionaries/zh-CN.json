@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "出售资源或物品以赚取 $FLOWER。",
   "marketplace.quickswap.description": "即将前往 Quickswap 购买 $FLOWER。这是一个去中心化的社区驱动型交易所。",
   "marketplace.estimated.price": "*预计美元 / FLOWER 价格",
-  "vip.benefit.stellaDiscounts": "Stella FLOWER 折扣",
   "reputation.seedling.deliveries": "每天 1 次 FLOWER 送货",
   "reputation.grower.description": "提取 FLOWER",
   "reputation.grower.sfl": "每天 2 次 FLOWER 送货",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "欢迎来到超级赏金板！查看本周的赏金。如果你有任何需要的物品，你可以前往广场的 poppy 用它们兑换奖励！",
   "petalPuzzle.alreadyClaimed": "已经申领了",
   "petalPuzzle.comeBackTomorrow": "你今天已经领取了奖金。明天再来。",
-  "petalPuzzle.congratulations": "恭喜，你们都解开了今天的谜题！"
+  "petalPuzzle.congratulations": "恭喜，你们都解开了今天的谜题！",
+  "bounties.bonus.allCompleted": "所有赏金已完成！",
+  "bounties.bonus.headToPoppy": "前往 Poppy 领取奖金！",
+  "bounties.bonus.clickToClaim": "申领奖金",
+  "bounties.bonus.getBonus": "完成所有赏金可获得 50 {{seasonalTicket}} 的奖励！",
+  "description.bronzeFoodBox": "青铜食物盒",
+  "description.silverFoodBox": "一个银色的食物盒",
+  "description.goldFoodBox": "一个金色的食物盒",
+  "description.bronzeToolBox": "青铜工具箱",
+  "description.silverToolBox": "银色工具箱",
+  "description.goldToolBox": "一个金色的工具箱",
+  "description.testBox": "一个测试箱",
+  "vip.benefit.stellaDiscounts": "Stella FLOWER 折扣 (50%)",
+  "vip.benefit.greatBloom": "Great Bloom VIP 2x 花盒奖励"
 }

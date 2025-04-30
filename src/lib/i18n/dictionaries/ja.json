@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "資源やアイテムを販売して$FLOWERを獲得しましょう。",
   "marketplace.quickswap.description": "$FLOWERを購入するための分散型のコミュニティ主導の取引所であるQuickswapにリダイレクトされようとしています。",
   "marketplace.estimated.price": "*米ドル/花のおおよその価格",
-  "vip.benefit.stellaDiscounts": "ステラフラワー割引",
   "reputation.seedling.deliveries": "1日1本の花の配達",
   "reputation.grower.description": "花を撤回",
   "reputation.grower.sfl": "1日2本の花の配達",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "メガバウンティボードへようこそ！今週のバウンティをチェックしてください。リクエストされたアイテムがあれば、プラザのポピーに行って報酬と交換できます！",
   "petalPuzzle.alreadyClaimed": "すでに申請済み",
   "petalPuzzle.comeBackTomorrow": "本日は既に賞品を受け取っています。明日戻ってきてください。",
-  "petalPuzzle.congratulations": "おめでとうございます。みなさん、今日のパズルを解きました！"
+  "petalPuzzle.congratulations": "おめでとうございます。みなさん、今日のパズルを解きました！",
+  "bounties.bonus.allCompleted": "すべてのバウンティが完了しました！",
+  "bounties.bonus.headToPoppy": "ポピーに行ってボーナスを受け取りましょう！",
+  "bounties.bonus.clickToClaim": "クレームボーナス",
+  "bounties.bonus.getBonus": "すべてのバウンティを完了するとボーナス50 {{seasonalTicket}} がもらえます！",
+  "description.bronzeFoodBox": "ブロンズフードボックス",
+  "description.silverFoodBox": "シルバーフードボックス",
+  "description.goldFoodBox": "ゴールドフードボックス",
+  "description.bronzeToolBox": "ブロンズ製の道具箱",
+  "description.silverToolBox": "シルバーツールボックス",
+  "description.goldToolBox": "ゴールドツールボックス",
+  "description.testBox": "テストボックス",
+  "vip.benefit.stellaDiscounts": "ステラフラワー割引 (50%)",
+  "vip.benefit.greatBloom": "グレートブルーム VIP フラワーボックス報酬 x 2"
 }

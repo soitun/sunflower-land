@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "Jual sumber daya & item untuk mendapatkan $FLOWER.",
   "marketplace.quickswap.description": "Anda akan diarahkan ke Quickswap, pertukaran yang terdesentralisasi dan digerakkan oleh komunitas untuk membeli $FLOWER.",
   "marketplace.estimated.price": "*Estimasi harga USD/FLOWER",
-  "vip.benefit.stellaDiscounts": "Stella FLOWER diskon",
   "reputation.seedling.deliveries": "1 Pengiriman BUNGA Per Hari",
   "reputation.grower.description": "Tarik BUNGA",
   "reputation.grower.sfl": "2 Pengiriman BUNGA Per Hari",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "Selamat datang di Mega Bounty Board! Lihat hadiah minggu ini. Jika Anda memiliki salah satu item yang diminta, Anda dapat menuju ke poppy di plaza untuk menukarnya dengan hadiah!",
   "petalPuzzle.alreadyClaimed": "Sudah diklaim",
   "petalPuzzle.comeBackTomorrow": "Anda telah mengklaim hadiahnya hari ini. Kembalilah besok.",
-  "petalPuzzle.congratulations": "Selamat, kalian semua memecahkan teka-teki hari ini!"
+  "petalPuzzle.congratulations": "Selamat, kalian semua memecahkan teka-teki hari ini!",
+  "bounties.bonus.allCompleted": "Semua Hadiah Selesai!",
+  "bounties.bonus.headToPoppy": "Pergilah ke Poppy untuk mengklaim bonus Anda!",
+  "bounties.bonus.clickToClaim": "Klaim bonus",
+  "bounties.bonus.getBonus": "Dapatkan Bonus 50 {{seasonalTicket}} s untuk menyelesaikan semua hadiah!",
+  "description.bronzeFoodBox": "Kotak makanan perunggu",
+  "description.silverFoodBox": "Kotak makanan perak",
+  "description.goldFoodBox": "Kotak makanan emas",
+  "description.bronzeToolBox": "Kotak alat perunggu",
+  "description.silverToolBox": "Kotak alat perak",
+  "description.goldToolBox": "Kotak alat emas",
+  "description.testBox": "Kotak uji",
+  "vip.benefit.stellaDiscounts": "Diskon bunga Stella (50%)",
+  "vip.benefit.greatBloom": "Hadiah kotak BUNGA Great Bloom VIP 2x"
 }

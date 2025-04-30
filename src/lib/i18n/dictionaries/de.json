@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "Verkaufe Ressourcen und Gegenstände, um $FLOWER zu verdienen.",
   "marketplace.quickswap.description": "Du wirst bald zu Quickswap weitergeleitet, einer dezentralen und von der Community betriebenen Börse, um $FLOWER zu kaufen.",
   "marketplace.estimated.price": "*Geschätzter USD/FLOWER-Preis",
-  "vip.benefit.stellaDiscounts": "Stella FLOWER Rabatte",
   "reputation.seedling.deliveries": "1 BLUMEN-Lieferung pro Tag",
   "reputation.grower.description": "FLOWER zurückziehen",
   "reputation.grower.sfl": "2 BLUMENLIEFERUNGEN PRO TAG",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "Willkommen im Mega Bounty Board! Schauen Sie sich die Bounties dieser Woche an. Wenn ihr einen der angeforderten Gegenstände habt, könnt ihr zu Poppy auf dem Platz gehen, um ihn gegen Belohnungen einzutauschen!",
   "petalPuzzle.alreadyClaimed": "Bereits beansprucht",
   "petalPuzzle.comeBackTomorrow": "Sie haben den Preis heute schon beansprucht. Komm morgen wieder.",
-  "petalPuzzle.congratulations": "Herzlichen Glückwunsch, ihr habt alle das heutige Rätsel gelöst!"
+  "petalPuzzle.congratulations": "Herzlichen Glückwunsch, ihr habt alle das heutige Rätsel gelöst!",
+  "bounties.bonus.allCompleted": "Alle Bounties abgeschlossen!",
+  "bounties.bonus.headToPoppy": "Gehe zu Poppy, um deinen Bonus zu beanspruchen!",
+  "bounties.bonus.clickToClaim": "Bonus einfordern",
+  "bounties.bonus.getBonus": "Erhalte 50 {{seasonalTicket}} s Bonus, wenn du alle Bounties abschließt!",
+  "description.bronzeFoodBox": "Eine bronzene Lebensmittelbox",
+  "description.silverFoodBox": "Eine silberne Lebensmittelbox",
+  "description.goldFoodBox": "Eine goldene Lebensmittelbox",
+  "description.bronzeToolBox": "Ein bronzener Werkzeugkasten",
+  "description.silverToolBox": "Ein silberner Werkzeugkasten",
+  "description.goldToolBox": "Ein goldener Werkzeugkasten",
+  "description.testBox": "Eine Testbox",
+  "vip.benefit.stellaDiscounts": "Stella FLOWER Rabatte (50%)",
+  "vip.benefit.greatBloom": "Tolle Bloom VIP 2x FLOWER-Box-Prämien"
 }

@@ -5537,7 +5537,6 @@
   "marketplace.welcome.five": "Vende recursos y objetos para ganar $FLOWER.",
   "marketplace.quickswap.description": "Estás a punto de ser redirigido a Quickswap, un intercambio descentralizado e impulsado por la comunidad para comprar $FLOWER.",
   "marketplace.estimated.price": "*Precio estimado en USD/FLOWER",
-  "vip.benefit.stellaDiscounts": "Descuentos Stella FLOWER",
   "reputation.seedling.deliveries": "Entrega de 1 FLOR por día",
   "reputation.grower.description": "Retirar FLOWER",
   "reputation.grower.sfl": "2 entregas de FLORES por día",
@@ -5795,5 +5794,18 @@
   "megaBountyBoard.message": "¡Bienvenido al Mega Bounty Board! Echa un vistazo a las recompensas de esta semana. Si tenéis alguno de los objetos solicitados, ¡podéis ir a Poppy, en la plaza, para cambiarlos por recompensas!",
   "petalPuzzle.alreadyClaimed": "Ya reclamado",
   "petalPuzzle.comeBackTomorrow": "Ya has reclamado el premio hoy. Regresa mañana.",
-  "petalPuzzle.congratulations": "¡Enhorabuena, habéis resuelto el puzle de hoy!"
+  "petalPuzzle.congratulations": "¡Enhorabuena, habéis resuelto el puzle de hoy!",
+  "bounties.bonus.allCompleted": "¡Se han completado todas las recompensas!",
+  "bounties.bonus.headToPoppy": "¡Dirígete a Poppy para reclamar tu bonificación!",
+  "bounties.bonus.clickToClaim": "Reclamar bonificación",
+  "bounties.bonus.getBonus": "¡Consigue 50 {{seasonalTicket}} s de bonificación por completar todas las recompensas!",
+  "description.bronzeFoodBox": "Una caja de comida de bronce",
+  "description.silverFoodBox": "Una caja de comida plateada",
+  "description.goldFoodBox": "Una caja de comida dorada",
+  "description.bronzeToolBox": "Una caja de herramientas de bronce",
+  "description.silverToolBox": "Una caja de herramientas plateada",
+  "description.goldToolBox": "Una caja de herramientas dorada",
+  "description.testBox": "Una caja de prueba",
+  "vip.benefit.stellaDiscounts": "Descuentos en Stella FLOWER (50%)",
+  "vip.benefit.greatBloom": "2 cajas FLOWER Box VIP de Great Bloom"
 }

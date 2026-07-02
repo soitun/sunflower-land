@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "Vitesse de croissance des parcelles de culture multipliée par 2",
   "description.harvest.hourglass.boost.speed": "Vitesse de croissance des cultures multipliée par 1,35",
   "description.tortoiseShrine.buff.speed": "1,5 fois la vitesse de croissance des serres",
-  "description.greenhouse.glow.boost.speed": "Vitesse de croissance des pots de serre 1,25 fois"
+  "description.greenhouse.glow.boost.speed": "Vitesse de croissance des pots de serre 1,25 fois",
+  "description.saltwort": "Une plante robuste et saumâtre qui prospère pendant la Chapter Crop Week.",
+  "description.saltbite": "Une délicieuse friandise salée cuisinée pendant la Chapter Crop Week.",
+  "chapterCropWeek.title": "Chapitre Crop Week",
+  "chapterCropWeek.temporarilyTradeable": "Échangeable temporairement pendant la Chapter Crop Week",
+  "chapterCropWeek.vipOnlySell": "VIP est le seul à pouvoir vendre",
+  "crop.saltwort": "Saltwort",
+  "seed.saltwort": "Graine de Saltwort",
+  "food.saltbite": "Saltbite"
 }

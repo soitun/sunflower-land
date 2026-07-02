@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "2-fache Wachstumsgeschwindigkeit der Nutzfläche",
   "description.harvest.hourglass.boost.speed": "1,35-fache Wachstumsgeschwindigkeit der Pflanzen",
   "description.tortoiseShrine.buff.speed": "1,5-fache Wachstumsgeschwindigkeit des Gewächshauses",
-  "description.greenhouse.glow.boost.speed": "1,25-fache Wachstumsgeschwindigkeit von Gewächshaustopfen"
+  "description.greenhouse.glow.boost.speed": "1,25-fache Wachstumsgeschwindigkeit von Gewächshaustopfen",
+  "description.saltwort": "Eine robuste, salzige Pflanze, die während der Chapter Crop Week gedeiht.",
+  "description.saltbite": "Ein herzhafter Leckerbissen mit Salz, der während der Chapter Crop Week zubereitet wird.",
+  "chapterCropWeek.title": "Kapitel Erntewoche",
+  "chapterCropWeek.temporarilyTradeable": "Während der Chapter Crop Week vorübergehend handelbar",
+  "chapterCropWeek.vipOnlySell": "Nur VIP kann verkaufen",
+  "crop.saltwort": "Salzkraut",
+  "seed.saltwort": "Salzkrautsamen",
+  "food.saltbite": "Salzbiss"
 }

@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "2x Kecepatan Pertumbuhan Plot Tanaman",
   "description.harvest.hourglass.boost.speed": "1.35x Kecepatan Pertumbuhan Tanaman",
   "description.tortoiseShrine.buff.speed": "Kecepatan Pertumbuhan Rumah Kaca 1.5x",
-  "description.greenhouse.glow.boost.speed": "Kecepatan Pertumbuhan Pot Rumah Kaca 1,25x"
+  "description.greenhouse.glow.boost.speed": "Kecepatan Pertumbuhan Pot Rumah Kaca 1,25x",
+  "description.saltwort": "Tanaman yang kuat dan asin yang tumbuh subur selama Chapter Crop Week.",
+  "description.saltbite": "Camilan gurih yang diawetkan dengan garam yang dimasak selama Chapter Crop Week.",
+  "chapterCropWeek.title": "Bab Pekan Panen",
+  "chapterCropWeek.temporarilyTradeable": "Dapat diperdagangkan sementara selama Chapter Crop Week",
+  "chapterCropWeek.vipOnlySell": "VIP hanya bisa menjual",
+  "crop.saltwort": "Saltwort",
+  "seed.saltwort": "Benih Saltwort",
+  "food.saltbite": "Saltbite"
 }

@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "2x Mahsul Arsa Büyüme Hızı",
   "description.harvest.hourglass.boost.speed": "1.35x Mahsul Büyüme Hızı",
   "description.tortoiseShrine.buff.speed": "1.5x Sera Büyüme Hızı",
-  "description.greenhouse.glow.boost.speed": "1.25x Sera Saksı Büyüme Hızı"
+  "description.greenhouse.glow.boost.speed": "1.25x Sera Saksı Büyüme Hızı",
+  "description.saltwort": "Bölüm Mahsul Haftası sırasında gelişen dayanıklı, tuzlu bir mahsul.",
+  "description.saltbite": "Bölüm Mahsul Haftası sırasında pişirilen tuzlu tuzla kürlenmiş bir ikram.",
+  "chapterCropWeek.title": "Bölüm Mahsul Haftası",
+  "chapterCropWeek.temporarilyTradeable": "Bölüm Mahsul Haftası sırasında geçici olarak takas edilebilir",
+  "chapterCropWeek.vipOnlySell": "VIP sadece satabilir",
+  "crop.saltwort": "Tuz otu",
+  "seed.saltwort": "Tuz otu tohumu",
+  "food.saltbite": "Tuz bitkisi"
 }

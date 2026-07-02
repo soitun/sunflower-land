@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "2x Crop Plot Growth Speed",
   "description.harvest.hourglass.boost.speed": "1.35x Crop Growth Speed",
   "description.tortoiseShrine.buff.speed": "1.5x Greenhouse Growth Speed",
-  "description.greenhouse.glow.boost.speed": "1.25x Greenhouse Pot Growth Speed"
+  "description.greenhouse.glow.boost.speed": "1.25x Greenhouse Pot Growth Speed",
+  "description.saltwort": "A hardy, briny crop that thrives during Chapter Crop Week.",
+  "description.saltbite": "A savory salt-cured treat cooked during Chapter Crop Week.",
+  "chapterCropWeek.title": "Chapter Crop Week",
+  "chapterCropWeek.temporarilyTradeable": "Temporarily tradeable during Chapter Crop Week",
+  "chapterCropWeek.vipOnlySell": "VIP only can sell",
+  "crop.saltwort": "Saltwort",
+  "seed.saltwort": "Saltwort Seed",
+  "food.saltbite": "Saltbite"
 }

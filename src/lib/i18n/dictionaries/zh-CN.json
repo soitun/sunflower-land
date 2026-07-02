@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "作物地块生长速度的 2 倍",
   "description.harvest.hourglass.boost.speed": "1.35 倍作物生长速度",
   "description.tortoiseShrine.buff.speed": "1.5 倍温室生长速度",
-  "description.greenhouse.glow.boost.speed": "1.25 倍温室花盆生长速度"
+  "description.greenhouse.glow.boost.speed": "1.25 倍温室花盆生长速度",
+  "description.saltwort": "一种耐寒的海水作物，在 Chapter Crop Week 期间茁壮成长。",
+  "description.saltbite": "在 Chapter Crop Week 期间烹制的咸味盐腌零食。",
+  "chapterCropWeek.title": "章节作物周",
+  "chapterCropWeek.temporarilyTradeable": "在章节作物周期间暂时可交易",
+  "chapterCropWeek.vipOnlySell": "只有 VIP 才能出售",
+  "crop.saltwort": "Saltwort",
+  "seed.saltwort": "Saltwort Seed",
+  "food.saltbite": "Saltbite"
 }

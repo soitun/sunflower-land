@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "Velocidad de crecimiento de parcelas de cultivo 2 veces",
   "description.harvest.hourglass.boost.speed": "1,35 veces la velocidad de crecimiento de los cultivos",
   "description.tortoiseShrine.buff.speed": "1,5 veces la velocidad de crecimiento del invernadero",
-  "description.greenhouse.glow.boost.speed": "Velocidad de crecimiento de macetas de invernadero de 1,25 veces"
+  "description.greenhouse.glow.boost.speed": "Velocidad de crecimiento de macetas de invernadero de 1,25 veces",
+  "description.saltwort": "Una cosecha resistente y salada que prospera durante la Semana de la Cosecha Capitular.",
+  "description.saltbite": "Un sabroso manjar curado con sal cocinado durante la Semana de la Cosecha Capitular.",
+  "chapterCropWeek.title": "Capítulo Semana de la cosecha",
+  "chapterCropWeek.temporarilyTradeable": "Comercializable temporalmente durante la Semana de la Cosecha Capitular",
+  "chapterCropWeek.vipOnlySell": "Solo VIP puede vender",
+  "crop.saltwort": "Salitra",
+  "seed.saltwort": "Semilla de Saltwort",
+  "food.saltbite": "picadura de sal"
 }

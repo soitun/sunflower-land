@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "2x a velocidade de crescimento do lote de cultivo",
   "description.harvest.hourglass.boost.speed": "1,35x a velocidade de crescimento da safra",
   "description.tortoiseShrine.buff.speed": "1,5 vezes a velocidade de crescimento da estufa",
-  "description.greenhouse.glow.boost.speed": "1,25x Velocidade de crescimento do vaso de estufa"
+  "description.greenhouse.glow.boost.speed": "1,25x Velocidade de crescimento do vaso de estufa",
+  "description.saltwort": "Uma safra resistente e salgada que prospera durante a Chapter Crop Week.",
+  "description.saltbite": "Uma guloseima saborosa curada com sal preparada durante a Chapter Crop Week.",
+  "chapterCropWeek.title": "Capítulo Semana da Colheita",
+  "chapterCropWeek.temporarilyTradeable": "Temporariamente negociável durante a Semana da Colheita do Capítulo",
+  "chapterCropWeek.vipOnlySell": "VIP só pode vender",
+  "crop.saltwort": "Saltwort",
+  "seed.saltwort": "Semente de erva-sal",
+  "food.saltbite": "Saltbite"
 }

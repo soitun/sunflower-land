@@ -9170,5 +9170,13 @@
   "description.rapid.root.boost.speed": "Velocità di crescita del grafico delle colture raddoppiata",
   "description.harvest.hourglass.boost.speed": "Velocità di crescita delle colture 1,35x",
   "description.tortoiseShrine.buff.speed": "Velocità di crescita in serra 1,5x",
-  "description.greenhouse.glow.boost.speed": "Velocità di crescita dei vasi in serra 1,25x"
+  "description.greenhouse.glow.boost.speed": "Velocità di crescita dei vasi in serra 1,25x",
+  "description.saltwort": "Un raccolto resistente e salmastro che prospera durante la Chapter Crop Week.",
+  "description.saltbite": "Una gustosa delizia salata preparata durante la Chapter Crop Week.",
+  "chapterCropWeek.title": "Capitolo: Settimana del raccolto",
+  "chapterCropWeek.temporarilyTradeable": "Temporaneamente negoziabile durante la Chapter Crop Week",
+  "chapterCropWeek.vipOnlySell": "Solo i VIP possono vendere",
+  "crop.saltwort": "Salicornia",
+  "seed.saltwort": "Semi di salicornia",
+  "food.saltbite": "Bite salina"
 }

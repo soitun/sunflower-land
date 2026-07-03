@@ -4011,15 +4011,7 @@
   "description.chicken.coop.boost.two": "+5 初级鸡舍的容纳上限",
   "description.chicken.coop.boost.three": "鸡舍每次升级将获得 +5 最大容纳上限",
   "description.foreman.beaver.boost": "无需斧头即可砍树",
-  "description.time.warp.totem.boost.effectTime": "持续 2 小时",
-  "description.gourmet.hourglass.boost.effectTime": "持续 4 小时",
-  "description.harvest.hourglass.boost.effectTime": "持续 6 小时",
-  "description.timber.hourglass.boost.effectTime": "持续 4 小时",
-  "description.ore.hourglass.boost.effectTime": "持续 3 小时",
-  "description.orchard.hourglass.boost.effectTime": "持续 6 小时",
   "description.fishers.hourglass.boost": "增加 1 层 50% 几率 +1 条鱼的机会",
-  "description.fishers.hourglass.boost.effectTime": "持续 4 小时",
-  "description.blossom.hourglass.boost.effectTime": "持续 4 小时",
   "description.camel.boost": "挖宝/钻宝挖出沙子时，额外获得 +1 沙子",
   "bumpkinItemBuff.bumpkin.crown.boost.two": "+10% 徽记",
   "bumpkinItemBuff.goblin.crown.boost.two": "+10% 徽记",
@@ -9178,5 +9170,11 @@
   "chapterCropWeek.vipOnlySell": "只有 VIP 才能出售",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Saltwort Seed",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "购买鲜花",
+  "transaction.enterCustomAmount": "输入自定义金额",
+  "transaction.enterGemAmount": "输入介于 {{min}} 和 {{max}} 宝石之间的金额。",
+  "transaction.pricePerGem": "每颗宝石的价格",
+  "transaction.bulkDiscount": "你购买的宝石越多，它们得到的越便宜。",
+  "description.temp.buff.effectTime": "持续 {{time}} 小时"
 }

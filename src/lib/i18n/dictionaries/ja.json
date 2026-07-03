@@ -4011,15 +4011,7 @@
   "description.chicken.coop.boost.two": "+5 ベースチキン",
   "description.chicken.coop.boost.three": "鶏小屋アップグレード1個につき最大鶏数+5",
   "description.foreman.beaver.boost": "斧のないチョップツリー",
-  "description.time.warp.totem.boost.effectTime": "持続時間 2 時間",
-  "description.gourmet.hourglass.boost.effectTime": "4時間持続",
-  "description.harvest.hourglass.boost.effectTime": "6時間持続",
-  "description.timber.hourglass.boost.effectTime": "4時間持続",
-  "description.ore.hourglass.boost.effectTime": "3時間持続",
-  "description.orchard.hourglass.boost.effectTime": "6時間持続",
   "description.fishers.hourglass.boost": "50% の確率で+1フィッシュ獲得",
-  "description.fishers.hourglass.boost.effectTime": "4時間持続",
-  "description.blossom.hourglass.boost.effectTime": "4時間持続",
   "description.camel.boost": "+1 サンド",
   "bumpkinItemBuff.bumpkin.crown.boost.two": "+10% マークス",
   "bumpkinItemBuff.goblin.crown.boost.two": "+10% マークス",
@@ -9178,5 +9170,11 @@
   "chapterCropWeek.vipOnlySell": "VIPのみが販売できます",
   "crop.saltwort": "ソルトワート",
   "seed.saltwort": "ソルトワートシード",
-  "food.saltbite": "ソルトバイト"
+  "food.saltbite": "ソルトバイト",
+  "transaction.flowerPurchase": "フラワー購入",
+  "transaction.enterCustomAmount": "カスタム金額を入力",
+  "transaction.enterGemAmount": "{{min}} から {{max}} ジェムの間の金額を入力してください。",
+  "transaction.pricePerGem": "宝石1個あたりの価格",
+  "transaction.bulkDiscount": "購入する宝石が多ければ多いほど、安くなります。",
+  "description.temp.buff.effectTime": "{{time}} 時間持ちます"
 }

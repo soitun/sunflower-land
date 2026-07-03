@@ -32,6 +32,8 @@ import {
   type BumpkinItem,
 } from "features/game/types/bumpkin";
 import { ModalContext } from "features/game/components/modal/ModalProvider";
+import { Context } from "features/game/GameProvider";
+import { useVipAccess } from "lib/utils/hooks/useVipAccess";
 import { Modal } from "components/ui/Modal";
 import { CloseButtonPanel } from "features/game/components/CloseablePanel";
 import { NoticeboardItems } from "features/world/ui/kingdom/KingdomNoticeboard";
@@ -285,7 +287,14 @@ export const TradeableDescription: React.FC<{
   hideLimited?: boolean;
 }> = ({ display, tradeable, hideLimited }) => {
   const { t } = useAppTranslation();
+  const { gameService } = useContext(Context);
   const now = useNow();
+
+  // VIP players can trade items before their public trade date.
+  const hasVipAccess = useVipAccess({
+    game: gameService.getSnapshot().context.state,
+    type: "full",
+  });
 
   let tradeAt = undefined;
   let withdrawAt = undefined;
@@ -309,7 +318,8 @@ export const TradeableDescription: React.FC<{
     }
   }
 
-  const canTrade = !!tradeAt && tradeAt <= new Date(now);
+  // Item is tradeable once its trade date passes, or immediately for VIP players.
+  const canTrade = !!tradeAt && (tradeAt <= new Date(now) || hasVipAccess);
   const canWithdraw = !!withdrawAt && withdrawAt <= new Date(now);
 
   const isWearable = display.type === "wearables";

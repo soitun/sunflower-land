@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "{{min}} ile {{max}} mücevherler arasına bir miktar girin.",
   "transaction.pricePerGem": "Mücevher başına fiyat",
   "transaction.bulkDiscount": "Ne kadar çok mücevher satın alırsanız, o kadar ucuz olurlar.",
-  "description.temp.buff.effectTime": "{{time}} saat sürer"
+  "description.temp.buff.effectTime": "{{time}} saat sürer",
+  "announcement.flowerDiscountDaysLeft": "Bu oranda sadece {{days}} gün kaldı!"
 }

@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "Masukkan jumlah antara {{min}} dan {{max}} permata.",
   "transaction.pricePerGem": "Harga per permata",
   "transaction.bulkDiscount": "Semakin banyak permata yang Anda beli, semakin murah mereka mendapatkannya.",
-  "description.temp.buff.effectTime": "Berlangsung selama {{time}} jam"
+  "description.temp.buff.effectTime": "Berlangsung selama {{time}} jam",
+  "announcement.flowerDiscountDaysLeft": "Hanya {{days}} hari tersisa dengan tarif ini!"
 }

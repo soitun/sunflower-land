@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "Enter an amount between {{min}} and {{max}} gems.",
   "transaction.pricePerGem": "Price per gem",
   "transaction.bulkDiscount": "The more gems you buy, the cheaper they get.",
-  "description.temp.buff.effectTime": "Lasts for {{time}} hours"
+  "description.temp.buff.effectTime": "Lasts for {{time}} hours",
+  "announcement.flowerDiscountDaysLeft": "Only {{days}} days left at this rate!"
 }

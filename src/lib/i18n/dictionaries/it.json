@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "Inserisci un importo compreso tra {{min}} e {{max}} gemme.",
   "transaction.pricePerGem": "Prezzo per gemma",
   "transaction.bulkDiscount": "Più gemme compri, più economiche diventano.",
-  "description.temp.buff.effectTime": "Dura {{time}} ore"
+  "description.temp.buff.effectTime": "Dura {{time}} ore",
+  "announcement.flowerDiscountDaysLeft": "Rimangono solo {{days}} giorni a questa tariffa!"
 }

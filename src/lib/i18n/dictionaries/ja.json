@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "{{min}} から {{max}} ジェムの間の金額を入力してください。",
   "transaction.pricePerGem": "宝石1個あたりの価格",
   "transaction.bulkDiscount": "購入する宝石が多ければ多いほど、安くなります。",
-  "description.temp.buff.effectTime": "{{time}} 時間持ちます"
+  "description.temp.buff.effectTime": "{{time}} 時間持ちます",
+  "announcement.flowerDiscountDaysLeft": "このレートで残っているのは {{days}} 日だけ！"
 }

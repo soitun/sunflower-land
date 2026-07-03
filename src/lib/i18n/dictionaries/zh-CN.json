@@ -9176,5 +9176,6 @@
   "transaction.enterGemAmount": "输入介于 {{min}} 和 {{max}} 宝石之间的金额。",
   "transaction.pricePerGem": "每颗宝石的价格",
   "transaction.bulkDiscount": "你购买的宝石越多，它们得到的越便宜。",
-  "description.temp.buff.effectTime": "持续 {{time}} 小时"
+  "description.temp.buff.effectTime": "持续 {{time}} 小时",
+  "announcement.flowerDiscountDaysLeft": "按这个费率只剩 {{days}} 天！"
 }

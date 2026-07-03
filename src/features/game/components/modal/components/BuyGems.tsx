@@ -26,6 +26,7 @@ import flowerIcon from "assets/icons/flower_token.webp";
 import Decimal from "decimal.js-light";
 import { secondsToString } from "lib/utils/time";
 import { hasFeatureAccess } from "lib/flags";
+import { getFlowerGemPriceMultiplier } from "features/game/lib/flowerGemDiscount";
 
 export const STARTER_PACK = "STARTER_PACK" as const;
 export const STARTER_PACK_GEMS = 300;
@@ -62,9 +63,6 @@ const ANCHOR_BUNDLES = PRICES.filter(
 
 export const CUSTOM_GEMS_MIN = ANCHOR_BUNDLES[0].amount; // 100
 export const CUSTOM_GEMS_MAX = ANCHOR_BUNDLES[ANCHOR_BUNDLES.length - 1].amount; // whale pack size (200,000)
-
-/** FLOWER purchases receive a 30% discount on the USD price */
-const FLOWER_DISCOUNT = 0.7;
 
 /**
  * Anchor a custom gem amount to the nearest bundle at or below it and return the
@@ -149,7 +147,7 @@ export const BuyGems: React.FC<Props> = ({
     const flowerPrice =
       gameService.getSnapshot().context.prices.sfl?.usd ?? 0.0;
 
-    const flowerUSD = price.usd * 0.7;
+    const flowerUSD = price.usd * getFlowerGemPriceMultiplier();
 
     // 4 Decimal places
     const flowerQuote = new Decimal(flowerUSD / flowerPrice).toFixed(4);
@@ -211,7 +209,7 @@ export const BuyGems: React.FC<Props> = ({
             <p className="text-sm">{t("usd")}</p>
             <div className="flex items-center space-x-2">
               <span className="line-through">{`$${price.usd}`}</span>
-              <span>{`$${(price.usd * 0.7).toFixed(2)} x`}</span>
+              <span>{`$${flowerUSD.toFixed(2)} x`}</span>
               <img src={usdcIcon} className="w-6" />
             </div>
           </div>
@@ -255,7 +253,7 @@ export const BuyGems: React.FC<Props> = ({
 
     // Anchor down to the nearest bundle and apply the FLOWER discount
     const usd = inRange ? getCustomGemsUSD(amount) : 0;
-    const flowerUSD = usd * FLOWER_DISCOUNT;
+    const flowerUSD = usd * getFlowerGemPriceMultiplier();
     const usdPerGem = inRange ? flowerUSD / amount : 0;
     const flowerQuote =
       inRange && flowerPrice > 0

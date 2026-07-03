@@ -61,7 +61,7 @@ const ANCHOR_BUNDLES = PRICES.filter(
     typeof price.amount === "number",
 ).sort((a, b) => a.amount - b.amount);
 
-export const CUSTOM_GEMS_MIN = ANCHOR_BUNDLES[0].amount; // 100
+export const CUSTOM_GEMS_MIN = 10;
 export const CUSTOM_GEMS_MAX = ANCHOR_BUNDLES[ANCHOR_BUNDLES.length - 1].amount; // whale pack size (200,000)
 
 /**

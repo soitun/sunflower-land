@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "Price per gem",
   "transaction.bulkDiscount": "The more gems you buy, the cheaper they get.",
   "description.temp.buff.effectTime": "Lasts for {{time}} hours",
-  "announcement.flowerDiscountDaysLeft": "Only {{days}} days left at this rate!"
+  "announcement.flowerDiscountDaysLeft": "Only {{days}} days left at this rate!",
+  "description.stagShrine.buff.speed": "1.35x Oil Recovery Speed"
 }

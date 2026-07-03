@@ -4011,15 +4011,7 @@
   "description.chicken.coop.boost.two": "+5 galinhas básicas",
   "description.chicken.coop.boost.three": "+5 galinhas no máximo por upgrade de galinheiro",
   "description.foreman.beaver.boost": "Corte árvores sem machados",
-  "description.time.warp.totem.boost.effectTime": "Dura 2 horas",
-  "description.gourmet.hourglass.boost.effectTime": "Dura 4 horas",
-  "description.harvest.hourglass.boost.effectTime": "Dura 6 horas",
-  "description.timber.hourglass.boost.effectTime": "Dura 4 horas",
-  "description.ore.hourglass.boost.effectTime": "Dura 3 horas",
-  "description.orchard.hourglass.boost.effectTime": "Dura 6 horas",
   "description.fishers.hourglass.boost": "50% de chance de +1 peixe",
-  "description.fishers.hourglass.boost.effectTime": "Dura 4 horas",
-  "description.blossom.hourglass.boost.effectTime": "Dura 4 horas",
   "description.camel.boost": "+1 Areia",
   "bumpkinItemBuff.bumpkin.crown.boost.two": "+10% de marcas",
   "bumpkinItemBuff.goblin.crown.boost.two": "+10% de marcas",
@@ -9183,5 +9175,6 @@
   "transaction.enterCustomAmount": "Insira o valor personalizado",
   "transaction.enterGemAmount": "Insira um valor entre {{min}} e {{max}} gemas.",
   "transaction.pricePerGem": "Preço por gema",
-  "transaction.bulkDiscount": "Quanto mais gemas você compra, mais baratas elas ficam."
+  "transaction.bulkDiscount": "Quanto mais gemas você compra, mais baratas elas ficam.",
+  "description.temp.buff.effectTime": "Dura {{time}} horas"
 }

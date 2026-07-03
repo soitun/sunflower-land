@@ -4011,15 +4011,7 @@
   "description.chicken.coop.boost.two": "+5 poulets de base",
   "description.chicken.coop.boost.three": "+5 poulets maximum par poulailler amélioré",
   "description.foreman.beaver.boost": "Abattez des arbres sans hache",
-  "description.time.warp.totem.boost.effectTime": "Dure 2 heures",
-  "description.gourmet.hourglass.boost.effectTime": "Dure 4 heures",
-  "description.harvest.hourglass.boost.effectTime": "Dure 6 heures",
-  "description.timber.hourglass.boost.effectTime": "Dure 4 heures",
-  "description.ore.hourglass.boost.effectTime": "Dure 3 heures",
-  "description.orchard.hourglass.boost.effectTime": "Dure 6 heures",
   "description.fishers.hourglass.boost": "50 % de chances d'obtenir +1 poisson",
-  "description.fishers.hourglass.boost.effectTime": "Dure 4 heures",
-  "description.blossom.hourglass.boost.effectTime": "Dure 4 heures",
   "description.camel.boost": "+1 Sand",
   "bumpkinItemBuff.bumpkin.crown.boost.two": "+10 % de points",
   "bumpkinItemBuff.goblin.crown.boost.two": "+10 % de points",
@@ -9183,5 +9175,6 @@
   "transaction.enterCustomAmount": "Entrez le montant personnalisé",
   "transaction.enterGemAmount": "Entrez un montant compris entre {{min}} et {{max}} gemmes.",
   "transaction.pricePerGem": "Prix par gemme",
-  "transaction.bulkDiscount": "Plus vous achetez de pierres précieuses, moins elles sont chères."
+  "transaction.bulkDiscount": "Plus vous achetez de pierres précieuses, moins elles sont chères.",
+  "description.temp.buff.effectTime": "Durée de {{time}} heures"
 }

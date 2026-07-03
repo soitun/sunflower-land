@@ -4011,15 +4011,7 @@
   "description.chicken.coop.boost.two": "+5 Basishühner",
   "description.chicken.coop.boost.three": "+5 Hühner pro Upgrade im Hühnerstall",
   "description.foreman.beaver.boost": "Bäume ohne Äxte fällen",
-  "description.time.warp.totem.boost.effectTime": "Hält 2 Stunden an",
-  "description.gourmet.hourglass.boost.effectTime": "Hält 4 Stunden an",
-  "description.harvest.hourglass.boost.effectTime": "Hält 6 Stunden an",
-  "description.timber.hourglass.boost.effectTime": "Hält 4 Stunden an",
-  "description.ore.hourglass.boost.effectTime": "Hält 3 Stunden an",
-  "description.orchard.hourglass.boost.effectTime": "Hält 6 Stunden an",
   "description.fishers.hourglass.boost": "50% Chance auf +1 Fisch",
-  "description.fishers.hourglass.boost.effectTime": "Hält 4 Stunden an",
-  "description.blossom.hourglass.boost.effectTime": "Hält 4 Stunden an",
   "description.camel.boost": "+1 Sand",
   "bumpkinItemBuff.bumpkin.crown.boost.two": "+10% Punkte",
   "bumpkinItemBuff.goblin.crown.boost.two": "+10% Punkte",
@@ -9183,5 +9175,6 @@
   "transaction.enterCustomAmount": "Geben Sie einen benutzerdefinierten Betrag ein",
   "transaction.enterGemAmount": "Gib einen Betrag zwischen {{min}} und {{max}} Edelsteinen ein.",
   "transaction.pricePerGem": "Preis pro Edelstein",
-  "transaction.bulkDiscount": "Je mehr Edelsteine du kaufst, desto günstiger werden sie."
+  "transaction.bulkDiscount": "Je mehr Edelsteine du kaufst, desto günstiger werden sie.",
+  "description.temp.buff.effectTime": "Hält {{time}} Stunden an"
 }

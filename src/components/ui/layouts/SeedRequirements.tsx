@@ -169,7 +169,12 @@ export const SeedRequirements: React.FC<Props> = ({
   showBoosts,
 }) => {
   const { t } = useAppTranslation();
-  const now = useNow({ live: true, autoEndAt: details.to?.getTime() });
+  // Only tick live when a countdown is actually shown (Chapter Crop Week seed);
+  // otherwise the whole panel (incl. boosts) needlessly re-renders every second.
+  const now = useNow({
+    live: !!details.from,
+    autoEndAt: details.to?.getTime(),
+  });
   const { isActive: isPowerHourActive, remainingTime: powerHourRemainingTime } =
     useActiveBuff({
       buff: "Power hour",

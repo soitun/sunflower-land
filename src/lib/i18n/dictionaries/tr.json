@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIP sadece satabilir",
   "crop.saltwort": "Tuz otu",
   "seed.saltwort": "Tuz otu tohumu",
-  "food.saltbite": "Tuz bitkisi"
+  "food.saltbite": "Tuz bitkisi",
+  "transaction.flowerPurchase": "Çiçek alımı",
+  "transaction.enterCustomAmount": "Özel tutarı girin",
+  "transaction.enterGemAmount": "{{min}} ile {{max}} mücevherler arasına bir miktar girin.",
+  "transaction.pricePerGem": "Mücevher başına fiyat",
+  "transaction.bulkDiscount": "Ne kadar çok mücevher satın alırsanız, o kadar ucuz olurlar."
 }

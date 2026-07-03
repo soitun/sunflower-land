@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "Nur VIP kann verkaufen",
   "crop.saltwort": "Salzkraut",
   "seed.saltwort": "Salzkrautsamen",
-  "food.saltbite": "Salzbiss"
+  "food.saltbite": "Salzbiss",
+  "transaction.flowerPurchase": "Kauf von Blumen",
+  "transaction.enterCustomAmount": "Geben Sie einen benutzerdefinierten Betrag ein",
+  "transaction.enterGemAmount": "Gib einen Betrag zwischen {{min}} und {{max}} Edelsteinen ein.",
+  "transaction.pricePerGem": "Preis pro Edelstein",
+  "transaction.bulkDiscount": "Je mehr Edelsteine du kaufst, desto günstiger werden sie."
 }

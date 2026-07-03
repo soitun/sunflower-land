@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIP hanya bisa menjual",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Benih Saltwort",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "Pembelian bunga",
+  "transaction.enterCustomAmount": "Masukkan jumlah kustom",
+  "transaction.enterGemAmount": "Masukkan jumlah antara {{min}} dan {{max}} permata.",
+  "transaction.pricePerGem": "Harga per permata",
+  "transaction.bulkDiscount": "Semakin banyak permata yang Anda beli, semakin murah mereka mendapatkannya."
 }

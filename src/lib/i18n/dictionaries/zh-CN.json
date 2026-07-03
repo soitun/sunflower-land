@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "只有 VIP 才能出售",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Saltwort Seed",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "购买鲜花",
+  "transaction.enterCustomAmount": "输入自定义金额",
+  "transaction.enterGemAmount": "输入介于 {{min}} 和 {{max}} 宝石之间的金额。",
+  "transaction.pricePerGem": "每颗宝石的价格",
+  "transaction.bulkDiscount": "你购买的宝石越多，它们得到的越便宜。"
 }

@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIPのみが販売できます",
   "crop.saltwort": "ソルトワート",
   "seed.saltwort": "ソルトワートシード",
-  "food.saltbite": "ソルトバイト"
+  "food.saltbite": "ソルトバイト",
+  "transaction.flowerPurchase": "フラワー購入",
+  "transaction.enterCustomAmount": "カスタム金額を入力",
+  "transaction.enterGemAmount": "{{min}} から {{max}} ジェムの間の金額を入力してください。",
+  "transaction.pricePerGem": "宝石1個あたりの価格",
+  "transaction.bulkDiscount": "購入する宝石が多ければ多いほど、安くなります。"
 }

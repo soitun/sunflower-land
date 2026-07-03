@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "Solo i VIP possono vendere",
   "crop.saltwort": "Salicornia",
   "seed.saltwort": "Semi di salicornia",
-  "food.saltbite": "Bite salina"
+  "food.saltbite": "Bite salina",
+  "transaction.flowerPurchase": "Acquisto di fiori",
+  "transaction.enterCustomAmount": "Inserisci un importo personalizzato",
+  "transaction.enterGemAmount": "Inserisci un importo compreso tra {{min}} e {{max}} gemme.",
+  "transaction.pricePerGem": "Prezzo per gemma",
+  "transaction.bulkDiscount": "Più gemme compri, più economiche diventano."
 }

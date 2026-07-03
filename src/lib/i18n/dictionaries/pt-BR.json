@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIP só pode vender",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Semente de erva-sal",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "Compra de flores",
+  "transaction.enterCustomAmount": "Insira o valor personalizado",
+  "transaction.enterGemAmount": "Insira um valor entre {{min}} e {{max}} gemas.",
+  "transaction.pricePerGem": "Preço por gema",
+  "transaction.bulkDiscount": "Quanto mais gemas você compra, mais baratas elas ficam."
 }

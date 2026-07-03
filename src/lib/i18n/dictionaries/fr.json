@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIP est le seul à pouvoir vendre",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Graine de Saltwort",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "Achat de fleurs",
+  "transaction.enterCustomAmount": "Entrez le montant personnalisé",
+  "transaction.enterGemAmount": "Entrez un montant compris entre {{min}} et {{max}} gemmes.",
+  "transaction.pricePerGem": "Prix par gemme",
+  "transaction.bulkDiscount": "Plus vous achetez de pierres précieuses, moins elles sont chères."
 }

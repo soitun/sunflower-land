@@ -9178,5 +9178,10 @@
   "chapterCropWeek.vipOnlySell": "VIP only can sell",
   "crop.saltwort": "Saltwort",
   "seed.saltwort": "Saltwort Seed",
-  "food.saltbite": "Saltbite"
+  "food.saltbite": "Saltbite",
+  "transaction.flowerPurchase": "Flower purchase",
+  "transaction.enterCustomAmount": "Enter custom amount",
+  "transaction.enterGemAmount": "Enter an amount between {{min}} and {{max}} gems.",
+  "transaction.pricePerGem": "Price per gem",
+  "transaction.bulkDiscount": "The more gems you buy, the cheaper they get."
 }

@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "Plus vous achetez de pierres précieuses, moins elles sont chères.",
   "description.temp.buff.effectTime": "Durée de {{time}} heures",
   "announcement.flowerDiscountDaysLeft": "Il ne reste que {{days}} jours à ce tarif !",
-  "description.stagShrine.buff.speed": "Vitesse de récupération de l'huile 1,35x"
+  "description.stagShrine.buff.speed": "Vitesse de récupération de l'huile 1,35x",
+  "transaction.cheaperToBuyMore.detail": "Obtenez {{amount}} gemmes pour un prix inférieur à celui que vous paieriez actuellement !",
+  "transaction.nextPackDiscount": "Achetez des gemmes {{amount}} et bénéficiez d'une réduction de {{discount}} % !",
+  "transaction.upgradePack": "Pack de mise à niveau"
 }

@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "The more gems you buy, the cheaper they get.",
   "description.temp.buff.effectTime": "Lasts for {{time}} hours",
   "announcement.flowerDiscountDaysLeft": "Only {{days}} days left at this rate!",
-  "description.stagShrine.buff.speed": "1.35x Oil Recovery Speed"
+  "description.stagShrine.buff.speed": "1.35x Oil Recovery Speed",
+  "transaction.cheaperToBuyMore.detail": "Grab {{amount}} gems for less than you'd pay now!",
+  "transaction.nextPackDiscount": "Buy {{amount}} gems for a {{discount}}% discount!",
+  "transaction.upgradePack": "Upgrade pack"
 }

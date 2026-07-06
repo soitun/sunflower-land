@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "購入する宝石が多ければ多いほど、安くなります。",
   "description.temp.buff.effectTime": "{{time}} 時間持ちます",
   "announcement.flowerDiscountDaysLeft": "このレートで残っているのは {{days}} 日だけ！",
-  "description.stagShrine.buff.speed": "1.35倍のオイル回収速度"
+  "description.stagShrine.buff.speed": "1.35倍のオイル回収速度",
+  "transaction.cheaperToBuyMore.detail": "今払うよりも安い価格で {{amount}} 個の宝石を手に入れよう！",
+  "transaction.nextPackDiscount": "{{amount}} 個のジェムを購入して {{discount}}% 割引を受けましょう！",
+  "transaction.upgradePack": "アップグレードパック"
 }

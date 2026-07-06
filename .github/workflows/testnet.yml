@@ -42,7 +42,7 @@ jobs:
         run: yarn install
 
       - name: Build
-        run: yarn build --base=/testnet/
+        run: yarn build --base=/testnet/ --outDir dist/testnet
         env:
           NODE_OPTIONS: --max-old-space-size=6144
           CI: false
@@ -117,7 +117,7 @@ jobs:
 
       - name: Write version metadata
         run: |
-          cat <<EOF > dist/version.json
+          cat <<EOF > dist/testnet/version.json
           {
             "releaseVersion": "${{ steps.get_version.outputs.VERSION }}",
             "clientVersion": "${{ steps.date.outputs.date }}"

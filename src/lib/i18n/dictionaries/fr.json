@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "Vitesse de récupération de l'huile 1,35x",
   "transaction.cheaperToBuyMore.detail": "Obtenez {{amount}} gemmes pour un prix inférieur à celui que vous paieriez actuellement !",
   "transaction.nextPackDiscount": "Achetez des gemmes {{amount}} et bénéficiez d'une réduction de {{discount}} % !",
-  "transaction.upgradePack": "Pack de mise à niveau"
+  "transaction.upgradePack": "Pack de mise à niveau",
+  "chapterCropWeek.specialEvent": "Événement spécial",
+  "chapterCropWeek.specialEventCrop": "Événement spécial Crop",
+  "chapterCropWeek.specialEventRecipe": "Recette pour un événement spécial",
+  "chapterCropWeek.daysRemaining": "{{days}} jours restants",
+  "chapterCropWeek.comingSoon": "Cet objet sera échangeable pendant la Chapter Crop Week. Revenez bientôt !"
 }

@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "1.35x Yağ Geri Kazanım Hızı",
   "transaction.cheaperToBuyMore.detail": "Şimdi ödeyeceğinizden daha ucuza {{amount}} mücevherleri alın!",
   "transaction.nextPackDiscount": "{{discount}} %indirim için {{amount}} mücevherleri satın alın!",
-  "transaction.upgradePack": "Yükseltme paketi"
+  "transaction.upgradePack": "Yükseltme paketi",
+  "chapterCropWeek.specialEvent": "Özel Etkinlik",
+  "chapterCropWeek.specialEventCrop": "Özel Etkinlik Kırpımı",
+  "chapterCropWeek.specialEventRecipe": "Özel Etkinlik Tarifi",
+  "chapterCropWeek.daysRemaining": "{{days}} kalan gün",
+  "chapterCropWeek.comingSoon": "Bu öğe Bölüm Mahsul Haftası sırasında takas edilebilir. Yakında tekrar kontrol edin!"
 }

@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "1.35x Oil Recovery Speed",
   "transaction.cheaperToBuyMore.detail": "Grab {{amount}} gems for less than you'd pay now!",
   "transaction.nextPackDiscount": "Buy {{amount}} gems for a {{discount}}% discount!",
-  "transaction.upgradePack": "Upgrade pack"
+  "transaction.upgradePack": "Upgrade pack",
+  "chapterCropWeek.specialEvent": "Special Event",
+  "chapterCropWeek.specialEventCrop": "Special Event Crop",
+  "chapterCropWeek.specialEventRecipe": "Special Event Recipe",
+  "chapterCropWeek.daysRemaining": "{{days}} days remaining",
+  "chapterCropWeek.comingSoon": "This item will be tradeable during Chapter Crop Week. Check back soon!"
 }

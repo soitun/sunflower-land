@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "Kecepatan Pemulihan Minyak 1.35x",
   "transaction.cheaperToBuyMore.detail": "Ambil {{amount}} permata dengan harga kurang dari yang Anda bayarkan sekarang!",
   "transaction.nextPackDiscount": "Beli permata {{amount}} untuk diskon {{discount}}%!",
-  "transaction.upgradePack": "Paket upgrade"
+  "transaction.upgradePack": "Paket upgrade",
+  "chapterCropWeek.specialEvent": "Acara Khusus",
+  "chapterCropWeek.specialEventCrop": "Tanaman Acara Khusus",
+  "chapterCropWeek.specialEventRecipe": "Resep Acara Khusus",
+  "chapterCropWeek.daysRemaining": "{{days}} hari tersisa",
+  "chapterCropWeek.comingSoon": "Item ini akan dapat diperdagangkan selama Chapter Crop Week. Periksa kembali segera!"
 }

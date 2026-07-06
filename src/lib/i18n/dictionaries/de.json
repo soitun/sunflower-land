@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "1,35-fache Geschwindigkeit der Ölrückgewinnung",
   "transaction.cheaperToBuyMore.detail": "Schnapp dir {{amount}} Edelsteine für weniger, als du jetzt bezahlen würdest!",
   "transaction.nextPackDiscount": "Kaufe {{amount}} Edelsteine für einen {{discount}}% Rabatt!",
-  "transaction.upgradePack": "Upgrade-Paket"
+  "transaction.upgradePack": "Upgrade-Paket",
+  "chapterCropWeek.specialEvent": "Spezielles Ereignis",
+  "chapterCropWeek.specialEventCrop": "Ernte für besondere Anlässe",
+  "chapterCropWeek.specialEventRecipe": "Rezept für eine besondere Veranstaltung",
+  "chapterCropWeek.daysRemaining": "{{days}} verbleibende Tage",
+  "chapterCropWeek.comingSoon": "Dieser Gegenstand wird während der Chapter Crop Week handelbar sein. Schau bald wieder vorbei!"
 }

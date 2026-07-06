@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "1.35 倍机油回收速度",
   "transaction.cheaperToBuyMore.detail": "以低于你现在支付的价格获得 {{amount}} 宝石！",
   "transaction.nextPackDiscount": "购买 {{amount}} 宝石可获得 {{discount}}% 的折扣！",
-  "transaction.upgradePack": "升级包"
+  "transaction.upgradePack": "升级包",
+  "chapterCropWeek.specialEvent": "特别活动",
+  "chapterCropWeek.specialEventCrop": "特别活动作物",
+  "chapterCropWeek.specialEventRecipe": "特别活动食谱",
+  "chapterCropWeek.daysRemaining": "{{days}} 天数剩余",
+  "chapterCropWeek.comingSoon": "该物品可在章节作物周期间进行交易。稍后再回来看看！"
 }

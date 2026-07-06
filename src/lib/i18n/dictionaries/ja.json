@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "1.35倍のオイル回収速度",
   "transaction.cheaperToBuyMore.detail": "今払うよりも安い価格で {{amount}} 個の宝石を手に入れよう！",
   "transaction.nextPackDiscount": "{{amount}} 個のジェムを購入して {{discount}}% 割引を受けましょう！",
-  "transaction.upgradePack": "アップグレードパック"
+  "transaction.upgradePack": "アップグレードパック",
+  "chapterCropWeek.specialEvent": "スペシャルイベント",
+  "chapterCropWeek.specialEventCrop": "スペシャルイベントクロップ",
+  "chapterCropWeek.specialEventRecipe": "スペシャルイベントレシピ",
+  "chapterCropWeek.daysRemaining": "残り {{days}} 日",
+  "chapterCropWeek.comingSoon": "このアイテムはチャプタークロップウィーク中にトレード可能になります。すぐにもう一度チェックしてください！"
 }

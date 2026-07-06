@@ -9181,5 +9181,10 @@
   "description.stagShrine.buff.speed": "Velocità di recupero dell'olio 1,35x",
   "transaction.cheaperToBuyMore.detail": "Ottieni {{amount}} gemme a un prezzo inferiore a quello che pagheresti ora!",
   "transaction.nextPackDiscount": "Acquista gemme {{amount}} con uno sconto del {{discount}}%!",
-  "transaction.upgradePack": "Pacchetto di aggiornamento"
+  "transaction.upgradePack": "Pacchetto di aggiornamento",
+  "chapterCropWeek.specialEvent": "Evento speciale",
+  "chapterCropWeek.specialEventCrop": "Crop per eventi speciali",
+  "chapterCropWeek.specialEventRecipe": "Ricetta per eventi speciali",
+  "chapterCropWeek.daysRemaining": "{{days}} giorni rimanenti",
+  "chapterCropWeek.comingSoon": "Questo oggetto sarà scambiabile durante la Chapter Crop Week. Torna presto!"
 }

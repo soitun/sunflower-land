@@ -146,6 +146,7 @@ export const BuyGems: React.FC<Props> = ({
   const [showFlowerConfirm, setShowFlowerConfirm] = useState(false);
   const [showCustom, setShowCustom] = useState(false);
   const [customAmount, setCustomAmount] = useState(0);
+  const [showUpgradePrompt, setShowUpgradePrompt] = useState(false);
   const { t } = useAppTranslation();
 
   useEffect(() => {
@@ -305,7 +306,43 @@ export const BuyGems: React.FC<Props> = ({
     const resetCustom = () => {
       setShowCustom(false);
       setCustomAmount(0);
+      setShowUpgradePrompt(false);
     };
+
+    // Intercept "Confirm" when buying the next pack whole is strictly cheaper —
+    // prompt them to upgrade instead of paying more for fewer gems.
+    if (showUpgradePrompt && nextBundle) {
+      return (
+        <>
+          <div className="flex items-center mr-2">
+            <div className="py-2">
+              <img
+                src={SUNNYSIDE.icons.arrow_left}
+                className="h-6 w-6 ml-2 cursor-pointer"
+                onClick={() => setShowUpgradePrompt(false)}
+              />
+            </div>
+            <Label icon={levelUpIcon} type="vibrant" className="ml-2">
+              {t("transaction.upgradePack")}
+            </Label>
+          </div>
+          <div className="flex flex-col items-center p-2 text-center">
+            <img src={ITEM_DETAILS.Gem.image} className="w-12 my-2" />
+            <p className="text-sm mb-1">
+              {t("transaction.upgradePrompt", { amount: nextBundle.amount })}
+            </p>
+          </div>
+          <Button
+            onClick={() => {
+              setCustomAmount(nextBundle.amount);
+              setShowUpgradePrompt(false);
+            }}
+          >
+            {t("transaction.upgradePack")}
+          </Button>
+        </>
+      );
+    }
 
     return (
       <>
@@ -382,23 +419,10 @@ export const BuyGems: React.FC<Props> = ({
             </div>
           </div>
 
-          {nextBundle && isCheaperToBuyMore ? (
-            // Buying the next pack whole is strictly cheaper — offer the upgrade.
-            <ButtonPanel
-              onClick={() => setCustomAmount(nextBundle.amount)}
-              className="w-full mt-2 relative cursor-pointer hover:bg-brown-300 flex items-center"
-            >
-              <SquareIcon icon={levelUpIcon} width={10} />
-              <div className="ml-2 flex flex-col">
-                <span className="text-sm">{t("transaction.upgradePack")}</span>
-                <span className="text-xxs">
-                  {t("transaction.cheaperToBuyMore.detail", {
-                    amount: nextBundle.amount,
-                  })}
-                </span>
-              </div>
-            </ButtonPanel>
-          ) : nextBundle && nextBundleDiscount > 0 && isNearNextBundle ? (
+          {nextBundle &&
+          !isCheaperToBuyMore &&
+          nextBundleDiscount > 0 &&
+          isNearNextBundle ? (
             // Next pack isn't cheaper overall, but has a better per-gem rate.
             <p className="text-xxs italic mt-2">
               {t("transaction.nextPackDiscount", {
@@ -415,7 +439,14 @@ export const BuyGems: React.FC<Props> = ({
 
         <Button
           disabled={!canConfirm}
-          onClick={() => onFlowerBuy(Number(flowerQuote), amount)}
+          onClick={() => {
+            // If the next pack is strictly cheaper, nudge them to upgrade first.
+            if (nextBundle && isCheaperToBuyMore) {
+              setShowUpgradePrompt(true);
+            } else {
+              onFlowerBuy(Number(flowerQuote), amount);
+            }
+          }}
           className="relative mt-0"
         >
           {inRange && flowerPrice > 0 && !hasFlower && (

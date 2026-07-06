@@ -7062,6 +7062,7 @@
   "transaction.cheaperToBuyMore.detail": "Grab {{amount}} gems for less than you'd pay now!",
   "transaction.nextPackDiscount": "Buy {{amount}} gems for a {{discount}}% discount!",
   "transaction.upgradePack": "Upgrade pack",
+  "transaction.upgradePrompt": "For the same price you could grab the {{amount}} gem pack and get even more gems!",
   "deposit.flower.guide": "To deposit, switch to the {{network}} network in your personal wallet and send FLOWER to the address shown below.",
   "flower.launch.one": "$FLOWER ERC20 is live on BASE",
   "flower.launch.two": "Deposits are enabled",

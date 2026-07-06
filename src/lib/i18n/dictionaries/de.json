@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "Je mehr Edelsteine du kaufst, desto günstiger werden sie.",
   "description.temp.buff.effectTime": "Hält {{time}} Stunden an",
   "announcement.flowerDiscountDaysLeft": "Zu diesem Tarif sind nur noch {{days}} Tage übrig!",
-  "description.stagShrine.buff.speed": "1,35-fache Geschwindigkeit der Ölrückgewinnung"
+  "description.stagShrine.buff.speed": "1,35-fache Geschwindigkeit der Ölrückgewinnung",
+  "transaction.cheaperToBuyMore.detail": "Schnapp dir {{amount}} Edelsteine für weniger, als du jetzt bezahlen würdest!",
+  "transaction.nextPackDiscount": "Kaufe {{amount}} Edelsteine für einen {{discount}}% Rabatt!",
+  "transaction.upgradePack": "Upgrade-Paket"
 }

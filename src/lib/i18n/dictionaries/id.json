@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "Semakin banyak permata yang Anda beli, semakin murah mereka mendapatkannya.",
   "description.temp.buff.effectTime": "Berlangsung selama {{time}} jam",
   "announcement.flowerDiscountDaysLeft": "Hanya {{days}} hari tersisa dengan tarif ini!",
-  "description.stagShrine.buff.speed": "Kecepatan Pemulihan Minyak 1.35x"
+  "description.stagShrine.buff.speed": "Kecepatan Pemulihan Minyak 1.35x",
+  "transaction.cheaperToBuyMore.detail": "Ambil {{amount}} permata dengan harga kurang dari yang Anda bayarkan sekarang!",
+  "transaction.nextPackDiscount": "Beli permata {{amount}} untuk diskon {{discount}}%!",
+  "transaction.upgradePack": "Paket upgrade"
 }

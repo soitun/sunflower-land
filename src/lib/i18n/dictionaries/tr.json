@@ -9178,5 +9178,8 @@
   "transaction.bulkDiscount": "Ne kadar çok mücevher satın alırsanız, o kadar ucuz olurlar.",
   "description.temp.buff.effectTime": "{{time}} saat sürer",
   "announcement.flowerDiscountDaysLeft": "Bu oranda sadece {{days}} gün kaldı!",
-  "description.stagShrine.buff.speed": "1.35x Yağ Geri Kazanım Hızı"
+  "description.stagShrine.buff.speed": "1.35x Yağ Geri Kazanım Hızı",
+  "transaction.cheaperToBuyMore.detail": "Şimdi ödeyeceğinizden daha ucuza {{amount}} mücevherleri alın!",
+  "transaction.nextPackDiscount": "{{discount}} %indirim için {{amount}} mücevherleri satın alın!",
+  "transaction.upgradePack": "Yükseltme paketi"
 }

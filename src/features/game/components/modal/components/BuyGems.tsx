@@ -23,6 +23,7 @@ import { useSelector } from "@xstate/react";
 import type { MachineState } from "features/game/lib/gameMachine";
 import { ITEM_DETAILS } from "features/game/types/images";
 import flowerIcon from "assets/icons/flower_token.webp";
+import levelUpIcon from "assets/icons/level_up.png";
 import Decimal from "decimal.js-light";
 import { secondsToString } from "lib/utils/time";
 import { hasFeatureAccess } from "lib/flags";
@@ -64,15 +65,27 @@ const ANCHOR_BUNDLES = PRICES.filter(
 export const CUSTOM_GEMS_MIN = 10;
 export const CUSTOM_GEMS_MAX = ANCHOR_BUNDLES[ANCHOR_BUNDLES.length - 1].amount; // whale pack size (200,000)
 
+/** Largest bundle whose amount is at or below `amount` (the pricing anchor). */
+function getAnchorBundle(amount: number): Price & { amount: number } {
+  return (
+    [...ANCHOR_BUNDLES].reverse().find((bundle) => bundle.amount <= amount) ??
+    ANCHOR_BUNDLES[0]
+  );
+}
+
+/** Smallest bundle strictly larger than `amount`, or undefined if none. */
+function getNextBundle(
+  amount: number,
+): (Price & { amount: number }) | undefined {
+  return ANCHOR_BUNDLES.find((bundle) => bundle.amount > amount);
+}
+
 /**
  * Anchor a custom gem amount to the nearest bundle at or below it and return the
  * full (pre-discount) USD price, using that bundle's per-gem rate.
  */
 export function getCustomGemsUSD(amount: number): number {
-  const anchor =
-    [...ANCHOR_BUNDLES].reverse().find((bundle) => bundle.amount <= amount) ??
-    ANCHOR_BUNDLES[0];
-
+  const anchor = getAnchorBundle(amount);
   const usdPerGem = anchor.usd / anchor.amount;
   return amount * usdPerGem;
 }
@@ -266,6 +279,29 @@ export const BuyGems: React.FC<Props> = ({
 
     const canConfirm = inRange && flowerPrice > 0 && hasFlower;
 
+    // Nudge the player towards the next bundle. The FLOWER discount is a flat
+    // multiplier, so we compare pre-discount USD (the inequality is identical).
+    const anchorBundle = inRange ? getAnchorBundle(amount) : undefined;
+    const nextBundle = inRange ? getNextBundle(amount) : undefined;
+    // Buying the next bundle whole is strictly cheaper AND gives more gems.
+    const isCheaperToBuyMore = !!nextBundle && usd > nextBundle.usd;
+    // Otherwise, how much cheaper per-gem the next bundle is (soft upsell).
+    const nextBundleDiscount =
+      nextBundle && amount > 0
+        ? Math.round(
+            (1 - nextBundle.usd / nextBundle.amount / (usd / amount)) * 100,
+          )
+        : 0;
+    // Only surface the discount upsell once they're in the top 20% of the
+    // current tier (i.e. close to the next bundle).
+    const isNearNextBundle =
+      !!anchorBundle &&
+      !!nextBundle &&
+      nextBundle.amount > anchorBundle.amount &&
+      (amount - anchorBundle.amount) /
+        (nextBundle.amount - anchorBundle.amount) >=
+        0.8;
+
     const resetCustom = () => {
       setShowCustom(false);
       setCustomAmount(0);
@@ -346,9 +382,35 @@ export const BuyGems: React.FC<Props> = ({
             </div>
           </div>
 
-          <p className="text-xxs italic mt-2">
-            {t("transaction.bulkDiscount")}
-          </p>
+          {nextBundle && isCheaperToBuyMore ? (
+            // Buying the next pack whole is strictly cheaper — offer the upgrade.
+            <ButtonPanel
+              onClick={() => setCustomAmount(nextBundle.amount)}
+              className="w-full mt-2 relative cursor-pointer hover:bg-brown-300 flex items-center"
+            >
+              <SquareIcon icon={levelUpIcon} width={10} />
+              <div className="ml-2 flex flex-col">
+                <span className="text-sm">{t("transaction.upgradePack")}</span>
+                <span className="text-xxs">
+                  {t("transaction.cheaperToBuyMore.detail", {
+                    amount: nextBundle.amount,
+                  })}
+                </span>
+              </div>
+            </ButtonPanel>
+          ) : nextBundle && nextBundleDiscount > 0 && isNearNextBundle ? (
+            // Next pack isn't cheaper overall, but has a better per-gem rate.
+            <p className="text-xxs italic mt-2">
+              {t("transaction.nextPackDiscount", {
+                amount: nextBundle.amount,
+                discount: nextBundleDiscount,
+              })}
+            </p>
+          ) : (
+            <p className="text-xxs italic mt-2">
+              {t("transaction.bulkDiscount")}
+            </p>
+          )}
         </div>
 
         <Button

@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "Crop per eventi speciali",
   "chapterCropWeek.specialEventRecipe": "Ricetta per eventi speciali",
   "chapterCropWeek.daysRemaining": "{{days}} giorni rimanenti",
-  "chapterCropWeek.comingSoon": "Questo oggetto sarà scambiabile durante la Chapter Crop Week. Torna presto!"
+  "chapterCropWeek.comingSoon": "Questo oggetto sarà scambiabile durante la Chapter Crop Week. Torna presto!",
+  "transaction.upgradePrompt": "Allo stesso prezzo potresti prendere il pacchetto di gemme {{amount}} e ottenere ancora più gemme!"
 }

@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "スペシャルイベントクロップ",
   "chapterCropWeek.specialEventRecipe": "スペシャルイベントレシピ",
   "chapterCropWeek.daysRemaining": "残り {{days}} 日",
-  "chapterCropWeek.comingSoon": "このアイテムはチャプタークロップウィーク中にトレード可能になります。すぐにもう一度チェックしてください！"
+  "chapterCropWeek.comingSoon": "このアイテムはチャプタークロップウィーク中にトレード可能になります。すぐにもう一度チェックしてください！",
+  "transaction.upgradePrompt": "同じ価格で {{amount}} ジェムパックを手に入れると、さらに多くのジェムを手に入れることができます！"
 }

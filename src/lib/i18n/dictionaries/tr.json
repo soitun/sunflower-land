@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "Özel Etkinlik Kırpımı",
   "chapterCropWeek.specialEventRecipe": "Özel Etkinlik Tarifi",
   "chapterCropWeek.daysRemaining": "{{days}} kalan gün",
-  "chapterCropWeek.comingSoon": "Bu öğe Bölüm Mahsul Haftası sırasında takas edilebilir. Yakında tekrar kontrol edin!"
+  "chapterCropWeek.comingSoon": "Bu öğe Bölüm Mahsul Haftası sırasında takas edilebilir. Yakında tekrar kontrol edin!",
+  "transaction.upgradePrompt": "Aynı fiyata {{amount}} mücevher paketini alabilir ve daha da fazla mücevher alabilirsiniz!"
 }

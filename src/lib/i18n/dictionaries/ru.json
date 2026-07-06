@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "Special Event Crop",
   "chapterCropWeek.specialEventRecipe": "Special Event Recipe",
   "chapterCropWeek.daysRemaining": "{{days}} days remaining",
-  "chapterCropWeek.comingSoon": "This item will be tradeable during Chapter Crop Week. Check back soon!"
+  "chapterCropWeek.comingSoon": "This item will be tradeable during Chapter Crop Week. Check back soon!",
+  "transaction.upgradePrompt": "For the same price you could grab the {{amount}} gem pack and get even more gems!"
 }

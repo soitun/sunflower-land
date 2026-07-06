@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "特别活动作物",
   "chapterCropWeek.specialEventRecipe": "特别活动食谱",
   "chapterCropWeek.daysRemaining": "{{days}} 天数剩余",
-  "chapterCropWeek.comingSoon": "该物品可在章节作物周期间进行交易。稍后再回来看看！"
+  "chapterCropWeek.comingSoon": "该物品可在章节作物周期间进行交易。稍后再回来看看！",
+  "transaction.upgradePrompt": "以同样的价格你可以获得 {{amount}} 宝石包并获得更多宝石！"
 }

@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "Ernte für besondere Anlässe",
   "chapterCropWeek.specialEventRecipe": "Rezept für eine besondere Veranstaltung",
   "chapterCropWeek.daysRemaining": "{{days}} verbleibende Tage",
-  "chapterCropWeek.comingSoon": "Dieser Gegenstand wird während der Chapter Crop Week handelbar sein. Schau bald wieder vorbei!"
+  "chapterCropWeek.comingSoon": "Dieser Gegenstand wird während der Chapter Crop Week handelbar sein. Schau bald wieder vorbei!",
+  "transaction.upgradePrompt": "Für den gleichen Preis könntest du dir das Edelsteinpaket {{amount}} schnappen und noch mehr Edelsteine erhalten!"
 }

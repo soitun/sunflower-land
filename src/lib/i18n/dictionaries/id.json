@@ -9186,5 +9186,6 @@
   "chapterCropWeek.specialEventCrop": "Tanaman Acara Khusus",
   "chapterCropWeek.specialEventRecipe": "Resep Acara Khusus",
   "chapterCropWeek.daysRemaining": "{{days}} hari tersisa",
-  "chapterCropWeek.comingSoon": "Item ini akan dapat diperdagangkan selama Chapter Crop Week. Periksa kembali segera!"
+  "chapterCropWeek.comingSoon": "Item ini akan dapat diperdagangkan selama Chapter Crop Week. Periksa kembali segera!",
+  "transaction.upgradePrompt": "Untuk harga yang sama, Anda bisa mengambil paket permata {{amount}} dan mendapatkan lebih banyak permata!"
 }

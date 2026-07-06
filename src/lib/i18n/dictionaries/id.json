@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "Harga per permata",
   "transaction.bulkDiscount": "Semakin banyak permata yang Anda beli, semakin murah mereka mendapatkannya.",
   "description.temp.buff.effectTime": "Berlangsung selama {{time}} jam",
-  "announcement.flowerDiscountDaysLeft": "Hanya {{days}} hari tersisa dengan tarif ini!"
+  "announcement.flowerDiscountDaysLeft": "Hanya {{days}} hari tersisa dengan tarif ini!",
+  "description.stagShrine.buff.speed": "Kecepatan Pemulihan Minyak 1.35x"
 }

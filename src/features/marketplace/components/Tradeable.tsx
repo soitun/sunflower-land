@@ -26,6 +26,8 @@ import { MyOffers } from "./profile/MyOffers";
 import { TradeableListings } from "./TradeableListings";
 import { InnerPanel } from "components/ui/Panel";
 import { SUNNYSIDE } from "assets/sunnyside";
+import { hasChapterCropWeekAccess } from "lib/flags";
+import { CHAPTER_CROP_WEEK_CROP } from "features/game/types/chapterCropWeek";
 import { TradeableStats } from "./TradeableStats";
 import { getKeys } from "lib/object";
 import { tradeToId } from "../lib/offers";
@@ -217,6 +219,14 @@ export const Tradeable: React.FC<{ hideLimited?: boolean }> = ({
   const marketPrice = getMarketPrice({ tradeable });
 
   const isStoneBeetle = collection === "collectibles" && Number(id) === 2129;
+
+  // Chapter Crop Week crop (Saltwort) trading is gated to players with event
+  // access (beta testers early; everyone during the event window). Everyone else
+  // can still view the item, but the buy / list / offer / accept actions are
+  // disabled.
+  const isChapterCropWeekLocked =
+    display.name === CHAPTER_CROP_WEEK_CROP && !hasChapterCropWeekAccess(state);
+
   const favoriteItem =
     collection === "economies"
       ? undefined
@@ -276,6 +286,7 @@ export const Tradeable: React.FC<{ hideLimited?: boolean }> = ({
           onBack={onBack}
           reload={reload}
           onListClick={() => setShowListItem(true)}
+          disabled={isChapterCropWeekLocked}
         />
 
         {!isMobile && (
@@ -304,6 +315,7 @@ export const Tradeable: React.FC<{ hideLimited?: boolean }> = ({
             setShowListItem(false);
           }}
           reload={reload}
+          disabled={isChapterCropWeekLocked}
         />
 
         {!isStoneBeetle && (
@@ -316,6 +328,7 @@ export const Tradeable: React.FC<{ hideLimited?: boolean }> = ({
             display={display}
             farmId={farmId}
             reload={reload}
+            disabled={isChapterCropWeekLocked}
           />
         )}
 

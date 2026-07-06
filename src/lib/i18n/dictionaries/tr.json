@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "Mücevher başına fiyat",
   "transaction.bulkDiscount": "Ne kadar çok mücevher satın alırsanız, o kadar ucuz olurlar.",
   "description.temp.buff.effectTime": "{{time}} saat sürer",
-  "announcement.flowerDiscountDaysLeft": "Bu oranda sadece {{days}} gün kaldı!"
+  "announcement.flowerDiscountDaysLeft": "Bu oranda sadece {{days}} gün kaldı!",
+  "description.stagShrine.buff.speed": "1.35x Yağ Geri Kazanım Hızı"
 }

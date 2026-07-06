@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "每颗宝石的价格",
   "transaction.bulkDiscount": "你购买的宝石越多，它们得到的越便宜。",
   "description.temp.buff.effectTime": "持续 {{time}} 小时",
-  "announcement.flowerDiscountDaysLeft": "按这个费率只剩 {{days}} 天！"
+  "announcement.flowerDiscountDaysLeft": "按这个费率只剩 {{days}} 天！",
+  "description.stagShrine.buff.speed": "1.35 倍机油回收速度"
 }

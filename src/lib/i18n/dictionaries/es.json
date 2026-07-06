@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "Precio por gema",
   "transaction.bulkDiscount": "Cuantas más gemas compres, más baratas serán.",
   "description.temp.buff.effectTime": "Dura {{time}} horas",
-  "announcement.flowerDiscountDaysLeft": "¡Solo quedan {{days}} días con esta tarifa!"
+  "announcement.flowerDiscountDaysLeft": "¡Solo quedan {{days}} días con esta tarifa!",
+  "description.stagShrine.buff.speed": "Velocidad de recuperación de aceite de 1,35 veces"
 }

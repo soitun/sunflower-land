@@ -9177,5 +9177,6 @@
   "transaction.pricePerGem": "Preis pro Edelstein",
   "transaction.bulkDiscount": "Je mehr Edelsteine du kaufst, desto günstiger werden sie.",
   "description.temp.buff.effectTime": "Hält {{time}} Stunden an",
-  "announcement.flowerDiscountDaysLeft": "Zu diesem Tarif sind nur noch {{days}} Tage übrig!"
+  "announcement.flowerDiscountDaysLeft": "Zu diesem Tarif sind nur noch {{days}} Tage übrig!",
+  "description.stagShrine.buff.speed": "1,35-fache Geschwindigkeit der Ölrückgewinnung"
 }

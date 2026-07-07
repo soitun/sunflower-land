@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "Buy 12 event items to unlock epic items.",
   "eventStore.tier.mega.requirements": "Buy 16 event items to unlock mega items.",
   "eventColors2026.noticeboard.one": "Welcome to the Festival of Colors 2026 Community Event!",
-  "transaction.upgradePrompt": "Pay less, get more! The {{amount}} gem pack is cheaper and gives you extra gems."
+  "transaction.upgradePrompt": "Pay less, get more! The {{amount}} gem pack is cheaper and gives you extra gems.",
+  "pets.bulkFetch": "Bulk Fetch",
+  "pets.bulkFetchMode": "Bulk Fetch Mode",
+  "pets.confirmFetch": "Confirm Fetch",
+  "pets.fetchSelected": "Fetch Selected: {{count}}",
+  "pets.bulkFetch.description": "Enter how many of each resource you need. Your pets will fetch the best combination.",
+  "pets.bulkFetch.energyEach": "{{energy}} energy each",
+  "pets.bulkFetch.willFetch": "Will fetch {{amount}}",
+  "pets.bulkFetch.short": "{{have}} of {{want}} — not enough energy",
+  "pets.bulkFetch.noPets": "No pets are ready to fetch right now."
 }

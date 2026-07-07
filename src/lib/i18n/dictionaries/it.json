@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "Acquista 12 oggetti dell'evento per sbloccare oggetti epici.",
   "eventStore.tier.mega.requirements": "Acquista 16 oggetti dell'evento per sbloccare mega oggetti.",
   "eventColors2026.noticeboard.one": "Benvenuti all'evento comunitario del Festival of Colors 2026!",
-  "transaction.upgradePrompt": "Paga meno, ottieni di più! Il pacchetto di gemme {{amount}} è più economico e ti offre gemme extra."
+  "transaction.upgradePrompt": "Paga meno, ottieni di più! Il pacchetto di gemme {{amount}} è più economico e ti offre gemme extra.",
+  "pets.bulkFetch": "Recupero in blocco",
+  "pets.bulkFetchMode": "Modalità Bulk Fetch",
+  "pets.confirmFetch": "Conferma recupero",
+  "pets.fetchSelected": "Recupera selezionato: {{count}}",
+  "pets.bulkFetch.description": "Inserisci quante risorse ti servono per ogni risorsa. I tuoi animali domestici troveranno la combinazione migliore.",
+  "pets.bulkFetch.energyEach": "{{energy}} energia ciascuno",
+  "pets.bulkFetch.willFetch": "Recupererà {{amount}}",
+  "pets.bulkFetch.short": "{{have}} di {{want}} — energia insufficiente",
+  "pets.bulkFetch.noPets": "Nessun animale domestico è pronto per essere recuperato in questo momento."
 }

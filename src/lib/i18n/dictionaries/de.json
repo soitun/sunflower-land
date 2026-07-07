@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "Kaufe 12 Event-Gegenstände, um epische Gegenstände freizuschalten.",
   "eventStore.tier.mega.requirements": "Kaufe 16 Event-Gegenstände, um Mega-Gegenstände freizuschalten.",
   "eventColors2026.noticeboard.one": "Willkommen zum Festival of Colors 2026 Community Event!",
-  "transaction.upgradePrompt": "Zahlen Sie weniger, erhalten Sie mehr! Das Edelsteinpaket {{amount}} ist günstiger und bietet dir zusätzliche Edelsteine."
+  "transaction.upgradePrompt": "Zahlen Sie weniger, erhalten Sie mehr! Das Edelsteinpaket {{amount}} ist günstiger und bietet dir zusätzliche Edelsteine.",
+  "pets.bulkFetch": "Massenabruf",
+  "pets.bulkFetchMode": "Massenabruf-Modus",
+  "pets.confirmFetch": "Abrufen bestätigen",
+  "pets.fetchSelected": "Ausgewählte abrufen: {{count}}",
+  "pets.bulkFetch.description": "Geben Sie ein, wie viele Ressourcen Sie von jeder Ressource benötigen. Ihre Haustiere holen sich die beste Kombination.",
+  "pets.bulkFetch.energyEach": "{{energy}} Energie jeweils",
+  "pets.bulkFetch.willFetch": "Ruft {{amount}} ab",
+  "pets.bulkFetch.short": "{{have}} von {{want}} — nicht genug Energie",
+  "pets.bulkFetch.noPets": "Im Moment sind keine Haustiere zum Abholen bereit."
 }

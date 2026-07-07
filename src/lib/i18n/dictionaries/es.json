@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "Compra 12 objetos del evento para desbloquear objetos épicos.",
   "eventStore.tier.mega.requirements": "Compra 16 objetos del evento para desbloquear megaobjetos.",
   "eventColors2026.noticeboard.one": "¡Bienvenido al evento comunitario del Festival of Colors 2026!",
-  "transaction.upgradePrompt": "¡Pague menos y obtenga más! El paquete de gemas {{amount}} es más barato y te ofrece gemas adicionales."
+  "transaction.upgradePrompt": "¡Pague menos y obtenga más! El paquete de gemas {{amount}} es más barato y te ofrece gemas adicionales.",
+  "pets.bulkFetch": "Búsqueda masiva",
+  "pets.bulkFetchMode": "Modo de búsqueda masiva",
+  "pets.confirmFetch": "Confirme Fetch",
+  "pets.fetchSelected": "Recuperar lo seleccionado: {{count}}",
+  "pets.bulkFetch.description": "Ingresa la cantidad de cada recurso que necesitas. Tus mascotas buscarán la mejor combinación.",
+  "pets.bulkFetch.energyEach": "{{energy}} energía cada uno",
+  "pets.bulkFetch.willFetch": "Obtendrá {{amount}}",
+  "pets.bulkFetch.short": "{{have}} de {{want}} — no hay suficiente energía",
+  "pets.bulkFetch.noPets": "No hay mascotas listas para recogerlas en este momento."
 }

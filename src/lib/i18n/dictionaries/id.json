@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "Beli 12 item acara untuk membuka item epik.",
   "eventStore.tier.mega.requirements": "Beli 16 item acara untuk membuka item mega.",
   "eventColors2026.noticeboard.one": "Selamat datang di Acara Komunitas Festival Warna 2026!",
-  "transaction.upgradePrompt": "Bayar lebih sedikit, dapatkan lebih banyak! Paket permata {{amount}} lebih murah dan memberi Anda permata tambahan."
+  "transaction.upgradePrompt": "Bayar lebih sedikit, dapatkan lebih banyak! Paket permata {{amount}} lebih murah dan memberi Anda permata tambahan.",
+  "pets.bulkFetch": "Pengambilan Massal",
+  "pets.bulkFetchMode": "Mode Pengambilan Massal",
+  "pets.confirmFetch": "Konfirmasikan Fetch",
+  "pets.fetchSelected": "Ambil yang Dipilih: {{count}}",
+  "pets.bulkFetch.description": "Masukkan berapa banyak dari setiap sumber daya yang Anda butuhkan. Hewan peliharaan Anda akan mendapatkan kombinasi terbaik.",
+  "pets.bulkFetch.energyEach": "{{energy}} energi masing-masing",
+  "pets.bulkFetch.willFetch": "Akan mengambil {{amount}}",
+  "pets.bulkFetch.short": "{{have}} dari {{want}} — tidak cukup energi",
+  "pets.bulkFetch.noPets": "Tidak ada hewan peliharaan yang siap diambil sekarang."
 }

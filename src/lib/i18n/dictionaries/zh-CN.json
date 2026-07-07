@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "购买 12 件活动物品即可解锁史诗物品。",
   "eventStore.tier.mega.requirements": "购买 16 个活动物品来解锁巨型物品。",
   "eventColors2026.noticeboard.one": "欢迎来到 2026 年色彩节社区活动！",
-  "transaction.upgradePrompt": "少付钱，得到更多！{{amount}} 宝石包更便宜，还能给你额外的宝石。"
+  "transaction.upgradePrompt": "少付钱，得到更多！{{amount}} 宝石包更便宜，还能给你额外的宝石。",
+  "pets.bulkFetch": "批量提取",
+  "pets.bulkFetchMode": "批量提取模式",
+  "pets.confirmFetch": "确认提取",
+  "pets.fetchSelected": "获取选定内容：{{count}}",
+  "pets.bulkFetch.description": "输入您需要的每种资源的数量。你的宠物会得到最好的组合。",
+  "pets.bulkFetch.energyEach": "{{energy}} 每人能量",
+  "pets.bulkFetch.willFetch": "将获取 {{amount}}",
+  "pets.bulkFetch.short": "{{want}} 中的 {{have}} — 没有足够的能量",
+  "pets.bulkFetch.noPets": "现在没有宠物准备去取。"
 }

@@ -9222,5 +9222,14 @@
   "eventStore.tier.epic.requirements": "イベントアイテムを12個購入して、エピックアイテムをアンロックしましょう。",
   "eventStore.tier.mega.requirements": "イベントアイテムを16個購入すると、メガアイテムのロックが解除されます。",
   "eventColors2026.noticeboard.one": "フェスティバルオブカラーズ2026コミュニティイベントへようこそ！",
-  "transaction.upgradePrompt": "より安く、より多くを手に入れましょう！{{amount}} ジェムパックの方が安価で、追加のジェムが手に入ります。"
+  "transaction.upgradePrompt": "より安く、より多くを手に入れましょう！{{amount}} ジェムパックの方が安価で、追加のジェムが手に入ります。",
+  "pets.bulkFetch": "一括フェッチ",
+  "pets.bulkFetchMode": "一括フェッチモード",
+  "pets.confirmFetch": "フェッチを確認",
+  "pets.fetchSelected": "選択項目を取得:{{count}}",
+  "pets.bulkFetch.description": "必要な各リソースの数を入力します。ペットが最適な組み合わせを選んでくれます。",
+  "pets.bulkFetch.energyEach": "それぞれ {{energy}} エネルギー",
+  "pets.bulkFetch.willFetch": "{{amount}} を取得します",
+  "pets.bulkFetch.short": "{{want}} の {{have}} — エネルギーが足りません",
+  "pets.bulkFetch.noPets": "現在、飼う準備ができているペットはいません。"
 }

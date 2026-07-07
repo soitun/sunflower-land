@@ -26,7 +26,6 @@ import flowerIcon from "assets/icons/flower_token.webp";
 import levelUpIcon from "assets/icons/level_up.png";
 import Decimal from "decimal.js-light";
 import { secondsToString } from "lib/utils/time";
-import { hasFeatureAccess } from "lib/flags";
 import { getFlowerGemPriceMultiplier } from "features/game/lib/flowerGemDiscount";
 
 export const STARTER_PACK = "STARTER_PACK" as const;
@@ -100,9 +99,6 @@ export const starterOfferSecondsLeftSelector = (state: MachineState) => {
 };
 const _starterOfferSecondsLeft = starterOfferSecondsLeftSelector;
 
-const _hasCustomGemAccess = (state: MachineState) =>
-  hasFeatureAccess(state.context.state, "CUSTOM_GEM_AMOUNT");
-
 /** Show starter offer only when time hasn't expired and player hasn't purchased gems yet */
 const _canShowStarterOffer = (state: MachineState) => {
   const timeLeft = _starterOfferSecondsLeft(state);
@@ -141,12 +137,12 @@ export const BuyGems: React.FC<Props> = ({
     gameService,
     _starterOfferSecondsLeft,
   );
-  const hasCustomGemAccess = useSelector(gameService, _hasCustomGemAccess);
 
   const [showFlowerConfirm, setShowFlowerConfirm] = useState(false);
   const [showCustom, setShowCustom] = useState(false);
   const [customAmount, setCustomAmount] = useState(0);
   const [showUpgradePrompt, setShowUpgradePrompt] = useState(false);
+  const [showCustomConfirm, setShowCustomConfirm] = useState(false);
   const { t } = useAppTranslation();
 
   useEffect(() => {
@@ -307,7 +303,85 @@ export const BuyGems: React.FC<Props> = ({
       setShowCustom(false);
       setCustomAmount(0);
       setShowUpgradePrompt(false);
+      setShowCustomConfirm(false);
     };
+
+    // Final confirmation: review what they'll pay and receive before buying.
+    if (showCustomConfirm) {
+      return (
+        <>
+          <div className="flex items-center justify-between flex-wrap">
+            <div className="flex items-center mr-2">
+              <div className="py-2">
+                <img
+                  src={SUNNYSIDE.icons.arrow_left}
+                  className="h-6 w-6 ml-2 cursor-pointer"
+                  onClick={() => setShowCustomConfirm(false)}
+                />
+              </div>
+              <Label
+                icon={ITEM_DETAILS.Gem.image}
+                type="default"
+                className="ml-2"
+              >
+                {t("transaction.buy.gems")}
+              </Label>
+            </div>
+            <Label type="warning">{`1 FLOWER = $${flowerPrice.toFixed(4)}`}</Label>
+          </div>
+
+          <div className="p-1">
+            <div className="flex justify-between mb-1">
+              <p className="text-sm">{t("gems")}</p>
+              <div className="flex items-center space-x-2">
+                <span>{`${amount} x`}</span>
+                <img src={ITEM_DETAILS.Gem.image} className="w-6" />
+              </div>
+            </div>
+
+            <div className="flex justify-between mb-1">
+              <p className="text-sm">{t("usd")}</p>
+              <div className="flex items-center space-x-2">
+                <span className="line-through">{`$${usd.toFixed(2)}`}</span>
+                <span>{`$${flowerUSD.toFixed(2)} x`}</span>
+                <img src={usdcIcon} className="w-6" />
+              </div>
+            </div>
+
+            <div
+              className="flex justify-between my-2 pt-2"
+              style={{ borderTop: "1px solid #ead4aa" }}
+            >
+              <p className="text-sm">{`FLOWER`}</p>
+              <div className="flex items-center space-x-2">
+                <span>
+                  {flowerQuote} {`x`}{" "}
+                </span>
+                <img src={flowerIcon} className="w-6" />
+              </div>
+            </div>
+          </div>
+
+          <div className="flex space-x-1">
+            <Button onClick={() => setShowCustomConfirm(false)}>
+              {t("back")}
+            </Button>
+            <Button
+              disabled={!canConfirm}
+              onClick={() => onFlowerBuy(Number(flowerQuote), amount)}
+              className="relative"
+            >
+              {inRange && flowerPrice > 0 && !hasFlower && (
+                <Label type="danger" className="absolute -top-4 right-0">
+                  {t("error.insufficientFlower")}
+                </Label>
+              )}
+              {t("confirm")}
+            </Button>
+          </div>
+        </>
+      );
+    }
 
     // Intercept "Confirm" when buying the next pack whole is strictly cheaper —
     // prompt them to upgrade instead of paying more for fewer gems.
@@ -444,7 +518,7 @@ export const BuyGems: React.FC<Props> = ({
             if (nextBundle && isCheaperToBuyMore) {
               setShowUpgradePrompt(true);
             } else {
-              onFlowerBuy(Number(flowerQuote), amount);
+              setShowCustomConfirm(true);
             }
           }}
           className="relative mt-0"
@@ -720,22 +794,20 @@ export const BuyGems: React.FC<Props> = ({
           })}
         </div>
 
-        {hasCustomGemAccess && (
-          <ButtonPanel
-            onClick={() => setShowCustom(true)}
-            className="w-full mt-3 relative cursor-pointer hover:bg-brown-300 flex items-center justify-between"
-          >
-            <div className="flex items-center">
-              <SquareIcon icon={ITEM_DETAILS.Gem.image} width={10} />
-              <span className="ml-2 text-sm">
-                {t("transaction.enterCustomAmount")}
-              </span>
-            </div>
-            <Label type="warning" icon={flowerIcon}>
-              {`FLOWER`}
-            </Label>
-          </ButtonPanel>
-        )}
+        <ButtonPanel
+          onClick={() => setShowCustom(true)}
+          className="w-full mt-3 relative cursor-pointer hover:bg-brown-300 flex items-center justify-between"
+        >
+          <div className="flex items-center">
+            <SquareIcon icon={ITEM_DETAILS.Gem.image} width={10} />
+            <span className="ml-2 text-sm">
+              {t("transaction.enterCustomAmount")}
+            </span>
+          </div>
+          <Label type="warning" icon={flowerIcon}>
+            {`FLOWER`}
+          </Label>
+        </ButtonPanel>
       </div>
     </>
   );

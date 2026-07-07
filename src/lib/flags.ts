@@ -173,10 +173,6 @@ const FEATURE_FLAGS = {
   HOME_ITEM_MIGRATION: betaFeatureFlag,
 
   SWAMP_ASCENSION: testnetFeatureFlag,
-
-  // Custom gem purchase amount (FLOWER-only) in the Buy Gems panel. Beta-pass /
-  // testnet only until ready to ship to all players.
-  CUSTOM_GEM_AMOUNT: betaFeatureFlag,
 } satisfies Record<string, FeatureFlag>;
 
 export type FeatureName = keyof typeof FEATURE_FLAGS;

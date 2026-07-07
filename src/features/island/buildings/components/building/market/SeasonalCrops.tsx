@@ -35,8 +35,9 @@ import { getCountAndType } from "features/island/hud/components/inventory/utils/
 import {
   CHAPTER_CROP_WEEK,
   CHAPTER_CROP_WEEK_CROP,
+  isChapterCropWeekActive,
 } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
+import { useNow } from "lib/utils/hooks/useNow";
 import { SpecialEventPanel } from "../SpecialEventPanel";
 
 const _state = (state: MachineState) => state.context.state;
@@ -55,7 +56,11 @@ export const SeasonalCrops: React.FC = () => {
 
   const state = useSelector(gameService, _state);
 
-  const isCropWeek = hasChapterCropWeekAccess(state);
+  const now = useNow({
+    live: true,
+    autoEndAt: CHAPTER_CROP_WEEK.endDate.getTime(),
+  });
+  const isCropWeek = isChapterCropWeekActive(now);
 
   const { island, season } = state;
   const { type: islandType } = island;
@@ -239,6 +244,7 @@ export const SeasonalCrops: React.FC = () => {
                 title={t("chapterCropWeek.specialEventCrop")}
                 endDate={CHAPTER_CROP_WEEK.endDate}
                 isSelected={selected.name === CHAPTER_CROP_WEEK_CROP}
+                count={getCountAndType(state, CHAPTER_CROP_WEEK_CROP).count}
                 onSelect={() => setSelected(crops[CHAPTER_CROP_WEEK_CROP])}
               />
             )}

@@ -21,8 +21,10 @@ import { updateBoostUsed } from "features/game/types/updateBoostUsed";
 import { getCookingAmount } from "./collectRecipe";
 import { isCookingBuilding } from "./isCookingBuilding";
 import { trackFarmActivity } from "features/game/types/farmActivity";
-import { CHAPTER_CROP_WEEK_RECIPE } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
+import {
+  CHAPTER_CROP_WEEK_RECIPE,
+  isChapterCropWeekActive,
+} from "features/game/types/chapterCropWeek";
 
 export type RecipeCookedAction = {
   type: "recipe.cooked";
@@ -191,8 +193,11 @@ export function cook({
   return produce(state, (stateCopy) => {
     const { item, buildingId } = action;
 
-    // Chapter Crop Week event recipe is currently gated to beta testers only
-    if (item === CHAPTER_CROP_WEEK_RECIPE && !hasChapterCropWeekAccess(state)) {
+    // Chapter Crop Week event recipe is only cookable while the event is active
+    if (
+      item === CHAPTER_CROP_WEEK_RECIPE &&
+      !isChapterCropWeekActive(createdAt)
+    ) {
       throw new Error("Chapter Crop Week is not active");
     }
 

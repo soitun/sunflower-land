@@ -18,8 +18,10 @@ import type { SeedName } from "features/game/types/seeds";
 import type { CropSeedName } from "features/game/types/crops";
 import { SEASONAL_SEEDS, SEEDS } from "features/game/types/seeds";
 import type { CropName } from "features/game/types/crops";
-import { CHAPTER_CROP_WEEK_SEED } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
+import {
+  CHAPTER_CROP_WEEK_SEED,
+  isChapterCropWeekActive,
+} from "features/game/types/chapterCropWeek";
 import { Box } from "components/ui/Box";
 import { Decimal } from "decimal.js-light";
 import type {
@@ -400,9 +402,9 @@ const PlantSection: React.FC<{
     (seed) => SEEDS[seed].plantingSpot === "Crop Plot",
   ) as CropSeedName[];
 
-  // Include the limited-time Chapter Crop Week seed (Saltwort) for players with
-  // event access, even though it is not part of the current season.
-  const plantableSeeds: CropSeedName[] = hasChapterCropWeekAccess(state)
+  // Include the limited-time Chapter Crop Week seed (Saltwort) while the event
+  // is active, even though it is not part of the current season.
+  const plantableSeeds: CropSeedName[] = isChapterCropWeekActive(now)
     ? [...seasonalSeeds, CHAPTER_CROP_WEEK_SEED as CropSeedName]
     : seasonalSeeds;
 

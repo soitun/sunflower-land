@@ -314,6 +314,7 @@ export const Recipes: React.FC<Props> = ({
                 title={t("chapterCropWeek.specialEventRecipe")}
                 endDate={CHAPTER_CROP_WEEK.endDate}
                 isSelected={selected.name === eventRecipe.name}
+                count={inventory[eventRecipe.name]}
                 onSelect={() => {
                   setSelected(eventRecipe);
                   setShowBoosts(false);

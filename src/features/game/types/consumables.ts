@@ -310,7 +310,7 @@ export const FIRE_PIT_COOKABLES: Record<FirePitCookableName, Cookable> = {
   Saltbite: {
     name: "Saltbite",
     description: translate("description.saltbite"),
-    experience: 2000,
+    experience: 3000,
     building: "Fire Pit",
     cookingSeconds: 4 * 60 * 60,
     ingredients: {

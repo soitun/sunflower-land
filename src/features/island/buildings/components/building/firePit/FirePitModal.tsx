@@ -22,8 +22,8 @@ import { useNow } from "lib/utils/hooks/useNow";
 import {
   CHAPTER_CROP_WEEK,
   CHAPTER_CROP_WEEK_RECIPE,
+  isChapterCropWeekActive,
 } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
 import { Context } from "features/game/GameProvider";
 import { getCookingRequirements } from "features/game/events/landExpansion/cook";
 import type { InventoryItemName } from "features/game/types/game";
@@ -74,9 +74,9 @@ export const FirePitModal: React.FC<Props> = ({
   const firePitRecipes = useMemo(() => {
     return Object.values(FIRE_PIT_COOKABLES)
       .filter((recipe) => {
-        // Chapter Crop Week event recipe is currently gated to beta testers only
+        // Chapter Crop Week event recipe only appears while the event is active
         if (recipe.name === CHAPTER_CROP_WEEK_RECIPE) {
-          return hasChapterCropWeekAccess(getGame());
+          return isChapterCropWeekActive(now);
         }
 
         if (getCurrentChapter(now) === "Paw Prints") return true;
@@ -86,7 +86,7 @@ export const FirePitModal: React.FC<Props> = ({
       .sort(
         (a, b) => a.experience - b.experience, // "Lowest entry" == first in this order
       );
-  }, [now, getGame]);
+  }, [now]);
 
   /**
    * Stored selection is intentionally session-only (component state).

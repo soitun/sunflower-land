@@ -79,8 +79,8 @@ import { useNow } from "lib/utils/hooks/useNow";
 import {
   CHAPTER_CROP_WEEK,
   CHAPTER_CROP_WEEK_SEED,
+  isChapterCropWeekActive,
 } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
 
 export const SEASON_ICONS: Record<TemperateSeasonName, string> = {
   spring: springIcon,
@@ -102,7 +102,7 @@ export const SeasonalSeeds: React.FC = () => {
   );
 
   const now = useNow();
-  const isCropWeek = hasChapterCropWeekAccess(state);
+  const isCropWeek = isChapterCropWeekActive(now);
 
   const [selectedName, setSelectedName] = useState<SeedName>(
     currentSeasonSeeds[0],
@@ -474,6 +474,7 @@ export const SeasonalSeeds: React.FC = () => {
               title={t("chapterCropWeek.specialEventCrop")}
               endDate={CHAPTER_CROP_WEEK.endDate}
               isSelected={selectedName === CHAPTER_CROP_WEEK_SEED}
+              count={inventory[CHAPTER_CROP_WEEK_SEED]}
               onSelect={() => {
                 onSeedClick(CHAPTER_CROP_WEEK_SEED);
                 setShowBoosts(false);

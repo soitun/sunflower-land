@@ -24,8 +24,10 @@ import {
 import { isFullMoon } from "features/game/types/calendar";
 import { updateBoostUsed } from "features/game/types/updateBoostUsed";
 import { INVENTORY_LIMIT } from "features/game/lib/constants";
-import { CHAPTER_CROP_WEEK_SEED } from "features/game/types/chapterCropWeek";
-import { hasChapterCropWeekAccess } from "lib/flags";
+import {
+  CHAPTER_CROP_WEEK_SEED,
+  isChapterCropWeekActive,
+} from "features/game/types/chapterCropWeek";
 
 export type SeedBoughtAction = {
   type: "seed.bought";
@@ -137,8 +139,11 @@ export function seedBought({ state, action, createdAt = Date.now() }: Options) {
       throw new Error("Not a full moon");
     }
 
-    // Chapter Crop Week event seed is currently gated to beta testers only
-    if (item === CHAPTER_CROP_WEEK_SEED && !hasChapterCropWeekAccess(state)) {
+    // Chapter Crop Week event seed is only available while the event is active
+    if (
+      item === CHAPTER_CROP_WEEK_SEED &&
+      !isChapterCropWeekActive(createdAt)
+    ) {
       throw new Error("Chapter Crop Week is not active");
     }
 

@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Özel Etkinlik Tarifi",
   "chapterCropWeek.daysRemaining": "{{days}} kalan gün",
   "chapterCropWeek.comingSoon": "Bu öğe Bölüm Mahsul Haftası sırasında takas edilebilir. Yakında tekrar kontrol edin!",
-  "transaction.upgradePrompt": "Aynı fiyata {{amount}} mücevher paketini alabilir ve daha da fazla mücevher alabilirsiniz!",
   "skill.level": "Lv {{level}}/{{max}}",
   "skill.upgrade": "Yükselt",
   "skill.rank": "RÜTBE",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Nadir eşyaların kilidini açmak için 6 etkinlik öğesi satın alın.",
   "eventStore.tier.epic.requirements": "Destansı öğelerin kilidini açmak için 12 etkinlik öğesi satın alın.",
   "eventStore.tier.mega.requirements": "Mega eşyaların kilidini açmak için 16 etkinlik öğesi satın alın.",
-  "eventColors2026.noticeboard.one": "Renkler Festivali 2026 Topluluk Etkinliğine Hoş Geldiniz!"
+  "eventColors2026.noticeboard.one": "Renkler Festivali 2026 Topluluk Etkinliğine Hoş Geldiniz!",
+  "transaction.upgradePrompt": "Daha az öde, daha fazla al! {{amount}} mücevher paketi daha ucuzdur ve size ekstra mücevher verir."
 }

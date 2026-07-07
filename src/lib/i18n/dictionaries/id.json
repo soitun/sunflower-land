@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Resep Acara Khusus",
   "chapterCropWeek.daysRemaining": "{{days}} hari tersisa",
   "chapterCropWeek.comingSoon": "Item ini akan dapat diperdagangkan selama Chapter Crop Week. Periksa kembali segera!",
-  "transaction.upgradePrompt": "Untuk harga yang sama, Anda bisa mengambil paket permata {{amount}} dan mendapatkan lebih banyak permata!",
   "skill.level": "Lv {{level}}/{{max}}",
   "skill.upgrade": "Tingkatkan",
   "skill.rank": "PERINGKAT",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Beli 6 item acara untuk membuka kunci item langka.",
   "eventStore.tier.epic.requirements": "Beli 12 item acara untuk membuka item epik.",
   "eventStore.tier.mega.requirements": "Beli 16 item acara untuk membuka item mega.",
-  "eventColors2026.noticeboard.one": "Selamat datang di Acara Komunitas Festival Warna 2026!"
+  "eventColors2026.noticeboard.one": "Selamat datang di Acara Komunitas Festival Warna 2026!",
+  "transaction.upgradePrompt": "Bayar lebih sedikit, dapatkan lebih banyak! Paket permata {{amount}} lebih murah dan memberi Anda permata tambahan."
 }

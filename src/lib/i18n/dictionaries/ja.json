@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "スペシャルイベントレシピ",
   "chapterCropWeek.daysRemaining": "残り {{days}} 日",
   "chapterCropWeek.comingSoon": "このアイテムはチャプタークロップウィーク中にトレード可能になります。すぐにもう一度チェックしてください！",
-  "transaction.upgradePrompt": "同じ価格で {{amount}} ジェムパックを手に入れると、さらに多くのジェムを手に入れることができます！",
   "skill.level": "レフ {{level}}/{{max}}",
   "skill.upgrade": "アップグレード",
   "skill.rank": "ランク",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "イベントアイテムを6個購入すると、レアなアイテムがアンロックされます。",
   "eventStore.tier.epic.requirements": "イベントアイテムを12個購入して、エピックアイテムをアンロックしましょう。",
   "eventStore.tier.mega.requirements": "イベントアイテムを16個購入すると、メガアイテムのロックが解除されます。",
-  "eventColors2026.noticeboard.one": "フェスティバルオブカラーズ2026コミュニティイベントへようこそ！"
+  "eventColors2026.noticeboard.one": "フェスティバルオブカラーズ2026コミュニティイベントへようこそ！",
+  "transaction.upgradePrompt": "より安く、より多くを手に入れましょう！{{amount}} ジェムパックの方が安価で、追加のジェムが手に入ります。"
 }

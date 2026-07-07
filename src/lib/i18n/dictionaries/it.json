@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Ricetta per eventi speciali",
   "chapterCropWeek.daysRemaining": "{{days}} giorni rimanenti",
   "chapterCropWeek.comingSoon": "Questo oggetto sarà scambiabile durante la Chapter Crop Week. Torna presto!",
-  "transaction.upgradePrompt": "Allo stesso prezzo potresti prendere il pacchetto di gemme {{amount}} e ottenere ancora più gemme!",
   "skill.level": "Livello {{level}}/{{max}}",
   "skill.upgrade": "Aggiornamento",
   "skill.rank": "RANGO",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Acquista 6 oggetti dell'evento per sbloccare oggetti rari.",
   "eventStore.tier.epic.requirements": "Acquista 12 oggetti dell'evento per sbloccare oggetti epici.",
   "eventStore.tier.mega.requirements": "Acquista 16 oggetti dell'evento per sbloccare mega oggetti.",
-  "eventColors2026.noticeboard.one": "Benvenuti all'evento comunitario del Festival of Colors 2026!"
+  "eventColors2026.noticeboard.one": "Benvenuti all'evento comunitario del Festival of Colors 2026!",
+  "transaction.upgradePrompt": "Paga meno, ottieni di più! Il pacchetto di gemme {{amount}} è più economico e ti offre gemme extra."
 }

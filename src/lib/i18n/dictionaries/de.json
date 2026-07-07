@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Rezept für eine besondere Veranstaltung",
   "chapterCropWeek.daysRemaining": "{{days}} verbleibende Tage",
   "chapterCropWeek.comingSoon": "Dieser Gegenstand wird während der Chapter Crop Week handelbar sein. Schau bald wieder vorbei!",
-  "transaction.upgradePrompt": "Für den gleichen Preis könntest du dir das Edelsteinpaket {{amount}} schnappen und noch mehr Edelsteine erhalten!",
   "skill.level": "Stufe {{level}}/{{max}}",
   "skill.upgrade": "Aufrüsten",
   "skill.rank": "RANG",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Kaufe 6 Event-Gegenstände, um seltene Gegenstände freizuschalten.",
   "eventStore.tier.epic.requirements": "Kaufe 12 Event-Gegenstände, um epische Gegenstände freizuschalten.",
   "eventStore.tier.mega.requirements": "Kaufe 16 Event-Gegenstände, um Mega-Gegenstände freizuschalten.",
-  "eventColors2026.noticeboard.one": "Willkommen zum Festival of Colors 2026 Community Event!"
+  "eventColors2026.noticeboard.one": "Willkommen zum Festival of Colors 2026 Community Event!",
+  "transaction.upgradePrompt": "Zahlen Sie weniger, erhalten Sie mehr! Das Edelsteinpaket {{amount}} ist günstiger und bietet dir zusätzliche Edelsteine."
 }

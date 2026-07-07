@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Receta para eventos especiales",
   "chapterCropWeek.daysRemaining": "Quedan {{days}} días",
   "chapterCropWeek.comingSoon": "Este objeto se podrá canjear durante la Semana de la Cosecha de Capítulos. ¡Vuelve pronto!",
-  "transaction.upgradePrompt": "¡Por el mismo precio puedes hacerte con el paquete de gemas {{amount}} y conseguir aún más gemas!",
   "skill.level": "Lv {{level}}/{{max}}",
   "skill.upgrade": "Actualización",
   "skill.rank": "RANGO",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Compra 6 objetos de evento para desbloquear objetos raros.",
   "eventStore.tier.epic.requirements": "Compra 12 objetos del evento para desbloquear objetos épicos.",
   "eventStore.tier.mega.requirements": "Compra 16 objetos del evento para desbloquear megaobjetos.",
-  "eventColors2026.noticeboard.one": "¡Bienvenido al evento comunitario del Festival of Colors 2026!"
+  "eventColors2026.noticeboard.one": "¡Bienvenido al evento comunitario del Festival of Colors 2026!",
+  "transaction.upgradePrompt": "¡Pague menos y obtenga más! El paquete de gemas {{amount}} es más barato y te ofrece gemas adicionales."
 }

@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "特别活动食谱",
   "chapterCropWeek.daysRemaining": "{{days}} 天数剩余",
   "chapterCropWeek.comingSoon": "该物品可在章节作物周期间进行交易。稍后再回来看看！",
-  "transaction.upgradePrompt": "以同样的价格你可以获得 {{amount}} 宝石包并获得更多宝石！",
   "skill.level": "Lv {{level}}/{{max}}",
   "skill.upgrade": "升级",
   "skill.rank": "等级",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "购买 6 件活动物品来解锁稀有物品。",
   "eventStore.tier.epic.requirements": "购买 12 件活动物品即可解锁史诗物品。",
   "eventStore.tier.mega.requirements": "购买 16 个活动物品来解锁巨型物品。",
-  "eventColors2026.noticeboard.one": "欢迎来到 2026 年色彩节社区活动！"
+  "eventColors2026.noticeboard.one": "欢迎来到 2026 年色彩节社区活动！",
+  "transaction.upgradePrompt": "少付钱，得到更多！{{amount}} 宝石包更便宜，还能给你额外的宝石。"
 }

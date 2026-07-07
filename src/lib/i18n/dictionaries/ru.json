@@ -9187,7 +9187,6 @@
   "chapterCropWeek.specialEventRecipe": "Special Event Recipe",
   "chapterCropWeek.daysRemaining": "{{days}} days remaining",
   "chapterCropWeek.comingSoon": "This item will be tradeable during Chapter Crop Week. Check back soon!",
-  "transaction.upgradePrompt": "For the same price you could grab the {{amount}} gem pack and get even more gems!",
   "skill.level": "Lv {{level}}/{{max}}",
   "skill.upgrade": "Upgrade",
   "skill.rank": "RANK",
@@ -9222,5 +9221,6 @@
   "eventStore.tier.rare.requirements": "Buy 6 event items to unlock rare items.",
   "eventStore.tier.epic.requirements": "Buy 12 event items to unlock epic items.",
   "eventStore.tier.mega.requirements": "Buy 16 event items to unlock mega items.",
-  "eventColors2026.noticeboard.one": "Welcome to the Festival of Colors 2026 Community Event!"
+  "eventColors2026.noticeboard.one": "Welcome to the Festival of Colors 2026 Community Event!",
+  "transaction.upgradePrompt": "Pay less, get more! The {{amount}} gem pack is cheaper and gives you extra gems."
 }

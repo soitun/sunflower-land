@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Rezept für eine besondere Veranstaltung",
   "chapterCropWeek.daysRemaining": "{{days}} verbleibende Tage",
   "chapterCropWeek.comingSoon": "Dieser Gegenstand wird während der Chapter Crop Week handelbar sein. Schau bald wieder vorbei!",
-  "transaction.upgradePrompt": "Für den gleichen Preis könntest du dir das Edelsteinpaket {{amount}} schnappen und noch mehr Edelsteine erhalten!"
+  "transaction.upgradePrompt": "Für den gleichen Preis könntest du dir das Edelsteinpaket {{amount}} schnappen und noch mehr Edelsteine erhalten!",
+  "skill.level": "Stufe {{level}}/{{max}}",
+  "skill.upgrade": "Aufrüsten",
+  "skill.rank": "RANG",
+  "skill.rankProgress": "{{level}} von {{max}}",
+  "skill.max": "MAX",
+  "skill.rankReward": "Belohnung für Rang {{rank}}",
+  "skill.strengthensBoost": "Verstärkt diesen Schub",
+  "skill.fullyUpgraded": "Vollständig aufgerüstet — maximaler Boost aktiv",
+  "skill.upgradeToRank": "Auf Rang {{rank}} hochstufen"
 }

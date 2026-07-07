@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Receita de evento especial",
   "chapterCropWeek.daysRemaining": "{{days}} dias restantes",
   "chapterCropWeek.comingSoon": "Este item poderá ser negociado durante a Semana da Colheita do Capítulo. Volte em breve!",
-  "transaction.upgradePrompt": "Pelo mesmo preço, você pode pegar o pacote de gemas {{amount}} e ganhar ainda mais gemas!"
+  "transaction.upgradePrompt": "Pelo mesmo preço, você pode pegar o pacote de gemas {{amount}} e ganhar ainda mais gemas!",
+  "skill.level": "Nível {{level}}/{{max}}",
+  "skill.upgrade": "Atualizar",
+  "skill.rank": "CLASSIFICAÇÃO",
+  "skill.rankProgress": "{{level}} de {{max}}",
+  "skill.max": "MÁXIMO",
+  "skill.rankReward": "Recompensa de classificação {{rank}}",
+  "skill.strengthensBoost": "Fortalece esse impulso",
+  "skill.fullyUpgraded": "Totalmente atualizado — máximo de impulso ativo",
+  "skill.upgradeToRank": "Faça o upgrade para a classificação {{rank}}"
 }

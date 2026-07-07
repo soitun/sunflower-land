@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Receta para eventos especiales",
   "chapterCropWeek.daysRemaining": "Quedan {{days}} días",
   "chapterCropWeek.comingSoon": "Este objeto se podrá canjear durante la Semana de la Cosecha de Capítulos. ¡Vuelve pronto!",
-  "transaction.upgradePrompt": "¡Por el mismo precio puedes hacerte con el paquete de gemas {{amount}} y conseguir aún más gemas!"
+  "transaction.upgradePrompt": "¡Por el mismo precio puedes hacerte con el paquete de gemas {{amount}} y conseguir aún más gemas!",
+  "skill.level": "Lv {{level}}/{{max}}",
+  "skill.upgrade": "Actualización",
+  "skill.rank": "RANGO",
+  "skill.rankProgress": "{{level}} de {{max}}",
+  "skill.max": "MÁXIMO",
+  "skill.rankReward": "Recompensa de rango {{rank}}",
+  "skill.strengthensBoost": "Refuerza este impulso",
+  "skill.fullyUpgraded": "Totalmente actualizado: impulso máximo activo",
+  "skill.upgradeToRank": "Mejora de rango {{rank}}"
 }

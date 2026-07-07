@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Resep Acara Khusus",
   "chapterCropWeek.daysRemaining": "{{days}} hari tersisa",
   "chapterCropWeek.comingSoon": "Item ini akan dapat diperdagangkan selama Chapter Crop Week. Periksa kembali segera!",
-  "transaction.upgradePrompt": "Untuk harga yang sama, Anda bisa mengambil paket permata {{amount}} dan mendapatkan lebih banyak permata!"
+  "transaction.upgradePrompt": "Untuk harga yang sama, Anda bisa mengambil paket permata {{amount}} dan mendapatkan lebih banyak permata!",
+  "skill.level": "Lv {{level}}/{{max}}",
+  "skill.upgrade": "Tingkatkan",
+  "skill.rank": "PERINGKAT",
+  "skill.rankProgress": "{{level}} dari {{max}}",
+  "skill.max": "MAKS",
+  "skill.rankReward": "Hadiah peringkat {{rank}}",
+  "skill.strengthensBoost": "Memperkuat dorongan ini",
+  "skill.fullyUpgraded": "Sepenuhnya ditingkatkan - dorongan maksimum aktif",
+  "skill.upgradeToRank": "Tingkatkan ke Rank {{rank}}"
 }

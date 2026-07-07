@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Recette pour un événement spécial",
   "chapterCropWeek.daysRemaining": "{{days}} jours restants",
   "chapterCropWeek.comingSoon": "Cet objet sera échangeable pendant la Chapter Crop Week. Revenez bientôt !",
-  "transaction.upgradePrompt": "Pour le même prix, tu pourrais te procurer le pack de gemmes {{amount}} et obtenir encore plus de gemmes !"
+  "transaction.upgradePrompt": "Pour le même prix, tu pourrais te procurer le pack de gemmes {{amount}} et obtenir encore plus de gemmes !",
+  "skill.level": "Niv {{level}}/{{max}}",
+  "skill.upgrade": "Mettre à niveau",
+  "skill.rank": "RANG",
+  "skill.rankProgress": "{{level}} de {{max}}",
+  "skill.max": "MAX",
+  "skill.rankReward": "Récompense de rang {{rank}}",
+  "skill.strengthensBoost": "Renforce ce coup de pouce",
+  "skill.fullyUpgraded": "Entièrement amélioré — augmentation maximale active",
+  "skill.upgradeToRank": "Passer au rang {{rank}}"
 }

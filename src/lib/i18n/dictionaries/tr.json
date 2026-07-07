@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "Özel Etkinlik Tarifi",
   "chapterCropWeek.daysRemaining": "{{days}} kalan gün",
   "chapterCropWeek.comingSoon": "Bu öğe Bölüm Mahsul Haftası sırasında takas edilebilir. Yakında tekrar kontrol edin!",
-  "transaction.upgradePrompt": "Aynı fiyata {{amount}} mücevher paketini alabilir ve daha da fazla mücevher alabilirsiniz!"
+  "transaction.upgradePrompt": "Aynı fiyata {{amount}} mücevher paketini alabilir ve daha da fazla mücevher alabilirsiniz!",
+  "skill.level": "Lv {{level}}/{{max}}",
+  "skill.upgrade": "Yükselt",
+  "skill.rank": "RÜTBE",
+  "skill.rankProgress": "{{level}} veya {{max}}",
+  "skill.max": "MAKSİMUM",
+  "skill.rankReward": "Sıralama {{rank}} ödülü",
+  "skill.strengthensBoost": "Bu desteği güçlendirir",
+  "skill.fullyUpgraded": "Tamamen yükseltilmiş - maksimum destek aktif",
+  "skill.upgradeToRank": "Sıralamaya Yükselt {{rank}}"
 }

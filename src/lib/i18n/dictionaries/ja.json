@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "スペシャルイベントレシピ",
   "chapterCropWeek.daysRemaining": "残り {{days}} 日",
   "chapterCropWeek.comingSoon": "このアイテムはチャプタークロップウィーク中にトレード可能になります。すぐにもう一度チェックしてください！",
-  "transaction.upgradePrompt": "同じ価格で {{amount}} ジェムパックを手に入れると、さらに多くのジェムを手に入れることができます！"
+  "transaction.upgradePrompt": "同じ価格で {{amount}} ジェムパックを手に入れると、さらに多くのジェムを手に入れることができます！",
+  "skill.level": "レフ {{level}}/{{max}}",
+  "skill.upgrade": "アップグレード",
+  "skill.rank": "ランク",
+  "skill.rankProgress": "{{level}} または {{max}}",
+  "skill.max": "マックス",
+  "skill.rankReward": "ランク {{rank}} 報酬",
+  "skill.strengthensBoost": "このブーストを強化します",
+  "skill.fullyUpgraded": "完全アップグレード — 最大ブースト有効",
+  "skill.upgradeToRank": "ランクにアップグレード {{rank}}"
 }

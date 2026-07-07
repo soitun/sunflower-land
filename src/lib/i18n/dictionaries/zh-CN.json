@@ -9187,5 +9187,14 @@
   "chapterCropWeek.specialEventRecipe": "特别活动食谱",
   "chapterCropWeek.daysRemaining": "{{days}} 天数剩余",
   "chapterCropWeek.comingSoon": "该物品可在章节作物周期间进行交易。稍后再回来看看！",
-  "transaction.upgradePrompt": "以同样的价格你可以获得 {{amount}} 宝石包并获得更多宝石！"
+  "transaction.upgradePrompt": "以同样的价格你可以获得 {{amount}} 宝石包并获得更多宝石！",
+  "skill.level": "Lv {{level}}/{{max}}",
+  "skill.upgrade": "升级",
+  "skill.rank": "等级",
+  "skill.rankProgress": "{{max}} 中的 {{level}}",
+  "skill.max": "最大",
+  "skill.rankReward": "等级 {{rank}} 奖励",
+  "skill.strengthensBoost": "强化此提升",
+  "skill.fullyUpgraded": "全面升级 — 激活最大增强",
+  "skill.upgradeToRank": "升级到等级 {{rank}}"
 }

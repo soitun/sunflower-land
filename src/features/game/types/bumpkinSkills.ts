@@ -153,6 +153,18 @@ export type BumpkinSkill = {
 
 export type BumpkinSkillTier = 1 | 2 | 3;
 
+// Marks a skill as upgradeable to a higher rank. Cost per rank-up is derived
+// from the skill's tier (see getSkillUpgradeCost), not stored here.
+export type SkillUpgrade = {
+  maxLevel: number;
+};
+
+// Cost of a single rank-up for a skill of the given tier (flat per upgrade).
+export const getSkillUpgradeCost = (tier: BumpkinSkillTier) => ({
+  shards: tier,
+  points: tier * 3,
+});
+
 export type BumpkinSkillRevamp = {
   name: string;
   tree: BumpkinRevampSkillTree;
@@ -171,6 +183,7 @@ export type BumpkinSkillRevamp = {
   npc?: NPCName;
   disabled: boolean;
   power?: boolean;
+  upgrade?: SkillUpgrade;
 };
 
 export const BUMPKIN_SKILL_TREE: Record<BumpkinSkillName, BumpkinSkill> = {
@@ -398,6 +411,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Green Thumb": {
     name: "Green Thumb",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -416,6 +430,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Young Farmer": {
     name: "Young Farmer",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -434,6 +449,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Experienced Farmer": {
     name: "Experienced Farmer",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -452,6 +468,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Old Farmer": {
     name: "Old Farmer",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -470,6 +487,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Chonky Scarecrow": {
     name: "Chonky Scarecrow",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -489,6 +507,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Betty's Friend": {
     name: "Betty's Friend",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 1,
       tier: 1,
@@ -510,6 +529,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Strong Roots": {
     name: "Strong Roots",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 2,
       tier: 2,
@@ -528,6 +548,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Coin Swindler": {
     name: "Coin Swindler",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 2,
       tier: 2,
@@ -547,6 +568,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Golden Sunflower": {
     name: "Golden Sunflower",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 2,
       tier: 2,
@@ -566,6 +588,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Horror Mike": {
     name: "Horror Mike",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 2,
       tier: 2,
@@ -585,6 +608,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Laurie's Gains": {
     name: "Laurie's Gains",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 2,
       tier: 2,
@@ -605,6 +629,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Instant Growth": {
     name: "Instant Growth",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 3,
       tier: 3,
@@ -624,6 +649,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Acre Farm": {
     name: "Acre Farm",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 3,
       tier: 3,
@@ -647,6 +673,7 @@ export const BUMPKIN_REVAMP_SKILL_TREE = {
   "Hectare Farm": {
     name: "Hectare Farm",
     tree: "Crops",
+    upgrade: { maxLevel: 3 },
     requirements: {
       points: 3,
       tier: 3,

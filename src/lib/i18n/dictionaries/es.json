@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "precio de la moneda x {{value}} hacha",
   "skill.moneyTree.ranked": "{{value}}% de probabilidad de encontrar 200 monedas al cortar árboles",
   "skill.treeTurnaround.ranked": "{{value}}% de probabilidad de que los árboles crezcan al instante",
-  "skill.treeBlitz.ranked": "Haz crecer todos los árboles al instante. {{value}} tiempo de reutilización"
+  "skill.treeBlitz.ranked": "Haz crecer todos los árboles al instante. {{value}} tiempo de reutilización",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP hasta el siguiente ciclo"
 }

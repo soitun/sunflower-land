@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} costo della moneta d'ascia",
   "skill.moneyTree.ranked": "{{value}}% di possibilità di trovare 200 monete tagliando alberi",
   "skill.treeTurnaround.ranked": "{{value}}% di possibilità che gli alberi crescano istantaneamente",
-  "skill.treeBlitz.ranked": "Fai crescere istantaneamente tutti gli alberi. {{value}} tempo di recupero"
+  "skill.treeBlitz.ranked": "Fai crescere istantaneamente tutti gli alberi. {{value}} tempo di recupero",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP al ciclo successivo"
 }

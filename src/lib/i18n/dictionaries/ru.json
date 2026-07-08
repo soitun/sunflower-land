@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x{{value}} axe coin cost",
   "skill.moneyTree.ranked": "{{value}}% chance of finding 200 Coins when chopping trees",
   "skill.treeTurnaround.ranked": "{{value}}% chance for trees to grow instantly",
-  "skill.treeBlitz.ranked": "Instantly grow all trees. {{value}} cooldown"
+  "skill.treeBlitz.ranked": "Instantly grow all trees. {{value}} cooldown",
+  "sleepingAnimal.xpToNextCycle": "+{{xpToNext}} XP to next cycle"
 }

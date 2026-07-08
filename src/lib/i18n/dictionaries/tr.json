@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} balta madeni para maliyeti",
   "skill.moneyTree.ranked": "{{value}} Ağaç keserken 200 jeton bulma şansı %",
   "skill.treeTurnaround.ranked": "{{value}} Ağaçların anında büyüme şansı %",
-  "skill.treeBlitz.ranked": "Tüm ağaçları anında büyütün. {{value}} bekleme süresi"
+  "skill.treeBlitz.ranked": "Tüm ağaçları anında büyütün. {{value}} bekleme süresi",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} Bir sonraki döngüye XP"
 }

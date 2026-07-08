@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} アックスコインコスト",
   "skill.moneyTree.ranked": "木を切り倒しているときに {{value}} %の確率で200枚のコインが見つかる",
   "skill.treeTurnaround.ranked": "木が瞬時に成長する確率は {{value}}%",
-  "skill.treeBlitz.ranked": "すべての木を瞬時に成長させる。{{value}} クールダウン"
+  "skill.treeBlitz.ranked": "すべての木を瞬時に成長させる。{{value}} クールダウン",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP を次のサイクルへ"
 }

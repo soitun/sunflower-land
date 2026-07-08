@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "Coût de la pièce de hache x {{value}}",
   "skill.moneyTree.ranked": "{{value}} % de chances de trouver 200 pièces en coupant des arbres",
   "skill.treeTurnaround.ranked": "{{value}} % de chances que les arbres poussent instantanément",
-  "skill.treeBlitz.ranked": "Faites pousser instantanément tous les arbres. {{value}} temps de recharge"
+  "skill.treeBlitz.ranked": "Faites pousser instantanément tous les arbres. {{value}} temps de recharge",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP au cycle suivant"
 }

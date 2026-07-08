@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "custo da moeda de x {{value}} machado",
   "skill.moneyTree.ranked": "{{value}}% de chance de encontrar 200 moedas ao cortar árvores",
   "skill.treeTurnaround.ranked": "{{value}}% de chance de as árvores crescerem instantaneamente",
-  "skill.treeBlitz.ranked": "Faça crescer instantaneamente todas as árvores. {{value}} tempo de recarga"
+  "skill.treeBlitz.ranked": "Faça crescer instantaneamente todas as árvores. {{value}} tempo de recarga",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP para o próximo ciclo"
 }

@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} biaya koin kapak",
   "skill.moneyTree.ranked": "{{value}}% peluang menemukan 200 Koin saat menebang pohon",
   "skill.treeTurnaround.ranked": "{{value}}% peluang pohon untuk tumbuh secara instan",
-  "skill.treeBlitz.ranked": "Tumbuhkan semua pohon secara instan. {{value}} cooldown"
+  "skill.treeBlitz.ranked": "Tumbuhkan semua pohon secara instan. {{value}} cooldown",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP ke siklus berikutnya"
 }

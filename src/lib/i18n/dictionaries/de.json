@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} Kosten einer Axtmünze",
   "skill.moneyTree.ranked": "{{value}}% Chance, beim Baumfällen 200 Münzen zu finden",
   "skill.treeTurnaround.ranked": "{{value}}% Chance, dass Bäume sofort wachsen",
-  "skill.treeBlitz.ranked": "Lass sofort alle Bäume wachsen. {{value}} Abklingzeit"
+  "skill.treeBlitz.ranked": "Lass sofort alle Bäume wachsen. {{value}} Abklingzeit",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP zum nächsten Zyklus"
 }

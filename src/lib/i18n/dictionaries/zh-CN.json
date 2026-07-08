@@ -9255,5 +9255,6 @@
   "skill.fellersDiscount.ranked": "x {{value}} 斧头硬币成本",
   "skill.moneyTree.ranked": "{{value}} 砍树时有% 的几率找到 200 个硬币",
   "skill.treeTurnaround.ranked": "{{value}} 树木立即生长的几率百分比",
-  "skill.treeBlitz.ranked": "立即种出所有树木。{{value}} 冷却时间"
+  "skill.treeBlitz.ranked": "立即种出所有树木。{{value}} 冷却时间",
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} 下个周期的经验值"
 }

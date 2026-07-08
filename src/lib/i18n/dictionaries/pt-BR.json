@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento avançado da safra",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento básico e médio da safra",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Rendimento básico e médio da safra",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento avançado da safra"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento avançado da safra",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} rendimento de madeira",
+  "skill.treeCharge.ranked": "x {{value}} tempo de crescimento da árvore",
+  "skill.moreAxes.ranked": "+ {{value}} estoque de eixo",
+  "skill.toughTree.ranked": "{{value}}% de chance de rendimento de madeira x3",
+  "skill.fellersDiscount.ranked": "custo da moeda de x {{value}} machado",
+  "skill.moneyTree.ranked": "{{value}}% de chance de encontrar 200 moedas ao cortar árvores",
+  "skill.treeTurnaround.ranked": "{{value}}% de chance de as árvores crescerem instantaneamente",
+  "skill.treeBlitz.ranked": "Faça crescer instantaneamente todas as árvores. {{value}} tempo de recarga"
 }

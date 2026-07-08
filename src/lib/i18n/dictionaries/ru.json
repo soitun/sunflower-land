@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+{{value}} Advanced crop yield",
   "skill.acreFarm.debuff.ranked": "-{{value}} Basic and Medium crop yield",
   "skill.hectareFarm.buff.ranked": "+{{value}} Basic and Medium crop yield",
-  "skill.hectareFarm.debuff.ranked": "-{{value}} Advanced crop yield"
+  "skill.hectareFarm.debuff.ranked": "-{{value}} Advanced crop yield",
+  "skill.lumberjacksExtra.ranked": "+{{value}} wood yield",
+  "skill.treeCharge.ranked": "x{{value}} tree growth time",
+  "skill.moreAxes.ranked": "+{{value}} axe stock",
+  "skill.toughTree.ranked": "{{value}}% chance of x3 wood yield",
+  "skill.fellersDiscount.ranked": "x{{value}} axe coin cost",
+  "skill.moneyTree.ranked": "{{value}}% chance of finding 200 Coins when chopping trees",
+  "skill.treeTurnaround.ranked": "{{value}}% chance for trees to grow instantly",
+  "skill.treeBlitz.ranked": "Instantly grow all trees. {{value}} cooldown"
 }

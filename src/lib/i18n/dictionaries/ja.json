@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} 高度な作物収量",
   "skill.acreFarm.debuff.ranked": "-{{value}} 基本および中程度の作物収量",
   "skill.hectareFarm.buff.ranked": "+ {{value}} 基本および中程度の作物収量",
-  "skill.hectareFarm.debuff.ranked": "-{{value}} 高度な作物収量"
+  "skill.hectareFarm.debuff.ranked": "-{{value}} 高度な作物収量",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} 木材生産量",
+  "skill.treeCharge.ranked": "x {{value}} ツリーの成長時間",
+  "skill.moreAxes.ranked": "+ {{value}} 軸ストック",
+  "skill.toughTree.ranked": "木材生産量が3倍になる確率 {{value}}%",
+  "skill.fellersDiscount.ranked": "x {{value}} アックスコインコスト",
+  "skill.moneyTree.ranked": "木を切り倒しているときに {{value}} %の確率で200枚のコインが見つかる",
+  "skill.treeTurnaround.ranked": "木が瞬時に成長する確率は {{value}}%",
+  "skill.treeBlitz.ranked": "すべての木を瞬時に成長させる。{{value}} クールダウン"
 }

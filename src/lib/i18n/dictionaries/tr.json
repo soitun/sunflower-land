@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Gelişmiş mahsul verimi",
   "skill.acreFarm.debuff.ranked": "- {{value}} Temel ve Orta mahsul verimi",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Temel ve Orta mahsul verimi",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Gelişmiş mahsul verimi"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Gelişmiş mahsul verimi",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} odun verimi",
+  "skill.treeCharge.ranked": "x {{value}} ağaç büyüme süresi",
+  "skill.moreAxes.ranked": "+ {{value}} balta stoğu",
+  "skill.toughTree.ranked": "{{value}} %x3 odun verimi şansı",
+  "skill.fellersDiscount.ranked": "x {{value}} balta madeni para maliyeti",
+  "skill.moneyTree.ranked": "{{value}} Ağaç keserken 200 jeton bulma şansı %",
+  "skill.treeTurnaround.ranked": "{{value}} Ağaçların anında büyüme şansı %",
+  "skill.treeBlitz.ranked": "Tüm ağaçları anında büyütün. {{value}} bekleme süresi"
 }

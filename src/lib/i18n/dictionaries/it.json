@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento delle colture avanzato",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento delle colture di base e medio",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Rendimento delle colture di base e medio",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento delle colture avanzato"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento delle colture avanzato",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} resa in legno",
+  "skill.treeCharge.ranked": "x {{value}} tempo di crescita dell'albero",
+  "skill.moreAxes.ranked": "+ {{value}} azioni",
+  "skill.toughTree.ranked": "{{value}}% di possibilità di resa del legno x3",
+  "skill.fellersDiscount.ranked": "x {{value}} costo della moneta d'ascia",
+  "skill.moneyTree.ranked": "{{value}}% di possibilità di trovare 200 monete tagliando alberi",
+  "skill.treeTurnaround.ranked": "{{value}}% di possibilità che gli alberi crescano istantaneamente",
+  "skill.treeBlitz.ranked": "Fai crescere istantaneamente tutti gli alberi. {{value}} tempo di recupero"
 }

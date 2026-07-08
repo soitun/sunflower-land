@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Hasil panen lanjutan",
   "skill.acreFarm.debuff.ranked": "- {{value}} Hasil panen dasar dan menengah",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Hasil panen dasar dan menengah",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Hasil panen lanjutan"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Hasil panen lanjutan",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} hasil kayu",
+  "skill.treeCharge.ranked": "x {{value}} waktu pertumbuhan pohon",
+  "skill.moreAxes.ranked": "+ {{value}} stok kapak",
+  "skill.toughTree.ranked": "{{value}}% peluang hasil kayu x3",
+  "skill.fellersDiscount.ranked": "x {{value}} biaya koin kapak",
+  "skill.moneyTree.ranked": "{{value}}% peluang menemukan 200 Koin saat menebang pohon",
+  "skill.treeTurnaround.ranked": "{{value}}% peluang pohon untuk tumbuh secara instan",
+  "skill.treeBlitz.ranked": "Tumbuhkan semua pohon secara instan. {{value}} cooldown"
 }

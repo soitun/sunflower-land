@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Erweiterter Ernteertrag",
   "skill.acreFarm.debuff.ranked": "- {{value}} Grundernteertrag und mittlerer Ernteertrag",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Grundernteertrag und mittlerer Ernteertrag",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Fortgeschrittener Ernteertrag"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Fortgeschrittener Ernteertrag",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} Holzausbeute",
+  "skill.treeCharge.ranked": "x {{value}} Baumwachstumszeit",
+  "skill.moreAxes.ranked": "+ {{value}} Axtstock",
+  "skill.toughTree.ranked": "{{value}}% Chance auf einen dreifachen Holzertrag",
+  "skill.fellersDiscount.ranked": "x {{value}} Kosten einer Axtmünze",
+  "skill.moneyTree.ranked": "{{value}}% Chance, beim Baumfällen 200 Münzen zu finden",
+  "skill.treeTurnaround.ranked": "{{value}}% Chance, dass Bäume sofort wachsen",
+  "skill.treeBlitz.ranked": "Lass sofort alle Bäume wachsen. {{value}} Abklingzeit"
 }

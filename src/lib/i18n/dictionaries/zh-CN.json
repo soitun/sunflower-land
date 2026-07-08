@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} 提高作物产量",
   "skill.acreFarm.debuff.ranked": "-{{value}} 基本和中等作物产量",
   "skill.hectareFarm.buff.ranked": "+ {{value}} 基本和中等作物产量",
-  "skill.hectareFarm.debuff.ranked": "-{{value}} 提高作物产量"
+  "skill.hectareFarm.debuff.ranked": "-{{value}} 提高作物产量",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} 木材产量",
+  "skill.treeCharge.ranked": "x {{value}} 树的生长时间",
+  "skill.moreAxes.ranked": "+ {{value}} 斧头",
+  "skill.toughTree.ranked": "{{value}} 获得 x3 木材产量的几率百分比",
+  "skill.fellersDiscount.ranked": "x {{value}} 斧头硬币成本",
+  "skill.moneyTree.ranked": "{{value}} 砍树时有% 的几率找到 200 个硬币",
+  "skill.treeTurnaround.ranked": "{{value}} 树木立即生长的几率百分比",
+  "skill.treeBlitz.ranked": "立即种出所有树木。{{value}} 冷却时间"
 }

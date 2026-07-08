@@ -9247,5 +9247,13 @@
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendement des cultures avancé",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendement des cultures de base et moyen",
   "skill.hectareFarm.buff.ranked": "+ {{value}} Rendement des cultures de base et moyen",
-  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendement des cultures avancé"
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendement des cultures avancé",
+  "skill.lumberjacksExtra.ranked": "+ {{value}} rendement en bois",
+  "skill.treeCharge.ranked": "x {{value}} temps de croissance de l'arbre",
+  "skill.moreAxes.ranked": "+ {{value}} crosse pour hache",
+  "skill.toughTree.ranked": "{{value}} % de chances d'obtenir un rendement en bois multiplié par 3",
+  "skill.fellersDiscount.ranked": "Coût de la pièce de hache x {{value}}",
+  "skill.moneyTree.ranked": "{{value}} % de chances de trouver 200 pièces en coupant des arbres",
+  "skill.treeTurnaround.ranked": "{{value}} % de chances que les arbres poussent instantanément",
+  "skill.treeBlitz.ranked": "Faites pousser instantanément tous les arbres. {{value}} temps de recharge"
 }

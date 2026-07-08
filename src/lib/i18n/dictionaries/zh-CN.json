@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}} 砍树时有% 的几率找到 200 个硬币",
   "skill.treeTurnaround.ranked": "{{value}} 树木立即生长的几率百分比",
   "skill.treeBlitz.ranked": "立即种出所有树木。{{value}} 冷却时间",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} 下个周期的经验值"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} 下个周期的经验值",
+  "skill.rockAndRoll.ranked": "+ {{value}} 宝石产量",
+  "skill.ironBumpkin.ranked": "+ {{value}} 铁产量",
+  "skill.speedMiner.ranked": "x {{value}} 宝石回收时间",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% 铁匠配送收入",
+  "skill.ironHustle.ranked": "x {{value}} 铁回收时间",
+  "skill.frugalMiner.ranked": "x {{value}} 所有镐的硬币成本",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} 宝石产量",
+  "skill.rockyFavor.debuff.ranked": "-{{value}} 铁产量",
+  "skill.fireKissed.ranked": "+ {{value}} 连续第 5 次开采的猩红石矿产量",
+  "skill.midasSprint.ranked": "x {{value}} 金币回收时间",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} 铁产量",
+  "skill.ferrousFavor.debuff.ranked": "-{{value}} 宝石产量",
+  "skill.goldenTouch.ranked": "+ {{value}} 黄金收益率",
+  "skill.morePicks.ranked": "增加的库存：+ {{pickaxe}} 镐，+ {{stone}} 石镐，+ {{iron}} 铁镐，+ {{gold}} 金镐",
+  "skill.firesideAlchemist.ranked": "x {{value}} 猩红石恢复时间",
+  "skill.midasRush.ranked": "x {{value}} 金币回收时间"
 }

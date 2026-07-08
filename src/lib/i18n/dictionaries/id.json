@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}}% peluang menemukan 200 Koin saat menebang pohon",
   "skill.treeTurnaround.ranked": "{{value}}% peluang pohon untuk tumbuh secara instan",
   "skill.treeBlitz.ranked": "Tumbuhkan semua pohon secara instan. {{value}} cooldown",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP ke siklus berikutnya"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP ke siklus berikutnya",
+  "skill.rockAndRoll.ranked": "+ {{value}} Hasil Batu",
+  "skill.ironBumpkin.ranked": "+ {{value}} Hasil Besi",
+  "skill.speedMiner.ranked": "x {{value}} Waktu pemulihan batu",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% Pendapatan pengiriman Blacksmith",
+  "skill.ironHustle.ranked": "x {{value}} Waktu pemulihan besi",
+  "skill.frugalMiner.ranked": "x {{value}} semua biaya koin beliung",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Hasil batu",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Hasil besi",
+  "skill.fireKissed.ranked": "+ {{value}} Hasil Crimstone pada tambang ke-5 berturut-turut",
+  "skill.midasSprint.ranked": "x {{value}} Waktu pemulihan emas",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Hasil besi",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Hasil batu",
+  "skill.goldenTouch.ranked": "+ {{value}} Imbal Hasil Emas",
+  "skill.morePicks.ranked": "Peningkatan stok: + {{pickaxe}} beliung, + {{stone}} Batu Pickaxe, + {{iron}} Beliung Besi, + {{gold}} Pickaxe Emas",
+  "skill.firesideAlchemist.ranked": "x {{value}} Waktu pemulihan Crimstone",
+  "skill.midasRush.ranked": "x {{value}} Waktu pemulihan emas"
 }

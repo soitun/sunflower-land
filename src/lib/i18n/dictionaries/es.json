@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}}% de probabilidad de encontrar 200 monedas al cortar árboles",
   "skill.treeTurnaround.ranked": "{{value}}% de probabilidad de que los árboles crezcan al instante",
   "skill.treeBlitz.ranked": "Haz crecer todos los árboles al instante. {{value}} tiempo de reutilización",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP hasta el siguiente ciclo"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP hasta el siguiente ciclo",
+  "skill.rockAndRoll.ranked": "+ {{value}} Rendimiento de piedras",
+  "skill.ironBumpkin.ranked": "+ {{value}} Rendimiento de hierro",
+  "skill.speedMiner.ranked": "x {{value}} Tiempo de recuperación de Stone",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% de ingresos por entregas de Blacksmith",
+  "skill.ironHustle.ranked": "x {{value}} Tiempo de recuperación del hierro",
+  "skill.frugalMiner.ranked": "x {{value}} cuestan todas las monedas de pico",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Rendimiento de piedras",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Rendimiento de hierro",
+  "skill.fireKissed.ranked": "+ {{value}} Rendimiento de Crimstone por quinta mina consecutiva",
+  "skill.midasSprint.ranked": "x {{value}} Tiempo de recuperación del oro",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Rendimiento de hierro",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Rendimiento de piedras",
+  "skill.goldenTouch.ranked": "+ {{value}} Rendimiento del oro",
+  "skill.morePicks.ranked": "Aumento de existencias: + {{pickaxe}} Pico, + {{stone}} Pico de piedra, + {{iron}} Pico de hierro, + {{gold}} Pico de oro",
+  "skill.firesideAlchemist.ranked": "x {{value}} Tiempo de recuperación de Crimstone",
+  "skill.midasRush.ranked": "x {{value}} Tiempo de recuperación del oro"
 }

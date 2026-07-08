@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}} % de chances de trouver 200 pièces en coupant des arbres",
   "skill.treeTurnaround.ranked": "{{value}} % de chances que les arbres poussent instantanément",
   "skill.treeBlitz.ranked": "Faites pousser instantanément tous les arbres. {{value}} temps de recharge",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP au cycle suivant"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP au cycle suivant",
+  "skill.rockAndRoll.ranked": "+ {{value}} Rendement en pierres",
+  "skill.ironBumpkin.ranked": "+ {{value}} Rendement en fer",
+  "skill.speedMiner.ranked": "x {{value}} Temps de récupération de la pierre",
+  "skill.forgeWardProfits.ranked": "+ {{value}} % des revenus des livraisons de forgerons",
+  "skill.ironHustle.ranked": "x {{value}} Temps de récupération du fer",
+  "skill.frugalMiner.ranked": "x {{value}} le coût de toutes les pièces de pioche",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Rendement en pierres",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Rendement en fer",
+  "skill.fireKissed.ranked": "+ {{value}} Rendement Crimstone pour la 5e mine consécutive",
+  "skill.midasSprint.ranked": "x {{value}} Temps de récupération de l'or",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Rendement en fer",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Rendement en pierres",
+  "skill.goldenTouch.ranked": "+ {{value}} Rendement en or",
+  "skill.morePicks.ranked": "Stock augmenté : + {{pickaxe}} Pioche, + {{stone}} Pioche en pierre, + {{iron}} Pioche en fer, + {{gold}} Pioche en or",
+  "skill.firesideAlchemist.ranked": "x {{value}} Temps de restauration de Crimstone",
+  "skill.midasRush.ranked": "x {{value}} Temps de récupération de l'or"
 }

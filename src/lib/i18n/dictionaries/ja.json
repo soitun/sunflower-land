@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "木を切り倒しているときに {{value}} %の確率で200枚のコインが見つかる",
   "skill.treeTurnaround.ranked": "木が瞬時に成長する確率は {{value}}%",
   "skill.treeBlitz.ranked": "すべての木を瞬時に成長させる。{{value}} クールダウン",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP を次のサイクルへ"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP を次のサイクルへ",
+  "skill.rockAndRoll.ranked": "+ {{value}} ストーンイールド",
+  "skill.ironBumpkin.ranked": "+ {{value}} 鉄の収量",
+  "skill.speedMiner.ranked": "x {{value}} ストーンの回復時間",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% 鍛冶屋配送収益",
+  "skill.ironHustle.ranked": "x {{value}} 鉄の回収時間",
+  "skill.frugalMiner.ranked": "x {{value}} すべてのツルハシのコインコスト",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} ストーンイールド",
+  "skill.rockyFavor.debuff.ranked": "-{{value}} 鉄の収量",
+  "skill.fireKissed.ranked": "+ {{value}} 5回連続の鉱山でのクリムストーンの収量",
+  "skill.midasSprint.ranked": "x {{value}} ゴールド回収時間",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} 鉄の収量",
+  "skill.ferrousFavor.debuff.ranked": "-{{value}} ストーン利回り",
+  "skill.goldenTouch.ranked": "+ {{value}} ゴールド利回り",
+  "skill.morePicks.ranked": "在庫増加:+ {{pickaxe}} ツルハシ、+ {{stone}} ストーンツルハシ、+ {{iron}} アイアンツルハシ、+ {{gold}} ゴールドツルハシ",
+  "skill.firesideAlchemist.ranked": "x {{value}} クリムストーンの回復時間",
+  "skill.midasRush.ranked": "x {{value}} ゴールド回収時間"
 }

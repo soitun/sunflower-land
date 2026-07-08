@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}} Ağaç keserken 200 jeton bulma şansı %",
   "skill.treeTurnaround.ranked": "{{value}} Ağaçların anında büyüme şansı %",
   "skill.treeBlitz.ranked": "Tüm ağaçları anında büyütün. {{value}} bekleme süresi",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} Bir sonraki döngüye XP"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} Bir sonraki döngüye XP",
+  "skill.rockAndRoll.ranked": "+ {{value}} Taş Verimi",
+  "skill.ironBumpkin.ranked": "+ {{value}} Demir Verimi",
+  "skill.speedMiner.ranked": "x {{value}} Taş kurtarma süresi",
+  "skill.forgeWardProfits.ranked": "+ {{value}} %Demirci teslimatları geliri",
+  "skill.ironHustle.ranked": "x {{value}} Demir geri kazanım süresi",
+  "skill.frugalMiner.ranked": "x {{value}} tüm kazma madeni para maliyeti",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Taş verimi",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Demir verimi",
+  "skill.fireKissed.ranked": "+ {{value}} Arka arkaya 5. madende Crimstone verimi",
+  "skill.midasSprint.ranked": "x {{value}} Altın kurtarma süresi",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Demir verimi",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Taş verimi",
+  "skill.goldenTouch.ranked": "+ {{value}} Altın Verimi",
+  "skill.morePicks.ranked": "Artan stok: + {{pickaxe}} Kazma, + {{stone}} Taş Kazma, + {{iron}} Demir Kazma, + {{gold}} Altın Kazma",
+  "skill.firesideAlchemist.ranked": "x {{value}} Crimstone kurtarma süresi",
+  "skill.midasRush.ranked": "x {{value}} Altın kurtarma süresi"
 }

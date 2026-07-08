@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}}% di possibilità di trovare 200 monete tagliando alberi",
   "skill.treeTurnaround.ranked": "{{value}}% di possibilità che gli alberi crescano istantaneamente",
   "skill.treeBlitz.ranked": "Fai crescere istantaneamente tutti gli alberi. {{value}} tempo di recupero",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP al ciclo successivo"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP al ciclo successivo",
+  "skill.rockAndRoll.ranked": "+ {{value}} Rendimento in pietra",
+  "skill.ironBumpkin.ranked": "+ {{value}} Rendimento in ferro",
+  "skill.speedMiner.ranked": "x {{value}} Tempo di recupero della pietra",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% Ricavi delle consegne di Blacksmith",
+  "skill.ironHustle.ranked": "x {{value}} Tempo di recupero del ferro",
+  "skill.frugalMiner.ranked": "x {{value}} costo in monete di tutti i picconi",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Rendimento in pietra",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Rendimento in ferro",
+  "skill.fireKissed.ranked": "+ {{value}} Rendimento del Crimstone sulla quinta miniera consecutiva",
+  "skill.midasSprint.ranked": "x {{value}} Tempo di recupero dell'oro",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Rendimento in ferro",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Resa in pietra",
+  "skill.goldenTouch.ranked": "+ {{value}} Rendimento in oro",
+  "skill.morePicks.ranked": "Aumento delle scorte: + {{pickaxe}} Piccone, + {{stone}} Piccone in pietra, + {{iron}} Piccone in ferro, + {{gold}} Piccone in oro",
+  "skill.firesideAlchemist.ranked": "x {{value}} Tempo di recupero di Crimstone",
+  "skill.midasRush.ranked": "x {{value}} Tempo di recupero dell'oro"
 }

@@ -9256,5 +9256,21 @@
   "skill.moneyTree.ranked": "{{value}}% Chance, beim Baumfällen 200 Münzen zu finden",
   "skill.treeTurnaround.ranked": "{{value}}% Chance, dass Bäume sofort wachsen",
   "skill.treeBlitz.ranked": "Lass sofort alle Bäume wachsen. {{value}} Abklingzeit",
-  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP zum nächsten Zyklus"
+  "sleepingAnimal.xpToNextCycle": "+ {{xpToNext}} XP zum nächsten Zyklus",
+  "skill.rockAndRoll.ranked": "+ {{value}} Steinertrag",
+  "skill.ironBumpkin.ranked": "+ {{value}} Eisenausbeute",
+  "skill.speedMiner.ranked": "x {{value}} Steinwiederherstellungszeit",
+  "skill.forgeWardProfits.ranked": "+ {{value}}% Umsatz mit Schmiedelieferungen",
+  "skill.ironHustle.ranked": "x {{value}} Eisenerholungszeit",
+  "skill.frugalMiner.ranked": "x {{value}} alle Pickax-Münzen kosten",
+  "skill.rockyFavor.buff.ranked": "+ {{value}} Steinausbeute",
+  "skill.rockyFavor.debuff.ranked": "- {{value}} Eisenausbeute",
+  "skill.fireKissed.ranked": "+ {{value}} Crimstone-Ertrag bei der 5. Mine in Folge",
+  "skill.midasSprint.ranked": "x {{value}} Gold-Wiederherstellungszeit",
+  "skill.ferrousFavor.buff.ranked": "+ {{value}} Eisenausbeute",
+  "skill.ferrousFavor.debuff.ranked": "- {{value}} Steinausbeute",
+  "skill.goldenTouch.ranked": "+ {{value}} Goldrendite",
+  "skill.morePicks.ranked": "Erhöhter Vorrat: + {{pickaxe}} Spitzhacke, + {{stone}} Stein-Spitzhacke, + {{iron}} Eisen-Spitzhacke, + {{gold}} Goldene Spitzhacke",
+  "skill.firesideAlchemist.ranked": "x {{value}} Erholungszeit für Crimstone",
+  "skill.midasRush.ranked": "x {{value}} Gold-Wiederherstellungszeit"
 }

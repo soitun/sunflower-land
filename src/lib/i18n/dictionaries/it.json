@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} energia ciascuno",
   "pets.bulkFetch.willFetch": "Recupererà {{amount}}",
   "pets.bulkFetch.short": "{{have}} di {{want}} — energia insufficiente",
-  "pets.bulkFetch.noPets": "Nessun animale domestico è pronto per essere recuperato in questo momento."
+  "pets.bulkFetch.noPets": "Nessun animale domestico è pronto per essere recuperato in questo momento.",
+  "skill.greenThumb.ranked": "x {{value}} traccia il tempo di crescita delle colture",
+  "skill.youngFarmer.ranked": "+ {{value}} Rendimento base delle colture",
+  "skill.experiencedFarmer.ranked": "+ {{value}} Rendimento medio del raccolto",
+  "skill.oldFarmer.ranked": "+ {{value}} Rendimento delle colture avanzato",
+  "skill.bettysFriend.ranked": "I ricavi delle consegne di Betty Coin sono aumentati del {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} Tempo di crescita avanzato delle colture",
+  "skill.coinSwindler.ranked": "+ {{value}}% di monete quando si vendono colture da orto al mercato",
+  "skill.goldenSunflower.ranked": "1/ {{value}} possibilità di 0,35 oro durante la raccolta dei girasoli (esclusa Crop Machine)",
+  "skill.chonkyScarecrow.ranked": "Aumenta l'area d'effetto (AOE) dello Spaventapasseri di base a un'area {{size}}; tempo di crescita base del raccolto aggiuntivo x0,9",
+  "skill.horrorMike.ranked": "Aumenta l'area d'effetto (AOE) di Scary Mike a un'area {{size}}; resa media aggiuntiva del raccolto di +0,1",
+  "skill.lauriesGains.ranked": "Aumenta l'area d'effetto (AOE) di Laurie the Chuckle Crow a un'area {{size}}; resa del raccolto avanzata aggiuntiva di +0,1",
+  "skill.instantGrowth.ranked": "Raccogli istantaneamente tutte le colture in crescita. {{value}} tempo di recupero",
+  "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento delle colture avanzato",
+  "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento delle colture di base e medio",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} Rendimento delle colture di base e medio",
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento delle colture avanzato"
 }

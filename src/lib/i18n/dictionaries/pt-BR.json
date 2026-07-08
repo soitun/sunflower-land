@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} energia cada",
   "pets.bulkFetch.willFetch": "Buscará {{amount}}",
   "pets.bulkFetch.short": "{{have}} de {{want}} — energia insuficiente",
-  "pets.bulkFetch.noPets": "Nenhum animal de estimação está pronto para ser buscado no momento."
+  "pets.bulkFetch.noPets": "Nenhum animal de estimação está pronto para ser buscado no momento.",
+  "skill.greenThumb.ranked": "x {{value}} traça o tempo de crescimento da cultura",
+  "skill.youngFarmer.ranked": "+ {{value}} Rendimento básico da safra",
+  "skill.experiencedFarmer.ranked": "+ {{value}} Rendimento médio da safra",
+  "skill.oldFarmer.ranked": "+ {{value}} Rendimento avançado da safra",
+  "skill.bettysFriend.ranked": "A receita de entrega da Betty Coin aumentou em {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} Tempo avançado de crescimento da cultura",
+  "skill.coinSwindler.ranked": "+ {{value}}% de moedas ao vender safras parceladas no mercado",
+  "skill.goldenSunflower.ranked": "1/ {{value}} chance de ganhar 0,35 de ouro ao colher girassóis (excluindo Crop Machine)",
+  "skill.chonkyScarecrow.ranked": "Aumenta a área de efeito (AOE) do Espantalho Básico para uma área de {{size}}; tempo adicional de crescimento básico da cultura de x0,9",
+  "skill.horrorMike.ranked": "Aumenta a área de efeito (AOE) de Scary Mike para uma área de {{size}}; rendimento médio adicional de +0,1 da safra",
+  "skill.lauriesGains.ranked": "Aumenta a área de efeito (AOE) de Laurie the Chuckle Crow para uma área de {{size}}; rendimento de safra avançado adicional de +0,1",
+  "skill.instantGrowth.ranked": "Colha instantaneamente todas as safras em crescimento. {{value}} tempo de recarga",
+  "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento avançado da safra",
+  "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento básico e médio da safra",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} Rendimento básico e médio da safra",
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimento avançado da safra"
 }

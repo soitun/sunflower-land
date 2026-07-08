@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} 每人能量",
   "pets.bulkFetch.willFetch": "将获取 {{amount}}",
   "pets.bulkFetch.short": "{{want}} 中的 {{have}} — 没有足够的能量",
-  "pets.bulkFetch.noPets": "现在没有宠物准备去取。"
+  "pets.bulkFetch.noPets": "现在没有宠物准备去取。",
+  "skill.greenThumb.ranked": "x {{value}} 绘制作物生长时间",
+  "skill.youngFarmer.ranked": "+ {{value}} 基本作物产量",
+  "skill.experiencedFarmer.ranked": "+ {{value}} 中等作物产量",
+  "skill.oldFarmer.ranked": "+ {{value}} 高级作物产量",
+  "skill.bettysFriend.ranked": "Betty Coin 的交付收入增加了 {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} 高级作物生长时间",
+  "skill.coinSwindler.ranked": "在市场上出售地块作物时 + {{value}}% 硬币",
+  "skill.goldenSunflower.ranked": "收获向日葵时有 1/ {{value}} 几率获得 0.35 金币（不包括作物机器）",
+  "skill.chonkyScarecrow.ranked": "将基础稻草人的效果区域 (AOE) 增加到 {{size}} 区域；额外的 x0.9 基础作物生长时间",
+  "skill.horrorMike.ranked": "将 Scary Mike 的效果区域 (AOE) 增加到 {{size}} 区域；额外 +0.1 中等作物产量",
+  "skill.lauriesGains.ranked": "将 Laurie the Chuckle Crow 的效果区域 (AOE) 增加到 {{size}} 区域；额外增加 +0.1 高级作物产量",
+  "skill.instantGrowth.ranked": "立即收获所有正在生长的农作物。{{value}} 冷却时间",
+  "skill.acreFarm.buff.ranked": "+ {{value}} 提高作物产量",
+  "skill.acreFarm.debuff.ranked": "-{{value}} 基本和中等作物产量",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} 基本和中等作物产量",
+  "skill.hectareFarm.debuff.ranked": "-{{value}} 提高作物产量"
 }

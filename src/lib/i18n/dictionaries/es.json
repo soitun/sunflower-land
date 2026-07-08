@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} energía cada uno",
   "pets.bulkFetch.willFetch": "Obtendrá {{amount}}",
   "pets.bulkFetch.short": "{{have}} de {{want}} — no hay suficiente energía",
-  "pets.bulkFetch.noPets": "No hay mascotas listas para recogerlas en este momento."
+  "pets.bulkFetch.noPets": "No hay mascotas listas para recogerlas en este momento.",
+  "skill.greenThumb.ranked": "x {{value}} grafica el tiempo de crecimiento del cultivo",
+  "skill.youngFarmer.ranked": "+ {{value}} Rendimiento del cultivo básico",
+  "skill.experiencedFarmer.ranked": "+ {{value}} Rendimiento de cosecha medio",
+  "skill.oldFarmer.ranked": "+ {{value}} Rendimiento de cultivo avanzado",
+  "skill.bettysFriend.ranked": "Los ingresos por entrega de Betty Coin aumentaron un {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} Tiempo avanzado de crecimiento del cultivo",
+  "skill.coinSwindler.ranked": "+ {{value}}% de monedas al vender cultivos agrícolas en el mercado",
+  "skill.goldenSunflower.ranked": "Probabilidad de 1/ {{value}} de conseguir 0.35 de oro al cosechar girasoles (excluyendo Crop Machine)",
+  "skill.chonkyScarecrow.ranked": "Aumenta el área de efecto (AOE) del espantapájaros básico a un área de {{size}}; el tiempo de crecimiento básico del cultivo aumenta x0.9 veces más",
+  "skill.horrorMike.ranked": "Aumenta el área de efecto (AOE) de Scary Mike a un área de {{size}}; un +0,1 más de rendimiento de cosecha media",
+  "skill.lauriesGains.ranked": "Aumenta el área de efecto (AOE) de Laurie the Chuckle Crow a un área de {{size}}; además, el rendimiento avanzado de la cosecha es de +0,1",
+  "skill.instantGrowth.ranked": "Cosecha al instante todos los cultivos en crecimiento. Tiempo de reutilización de {{value}}",
+  "skill.acreFarm.buff.ranked": "+ {{value}} Rendimiento de cultivo avanzado",
+  "skill.acreFarm.debuff.ranked": "- {{value}} Rendimiento de cosecha básico y medio",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} Rendimiento de cultivo básico y medio",
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Rendimiento de cultivo avanzado"
 }

@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} Energie jeweils",
   "pets.bulkFetch.willFetch": "Ruft {{amount}} ab",
   "pets.bulkFetch.short": "{{have}} von {{want}} — nicht genug Energie",
-  "pets.bulkFetch.noPets": "Im Moment sind keine Haustiere zum Abholen bereit."
+  "pets.bulkFetch.noPets": "Im Moment sind keine Haustiere zum Abholen bereit.",
+  "skill.greenThumb.ranked": "x {{value}} Wachstumszeit der Pflanzen auf dem Grundstück",
+  "skill.youngFarmer.ranked": "+ {{value}} Grundernteertrag",
+  "skill.experiencedFarmer.ranked": "+ {{value}} Mittlerer Ernteertrag",
+  "skill.oldFarmer.ranked": "+ {{value}} Fortgeschrittener Ernteertrag",
+  "skill.bettysFriend.ranked": "Der Umsatz mit Betty Coin-Lieferungen stieg um {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} Fortgeschrittene Wachstumszeit",
+  "skill.coinSwindler.ranked": "+ {{value}}% Münzen beim Verkauf von Nutzpflanzen auf dem Markt",
+  "skill.goldenSunflower.ranked": "1/ {{value}} Chance auf 0,35 Gold beim Ernten von Sonnenblumen (außer Crop Machine)",
+  "skill.chonkyScarecrow.ranked": "Erhöht den Wirkungsbereich (AOE) von Basic Scarecrow auf eine Fläche von {{size}}; zusätzliche x0,9 grundlegende Wachstumszeit der Pflanzen",
+  "skill.horrorMike.ranked": "Erhöht den Wirkungsbereich (AOE) von Scary Mike auf einen Bereich von {{size}}; zusätzlich +0,1 mittlerer Ernteertrag",
+  "skill.lauriesGains.ranked": "Erhöht den Wirkungsbereich (AOE) von Laurie the Chuckle Crow auf einen Bereich von {{size}}; zusätzlich +0,1 erweiterter Ernteertrag",
+  "skill.instantGrowth.ranked": "Ernten Sie sofort alle wachsenden Pflanzen. {{value}} Abklingzeit",
+  "skill.acreFarm.buff.ranked": "+ {{value}} Erweiterter Ernteertrag",
+  "skill.acreFarm.debuff.ranked": "- {{value}} Grundernteertrag und mittlerer Ernteertrag",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} Grundernteertrag und mittlerer Ernteertrag",
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Fortgeschrittener Ernteertrag"
 }

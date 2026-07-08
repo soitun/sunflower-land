@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "それぞれ {{energy}} エネルギー",
   "pets.bulkFetch.willFetch": "{{amount}} を取得します",
   "pets.bulkFetch.short": "{{want}} の {{have}} — エネルギーが足りません",
-  "pets.bulkFetch.noPets": "現在、飼う準備ができているペットはいません。"
+  "pets.bulkFetch.noPets": "現在、飼う準備ができているペットはいません。",
+  "skill.greenThumb.ranked": "x {{value}} プロットの作物の成長時間",
+  "skill.youngFarmer.ranked": "+ {{value}} 基本的な作物収量",
+  "skill.experiencedFarmer.ranked": "+ {{value}} 中程度の作物収量",
+  "skill.oldFarmer.ranked": "+ {{value}} 高度な作物収量",
+  "skill.bettysFriend.ranked": "ベティコインの配送収益が {{value}} %増加しました",
+  "skill.strongRoots.ranked": "x {{value}} 高度な作物成長時間",
+  "skill.coinSwindler.ranked": "マーケットで区画作物を売るとき+ {{value}} %コイン",
+  "skill.goldenSunflower.ranked": "ひまわりを収穫すると、1/ {{value}} の確率で0.35ゴールドを獲得できます (クロップマシンを除く)",
+  "skill.chonkyScarecrow.ranked": "基本スケアクロウの効果範囲 (AOE) を {{size}} の範囲に増やします。基本の作物の成長時間がさらに0.9倍になります",
+  "skill.horrorMike.ranked": "スカリー・マイクの効果範囲 (AOE) が {{size}} エリアに増加し、中収穫量+0.1を追加",
+  "skill.lauriesGains.ranked": "ローリー・ザ・チャックル・クロウの効果範囲 (AOE) が {{size}} の範囲に増加し、上級作物収量がさらに+0.1増加します",
+  "skill.instantGrowth.ranked": "栽培中の作物をすべて即座に収穫する。{{value}} クールダウン",
+  "skill.acreFarm.buff.ranked": "+ {{value}} 高度な作物収量",
+  "skill.acreFarm.debuff.ranked": "-{{value}} 基本および中程度の作物収量",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} 基本および中程度の作物収量",
+  "skill.hectareFarm.debuff.ranked": "-{{value}} 高度な作物収量"
 }

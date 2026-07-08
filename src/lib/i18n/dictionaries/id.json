@@ -9231,5 +9231,21 @@
   "pets.bulkFetch.energyEach": "{{energy}} energi masing-masing",
   "pets.bulkFetch.willFetch": "Akan mengambil {{amount}}",
   "pets.bulkFetch.short": "{{have}} dari {{want}} — tidak cukup energi",
-  "pets.bulkFetch.noPets": "Tidak ada hewan peliharaan yang siap diambil sekarang."
+  "pets.bulkFetch.noPets": "Tidak ada hewan peliharaan yang siap diambil sekarang.",
+  "skill.greenThumb.ranked": "x {{value}} plot waktu pertumbuhan tanaman",
+  "skill.youngFarmer.ranked": "+ {{value}} Hasil tanaman dasar",
+  "skill.experiencedFarmer.ranked": "+ {{value}} Hasil panen sedang",
+  "skill.oldFarmer.ranked": "+ {{value}} Hasil panen lanjutan",
+  "skill.bettysFriend.ranked": "Pendapatan pengiriman Betty Coin meningkat sebesar {{value}}%",
+  "skill.strongRoots.ranked": "x {{value}} Waktu pertumbuhan tanaman lanjutan",
+  "skill.coinSwindler.ranked": "+ {{value}}% koin saat menjual tanaman plot di Pasar",
+  "skill.goldenSunflower.ranked": "1/ {{value}} kesempatan untuk 0,35 emas saat memanen bunga matahari (tidak termasuk Mesin Tanaman)",
+  "skill.chonkyScarecrow.ranked": "Meningkatkan area efek Dasar Scarecrow (AOE) ke area {{size}}; Tambahan waktu pertumbuhan tanaman dasar x0.9",
+  "skill.horrorMike.ranked": "Meningkatkan area efek Scary Mike (AOE) ke area {{size}}; Tambahan +0,1 hasil panen sedang",
+  "skill.lauriesGains.ranked": "Meningkatkan area efek Laurie the Chuckle Crow (AOE) ke area {{size}}; Tambahan +0,1 hasil panen lanjutan",
+  "skill.instantGrowth.ranked": "Panen semua tanaman yang sedang tumbuh secara instan. {{value}} cooldown",
+  "skill.acreFarm.buff.ranked": "+ {{value}} Hasil panen lanjutan",
+  "skill.acreFarm.debuff.ranked": "- {{value}} Hasil panen dasar dan menengah",
+  "skill.hectareFarm.buff.ranked": "+ {{value}} Hasil panen dasar dan menengah",
+  "skill.hectareFarm.debuff.ranked": "- {{value}} Hasil panen lanjutan"
 }

@@ -602,7 +602,8 @@ const EFFECT_STATES = Object.values(STATE_MACHINE_EFFECTS).reduce(
               if (stateName !== "claimingAuctionRaffle") return false;
               if (event.data.state.transaction) return false;
               const prize = event.data.effect?.prize as
-                RaffleSnapshotWinner | undefined;
+                | RaffleSnapshotWinner
+                | undefined;
               if (!prize?.onChain) return false;
               return !!prize;
             },

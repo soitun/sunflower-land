@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} ゴールド利回り",
   "skill.morePicks.ranked": "在庫増加:+ {{pickaxe}} ツルハシ、+ {{stone}} ストーンツルハシ、+ {{iron}} アイアンツルハシ、+ {{gold}} ゴールドツルハシ",
   "skill.firesideAlchemist.ranked": "x {{value}} クリムストーンの回復時間",
-  "skill.midasRush.ranked": "x {{value}} ゴールド回収時間"
+  "skill.midasRush.ranked": "x {{value}} ゴールド回収時間",
+  "skill.fruitfulFumble.ranked": "+ {{value}} フルーツパッチの収量",
+  "skill.fruityHeaven.ranked": "x {{value}} フルーツパッチシードのコスト",
+  "skill.fruityProfit.ranked": "タンゴの配達による+ {{value}} %コイン",
+  "skill.catchup.ranked": "x {{value}} フルーツパッチの成長時間",
+  "skill.fruityWoody.ranked": "+ {{value}} 果実の枝や茎から採取した木材",
+  "skill.crimeFruit.ranked": "+ {{value}} トマトとレモンの種ストック",
+  "skill.generousOrchard.ranked": "+1フルーツパッチの収量が {{value}} %の確率",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} トマトとレモンの収穫量",
+  "skill.zestyVibes.debuff.ranked": "-他のすべてのフルーツパッチフルーツの {{value}} の収量",
+  "skill.loyalMacaw.ranked": "+ {{value}} コンゴウインコのフルーツパッチの収量",
+  "skill.pearTurbocharge.ranked": "x {{value}} イモータルペアーの効果",
+  "skill.noAxeNoWorries.debuff.ranked": "-{{value}} 果実の枝や茎から取れる木材",
+  "skill.longPickings.buff.ranked": "x {{value}} リンゴとバナナの成長時間",
+  "skill.longPickings.debuff.ranked": "他のすべてのフルーツパッチフルーツの+ {{value}} %の成長時間",
+  "skill.shortPickings.buff.ranked": "x {{value}} ブルーベリーとオレンジの成長時間",
+  "skill.shortPickings.debuff.ranked": "他のすべてのフルーツパッチフルーツの+ {{value}} %の成長時間"
 }

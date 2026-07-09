@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} Goldrendite",
   "skill.morePicks.ranked": "Erhöhter Vorrat: + {{pickaxe}} Spitzhacke, + {{stone}} Stein-Spitzhacke, + {{iron}} Eisen-Spitzhacke, + {{gold}} Goldene Spitzhacke",
   "skill.firesideAlchemist.ranked": "x {{value}} Erholungszeit für Crimstone",
-  "skill.midasRush.ranked": "x {{value}} Gold-Wiederherstellungszeit"
+  "skill.midasRush.ranked": "x {{value}} Gold-Wiederherstellungszeit",
+  "skill.fruitfulFumble.ranked": "+ {{value}} Fruit Patch-Ertrag",
+  "skill.fruityHeaven.ranked": "x {{value}} Kosten für Fruit Patch-Samen",
+  "skill.fruityProfit.ranked": "+ {{value}}% Münzen aus Tangos Lieferungen",
+  "skill.catchup.ranked": "x {{value}} Wachstumszeit von Fruit Patch",
+  "skill.fruityWoody.ranked": "+ {{value}} Holz aus Fruchtzweigen und Stängeln",
+  "skill.crimeFruit.ranked": "+ {{value}} Brühe mit Tomaten- und Zitronensamen",
+  "skill.generousOrchard.ranked": "{{value}}% Chance auf +1 Fruit Patch-Ertrag",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} Tomaten- und Zitronenertrag",
+  "skill.zestyVibes.debuff.ranked": "- {{value}} Ertrag für alle anderen Fruchtbeckenfrüchte",
+  "skill.loyalMacaw.ranked": "+ {{value}} Fruit Patch-Ertrag mit Ara",
+  "skill.pearTurbocharge.ranked": "x {{value}} Der Effekt von Immortal Pear",
+  "skill.noAxeNoWorries.debuff.ranked": "- {{value}} Holz aus Fruchtzweigen und Stängeln",
+  "skill.longPickings.buff.ranked": "x {{value}} Wachstumszeit von Äpfeln und Bananen",
+  "skill.longPickings.debuff.ranked": "+ {{value}}% Wachstumszeit für alle anderen Fruchtbeetfrüchte",
+  "skill.shortPickings.buff.ranked": "x {{value}} Wachstumszeit von Blaubeeren und Orangen",
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% Wachstumszeit für alle anderen Fruchtbeetfrüchte"
 }

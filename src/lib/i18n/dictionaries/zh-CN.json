@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} 黄金收益率",
   "skill.morePicks.ranked": "增加的库存：+ {{pickaxe}} 镐，+ {{stone}} 石镐，+ {{iron}} 铁镐，+ {{gold}} 金镐",
   "skill.firesideAlchemist.ranked": "x {{value}} 猩红石恢复时间",
-  "skill.midasRush.ranked": "x {{value}} 金币回收时间"
+  "skill.midasRush.ranked": "x {{value}} 金币回收时间",
+  "skill.fruitfulFumble.ranked": "+ {{value}} 水果补丁产量",
+  "skill.fruityHeaven.ranked": "x {{value}} 水果补丁种子成本",
+  "skill.fruityProfit.ranked": "+ {{value}}% 来自 Tango 配送的硬币",
+  "skill.catchup.ranked": "x {{value}} 水果补丁生长时间",
+  "skill.fruityWoody.ranked": "+ {{value}} 来自果枝和茎的木头",
+  "skill.crimeFruit.ranked": "+ {{value}} 番茄和柠檬种子库存",
+  "skill.generousOrchard.ranked": "{{value}}% 几率获得 +1 个水果补丁",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} 番茄和柠檬的产量",
+  "skill.zestyVibes.debuff.ranked": "-{{value}} 所有其他水果地果实的产量",
+  "skill.loyalMacaw.ranked": "+ {{value}} 金刚鹦鹉的水果补丁产量",
+  "skill.pearTurbocharge.ranked": "x {{value}} 不朽之梨的效果",
+  "skill.noAxeNoWorries.debuff.ranked": "-{{value}} 来自果枝和茎的木头",
+  "skill.longPickings.buff.ranked": "x {{value}} 苹果和香蕉的生长时间",
+  "skill.longPickings.debuff.ranked": "+ {{value}} 所有其他水果地水果的生长时间 + [0@/$]%",
+  "skill.shortPickings.buff.ranked": "x {{value}} 蓝莓和橙子的生长时间",
+  "skill.shortPickings.debuff.ranked": "+ {{value}} 所有其他水果地水果的生长时间 + [0@/$]%"
 }

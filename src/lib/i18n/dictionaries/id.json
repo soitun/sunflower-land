@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} Imbal Hasil Emas",
   "skill.morePicks.ranked": "Peningkatan stok: + {{pickaxe}} beliung, + {{stone}} Batu Pickaxe, + {{iron}} Beliung Besi, + {{gold}} Pickaxe Emas",
   "skill.firesideAlchemist.ranked": "x {{value}} Waktu pemulihan Crimstone",
-  "skill.midasRush.ranked": "x {{value}} Waktu pemulihan emas"
+  "skill.midasRush.ranked": "x {{value}} Waktu pemulihan emas",
+  "skill.fruitfulFumble.ranked": "+ {{value}} Hasil Petak Buah",
+  "skill.fruityHeaven.ranked": "x {{value}} Biaya benih Petak Buah",
+  "skill.fruityProfit.ranked": "+ {{value}}% koin dari pengiriman Tango",
+  "skill.catchup.ranked": "x {{value}} Waktu pertumbuhan Petak Buah",
+  "skill.fruityWoody.ranked": "+ {{value}} kayu dari cabang dan batang buah",
+  "skill.crimeFruit.ranked": "+ {{value}} Stok biji tomat dan lemon",
+  "skill.generousOrchard.ranked": "{{value}}% peluang hasil +1 Fruit Patch",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} Hasil tomat dan lemon",
+  "skill.zestyVibes.debuff.ranked": "- {{value}} hasil untuk semua buah petak buah lainnya",
+  "skill.loyalMacaw.ranked": "+ {{value}} Hasil Petak Buah dengan Macaw",
+  "skill.pearTurbocharge.ranked": "x {{value}} Efek Immortal Pear",
+  "skill.noAxeNoWorries.debuff.ranked": "- {{value}} kayu dari cabang dan batang buah",
+  "skill.longPickings.buff.ranked": "x {{value}} Waktu pertumbuhan apel dan pisang",
+  "skill.longPickings.debuff.ranked": "+ {{value}}% waktu pertumbuhan untuk semua buah petak buah lainnya",
+  "skill.shortPickings.buff.ranked": "x {{value}} Waktu pertumbuhan Blueberry dan Jeruk",
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% waktu pertumbuhan untuk semua buah petak buah lainnya"
 }

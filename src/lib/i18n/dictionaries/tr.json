@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} Altın Verimi",
   "skill.morePicks.ranked": "Artan stok: + {{pickaxe}} Kazma, + {{stone}} Taş Kazma, + {{iron}} Demir Kazma, + {{gold}} Altın Kazma",
   "skill.firesideAlchemist.ranked": "x {{value}} Crimstone kurtarma süresi",
-  "skill.midasRush.ranked": "x {{value}} Altın kurtarma süresi"
+  "skill.midasRush.ranked": "x {{value}} Altın kurtarma süresi",
+  "skill.fruitfulFumble.ranked": "+ {{value}} Meyve Yaması verimi",
+  "skill.fruityHeaven.ranked": "x {{value}} Fruit Patch tohumlarının maliyeti",
+  "skill.fruityProfit.ranked": "+ {{value}} Tango'nun teslimatlarından %madeni paralar",
+  "skill.catchup.ranked": "x {{value}} Meyve Yaması büyüme süresi",
+  "skill.fruityWoody.ranked": "+ {{value}} meyve dallarından ve saplarından ağaç",
+  "skill.crimeFruit.ranked": "+ {{value}} Domates ve Limon çekirdeği stoğu",
+  "skill.generousOrchard.ranked": "{{value}} %+1 Meyve Yaması verimi şansı",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} Domates ve Limon verimi",
+  "skill.zestyVibes.debuff.ranked": "- Diğer tüm meyve yaması meyveleri için {{value}} verim",
+  "skill.loyalMacaw.ranked": "+ {{value}} Amerika papağanı ile meyve yaması verimi",
+  "skill.pearTurbocharge.ranked": "x {{value}} Ölümsüz Armut etkisi",
+  "skill.noAxeNoWorries.debuff.ranked": "- {{value}} meyve dallarından ve saplarından ağaç",
+  "skill.longPickings.buff.ranked": "x {{value}} Elma ve Muz büyüme süresi",
+  "skill.longPickings.debuff.ranked": "+ {{value}} Diğer tüm meyve yaması meyveleri için% büyüme süresi",
+  "skill.shortPickings.buff.ranked": "x {{value}} Yaban mersini ve Portakal büyüme süresi",
+  "skill.shortPickings.debuff.ranked": "+ {{value}} Diğer tüm meyve yaması meyveleri için% büyüme süresi"
 }

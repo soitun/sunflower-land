@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} Rendimento de ouro",
   "skill.morePicks.ranked": "Aumento de estoque: + {{pickaxe}} Picareta, + {{stone}} Picareta de Pedra, + {{iron}} Picareta de Ferro, + {{gold}} Picareta de Ouro",
   "skill.firesideAlchemist.ranked": "x {{value}} Tempo de recuperação do Crimstone",
-  "skill.midasRush.ranked": "x {{value}} Tempo de recuperação do ouro"
+  "skill.midasRush.ranked": "x {{value}} Tempo de recuperação do ouro",
+  "skill.fruitfulFumble.ranked": "+ {{value}} Rendimento do canteiro de frutas",
+  "skill.fruityHeaven.ranked": "x {{value}} Custo das sementes do Fruit Patch",
+  "skill.fruityProfit.ranked": "+ {{value}}% de moedas das entregas da Tango",
+  "skill.catchup.ranked": "x {{value}} Tempo de crescimento do Fruit Patch",
+  "skill.fruityWoody.ranked": "+ {{value}} madeira de galhos e caules de frutas",
+  "skill.crimeFruit.ranked": "+ {{value}} Estoque de sementes de tomate e limão",
+  "skill.generousOrchard.ranked": "{{value}}% de chance de +1 rendimento em um canteiro de frutas",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} Rendimento de tomate e limão",
+  "skill.zestyVibes.debuff.ranked": "- {{value}} rendimento para todas as outras frutas de canteiros",
+  "skill.loyalMacaw.ranked": "+ {{value}} Rendimento de canteiros de frutas com arara",
+  "skill.pearTurbocharge.ranked": "x {{value}} Efeito da Pera Imortal",
+  "skill.noAxeNoWorries.debuff.ranked": "- {{value}} madeira de galhos e caules de frutas",
+  "skill.longPickings.buff.ranked": "x {{value}} Tempo de crescimento de maçã e banana",
+  "skill.longPickings.debuff.ranked": "+ {{value}}% de tempo de crescimento para todas as outras frutas da horta",
+  "skill.shortPickings.buff.ranked": "x {{value}} Tempo de crescimento de mirtilo e laranja",
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% de tempo de crescimento para todas as outras frutas da horta"
 }

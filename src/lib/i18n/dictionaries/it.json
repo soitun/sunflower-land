@@ -9272,5 +9272,21 @@
   "skill.goldenTouch.ranked": "+ {{value}} Rendimento in oro",
   "skill.morePicks.ranked": "Aumento delle scorte: + {{pickaxe}} Piccone, + {{stone}} Piccone in pietra, + {{iron}} Piccone in ferro, + {{gold}} Piccone in oro",
   "skill.firesideAlchemist.ranked": "x {{value}} Tempo di recupero di Crimstone",
-  "skill.midasRush.ranked": "x {{value}} Tempo di recupero dell'oro"
+  "skill.midasRush.ranked": "x {{value}} Tempo di recupero dell'oro",
+  "skill.fruitfulFumble.ranked": "+ {{value}} Rendimento dei frutteti",
+  "skill.fruityHeaven.ranked": "x {{value}} Costo dei semi di Fruit Patch",
+  "skill.fruityProfit.ranked": "+ {{value}}% di monete provenienti dalle consegne di Tango",
+  "skill.catchup.ranked": "x {{value}} Tempo di crescita di Fruit Patch",
+  "skill.fruityWoody.ranked": "+ {{value}} legno ricavato da rami e fusti di frutta",
+  "skill.crimeFruit.ranked": "+ {{value}} Brodo di pomodoro e semi di limone",
+  "skill.generousOrchard.ranked": "{{value}}% di probabilità di ottenere +1 Fruit Patch",
+  "skill.zestyVibes.buff.ranked": "+ {{value}} Resa di pomodori e limoni",
+  "skill.zestyVibes.debuff.ranked": "- {{value}} resa per tutti gli altri frutti da orto",
+  "skill.loyalMacaw.ranked": "+ {{value}} Rendimento di Fruit Patch con Macaw",
+  "skill.pearTurbocharge.ranked": "x {{value}} L'effetto di Immortal Pear",
+  "skill.noAxeNoWorries.debuff.ranked": "- {{value}} legno da rami e steli di frutta",
+  "skill.longPickings.buff.ranked": "x {{value}} Tempo di crescita di mele e banane",
+  "skill.longPickings.debuff.ranked": "+ {{value}}% tempo di crescita per tutti gli altri frutti da orto",
+  "skill.shortPickings.buff.ranked": "x {{value}} Tempo di crescita del mirtillo e dell'arancia",
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% tempo di crescita per tutti gli altri frutti da orto"
 }

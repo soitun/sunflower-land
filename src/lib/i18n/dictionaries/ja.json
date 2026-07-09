@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "これを持っていると、フェスティバル・オブ・カラーズのイベント終了後に$FLOWERが当たるチャンスがあります！",
   "colors2026.portal.title": "サンフラワー・サバイバーズ-フェスティバル・オブ・カラーズ",
   "colors2026.portal.description": "このBullet Heavenポータルで生き残り、できる限りすべてのスライムを倒してください！",
-  "colors2026.portal.missionObjectives": "一定時間生き残ってイベントトークンを手に入れよう！",
-  "eventStore.tier.extra.requirements": "イベントアイテムをすべて購入して、この最後の特別なデコレーションを手に入れましょう！",
-  "eventStore.tier.rare.requirements": "イベントアイテムを6個購入すると、レアなアイテムがアンロックされます。",
-  "eventStore.tier.epic.requirements": "イベントアイテムを12個購入して、エピックアイテムをアンロックしましょう。",
-  "eventStore.tier.mega.requirements": "イベントアイテムを16個購入すると、メガアイテムのロックが解除されます。",
   "eventColors2026.noticeboard.one": "フェスティバルオブカラーズ2026コミュニティイベントへようこそ！",
   "transaction.upgradePrompt": "より安く、より多くを手に入れましょう！{{amount}} ジェムパックの方が安価で、追加のジェムが手に入ります。",
   "pets.bulkFetch": "一括フェッチ",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} リンゴとバナナの成長時間",
   "skill.longPickings.debuff.ranked": "他のすべてのフルーツパッチフルーツの+ {{value}} %の成長時間",
   "skill.shortPickings.buff.ranked": "x {{value}} ブルーベリーとオレンジの成長時間",
-  "skill.shortPickings.debuff.ranked": "他のすべてのフルーツパッチフルーツの+ {{value}} %の成長時間"
+  "skill.shortPickings.debuff.ranked": "他のすべてのフルーツパッチフルーツの+ {{value}} %の成長時間",
+  "colors2026.portal.missionObjectives": "必要な量の経験値オーブを集めて、イベントトークンを手に入れましょう！",
+  "eventStore.tier.extra.requirements": "イベントアイテムをすべて購入して、この最後の特別なデコレーションを手に入れましょう！",
+  "eventStore.tier.rare.requirements": "5つのユニークなイベントアイテムを購入すると、レアなアイテムがアンロックされます。",
+  "eventStore.tier.epic.requirements": "ユニークなイベントアイテムを10個購入して、エピックアイテムをアンロックしましょう。",
+  "eventStore.tier.mega.requirements": "14種類のユニークなイベントアイテムを購入して、メガアイテムをアンロックしましょう。",
+  "npc.Modal.slimeJoe": "ハウディ!この新しいイベントを楽しんでいただければ幸いです。皆さんのご支援に感謝します！",
+  "npc.Modal.slimeJim": "私はハロウィンが好きです...次のイベントだといいんだけど..."
 }

@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "Renkler Festivali etkinliği sona erdikten sonra $FLOWER kazanma şansı için bunu tut!",
   "colors2026.portal.title": "Ayçiçeği Kurtulanları - Renkler Festivali",
   "colors2026.portal.description": "Bu Bullet Heaven portalında hayatta kal ve yapabileceğin tüm slimleri yen!",
-  "colors2026.portal.missionObjectives": "Etkinlik jetonları almak için belirli bir süre hayatta kalın!",
-  "eventStore.tier.extra.requirements": "Bu son özel dekorasyonu almak için tüm etkinlik öğelerini satın alın!",
-  "eventStore.tier.rare.requirements": "Nadir eşyaların kilidini açmak için 6 etkinlik öğesi satın alın.",
-  "eventStore.tier.epic.requirements": "Destansı öğelerin kilidini açmak için 12 etkinlik öğesi satın alın.",
-  "eventStore.tier.mega.requirements": "Mega eşyaların kilidini açmak için 16 etkinlik öğesi satın alın.",
   "eventColors2026.noticeboard.one": "Renkler Festivali 2026 Topluluk Etkinliğine Hoş Geldiniz!",
   "transaction.upgradePrompt": "Daha az öde, daha fazla al! {{amount}} mücevher paketi daha ucuzdur ve size ekstra mücevher verir.",
   "pets.bulkFetch": "Toplu Getirme",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} Elma ve Muz büyüme süresi",
   "skill.longPickings.debuff.ranked": "+ {{value}} Diğer tüm meyve yaması meyveleri için% büyüme süresi",
   "skill.shortPickings.buff.ranked": "x {{value}} Yaban mersini ve Portakal büyüme süresi",
-  "skill.shortPickings.debuff.ranked": "+ {{value}} Diğer tüm meyve yaması meyveleri için% büyüme süresi"
+  "skill.shortPickings.debuff.ranked": "+ {{value}} Diğer tüm meyve yaması meyveleri için% büyüme süresi",
+  "colors2026.portal.missionObjectives": "Etkinlik jetonları almak için gerekli miktarda deneyim küresi toplayın!",
+  "eventStore.tier.extra.requirements": "Bu son özel dekorasyonu almak için TÜM etkinlik öğelerini satın alın!",
+  "eventStore.tier.rare.requirements": "Nadir eşyaların kilidini açmak için 5 benzersiz etkinlik öğesi satın alın.",
+  "eventStore.tier.epic.requirements": "Destansı öğelerin kilidini açmak için 10 benzersiz etkinlik öğesi satın alın.",
+  "eventStore.tier.mega.requirements": "Mega eşyaların kilidini açmak için 14 benzersiz etkinlik öğesi satın alın.",
+  "npc.Modal.slimeJoe": "Selamlar! Umarım bu yeni etkinlikte eğlenirsiniz! Tüm desteğiniz için teşekkürler!",
+  "npc.Modal.slimeJim": "Cadılar Bayramı'nı tercih ederim... Umarım bir sonraki olay olur..."
 }

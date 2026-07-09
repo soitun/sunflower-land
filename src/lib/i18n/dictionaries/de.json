@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "Holt das, um nach Ende des Festival of Colors Events $FLOWER zu gewinnen!",
   "colors2026.portal.title": "Sunflower Survivors - Festival der Farben",
   "colors2026.portal.description": "Überlebe in diesem Bullet Heaven-Portal und besiege alle Schleime, die du kannst!",
-  "colors2026.portal.missionObjectives": "Überlebe eine bestimmte Zeit, um Event-Token zu erhalten!",
-  "eventStore.tier.extra.requirements": "Kaufe alle Event-Gegenstände, um dir diese letzte besondere Dekoration zu sichern!",
-  "eventStore.tier.rare.requirements": "Kaufe 6 Event-Gegenstände, um seltene Gegenstände freizuschalten.",
-  "eventStore.tier.epic.requirements": "Kaufe 12 Event-Gegenstände, um epische Gegenstände freizuschalten.",
-  "eventStore.tier.mega.requirements": "Kaufe 16 Event-Gegenstände, um Mega-Gegenstände freizuschalten.",
   "eventColors2026.noticeboard.one": "Willkommen zum Festival of Colors 2026 Community Event!",
   "transaction.upgradePrompt": "Zahlen Sie weniger, erhalten Sie mehr! Das Edelsteinpaket {{amount}} ist günstiger und bietet dir zusätzliche Edelsteine.",
   "pets.bulkFetch": "Massenabruf",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} Wachstumszeit von Äpfeln und Bananen",
   "skill.longPickings.debuff.ranked": "+ {{value}}% Wachstumszeit für alle anderen Fruchtbeetfrüchte",
   "skill.shortPickings.buff.ranked": "x {{value}} Wachstumszeit von Blaubeeren und Orangen",
-  "skill.shortPickings.debuff.ranked": "+ {{value}}% Wachstumszeit für alle anderen Fruchtbeetfrüchte"
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% Wachstumszeit für alle anderen Fruchtbeetfrüchte",
+  "colors2026.portal.missionObjectives": "Sammle die benötigte Menge an Erfahrungspugeln, um Event-Token zu erhalten!",
+  "eventStore.tier.extra.requirements": "Kaufe ALLE Event-Gegenstände, um diese letzte besondere Dekoration zu erhalten!",
+  "eventStore.tier.rare.requirements": "Kaufe 5 einzigartige Event-Gegenstände, um seltene Gegenstände freizuschalten.",
+  "eventStore.tier.epic.requirements": "Kaufe 10 einzigartige Event-Gegenstände, um epische Gegenstände freizuschalten.",
+  "eventStore.tier.mega.requirements": "Kaufe 14 einzigartige Event-Gegenstände, um Mega-Gegenstände freizuschalten.",
+  "npc.Modal.slimeJoe": "Hallöchen! Ich wünsche euch viel Spaß bei dieser neuen Veranstaltung! Danke für all deine Unterstützung!",
+  "npc.Modal.slimeJim": "Ich bevorzuge Halloween... Hoffentlich ist es das nächste Event..."
 }

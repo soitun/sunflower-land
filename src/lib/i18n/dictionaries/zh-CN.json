@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "持有此机会在色彩节活动结束后赢取 $FLOWER！",
   "colors2026.portal.title": "向日葵幸存者-色彩节",
   "colors2026.portal.description": "在这个 Bullet Heaven 传送门中生存，尽你所能击败所有史莱姆！",
-  "colors2026.portal.missionObjectives": "存活一定时间即可获得活动代币！",
-  "eventStore.tier.extra.requirements": "购买所有活动物品即可获得最后的特殊装饰！",
-  "eventStore.tier.rare.requirements": "购买 6 件活动物品来解锁稀有物品。",
-  "eventStore.tier.epic.requirements": "购买 12 件活动物品即可解锁史诗物品。",
-  "eventStore.tier.mega.requirements": "购买 16 个活动物品来解锁巨型物品。",
   "eventColors2026.noticeboard.one": "欢迎来到 2026 年色彩节社区活动！",
   "transaction.upgradePrompt": "少付钱，得到更多！{{amount}} 宝石包更便宜，还能给你额外的宝石。",
   "pets.bulkFetch": "批量提取",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} 苹果和香蕉的生长时间",
   "skill.longPickings.debuff.ranked": "+ {{value}} 所有其他水果地水果的生长时间 + [0@/$]%",
   "skill.shortPickings.buff.ranked": "x {{value}} 蓝莓和橙子的生长时间",
-  "skill.shortPickings.debuff.ranked": "+ {{value}} 所有其他水果地水果的生长时间 + [0@/$]%"
+  "skill.shortPickings.debuff.ranked": "+ {{value}} 所有其他水果地水果的生长时间 + [0@/$]%",
+  "colors2026.portal.missionObjectives": "收集所需数量的经验宝珠来获得活动代币！",
+  "eventStore.tier.extra.requirements": "购买所有活动物品即可获得最后的特殊装饰！",
+  "eventStore.tier.rare.requirements": "购买 5 件独特的活动物品来解锁稀有物品。",
+  "eventStore.tier.epic.requirements": "购买 10 件独一无二的活动物品来解锁史诗物品。",
+  "eventStore.tier.mega.requirements": "购买 14 个独特的活动物品来解锁巨型物品。",
+  "npc.Modal.slimeJoe": "你好！我希望你在这个新活动中玩得开心！感谢您的支持！",
+  "npc.Modal.slimeJim": "我更喜欢万圣节...希望这是下一个活动..."
 }

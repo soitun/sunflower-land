@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "Gardez-le pour courir la chance de gagner $FLOWER après la fin de l'événement Festival of Colors !",
   "colors2026.portal.title": "Sunflower Survivors - Festival des couleurs",
   "colors2026.portal.description": "Survivez dans ce portail Bullet Heaven et éliminez tous les slimes que vous pouvez !",
-  "colors2026.portal.missionObjectives": "Survivez pendant un certain temps pour obtenir des jetons d'événement !",
-  "eventStore.tier.extra.requirements": "Achetez tous les articles de l'événement pour obtenir cette dernière décoration spéciale !",
-  "eventStore.tier.rare.requirements": "Achetez 6 objets d'événement pour débloquer des objets rares.",
-  "eventStore.tier.epic.requirements": "Achetez 12 objets d'événement pour débloquer des objets épiques.",
-  "eventStore.tier.mega.requirements": "Achetez 16 objets d'événement pour débloquer de méga-objets.",
   "eventColors2026.noticeboard.one": "Bienvenue à l'événement communautaire du Festival of Colors 2026 !",
   "transaction.upgradePrompt": "Payez moins, obtenez plus ! Le pack de gemmes {{amount}} est moins cher et vous donne des gemmes supplémentaires.",
   "pets.bulkFetch": "Récupération en masse",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} Temps de croissance des pommes et des bananes",
   "skill.longPickings.debuff.ranked": "+ {{value}} % de temps de croissance pour tous les autres fruits des parcelles fruitières",
   "skill.shortPickings.buff.ranked": "x {{value}} Temps de croissance des bleuets et des oranges",
-  "skill.shortPickings.debuff.ranked": "+ {{value}} % de temps de croissance pour tous les autres fruits des parcelles fruitières"
+  "skill.shortPickings.debuff.ranked": "+ {{value}} % de temps de croissance pour tous les autres fruits des parcelles fruitières",
+  "colors2026.portal.missionObjectives": "Collectez la quantité requise d'orbes d'expérience pour obtenir des jetons d'événement !",
+  "eventStore.tier.extra.requirements": "Achetez TOUS les articles de l'événement pour obtenir cette dernière décoration spéciale !",
+  "eventStore.tier.rare.requirements": "Achetez 5 objets d'événement uniques pour débloquer des objets rares.",
+  "eventStore.tier.epic.requirements": "Achetez 10 objets d'événements uniques pour débloquer des objets épiques.",
+  "eventStore.tier.mega.requirements": "Achetez 14 objets d'événement uniques pour débloquer de méga-objets.",
+  "npc.Modal.slimeJoe": "Salut ! J'espère que vous vous amuserez bien lors de ce nouvel événement ! Merci à tous pour votre soutien !",
+  "npc.Modal.slimeJim": "Je préfère Halloween... J'espère que c'est le prochain événement..."
 }

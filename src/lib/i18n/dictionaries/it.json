@@ -9216,11 +9216,6 @@
   "description.colorsTicket2026": "Tienilo in mano per avere la possibilità di vincere $FLOWER al termine dell'evento Festival of Colors!",
   "colors2026.portal.title": "Sunflower Survivors - Festival dei colori",
   "colors2026.portal.description": "Sopravvivi in questo portale Bullet Heaven e sconfiggi tutti gli slime che puoi!",
-  "colors2026.portal.missionObjectives": "Sopravvivi per un determinato periodo di tempo per ottenere i gettoni evento!",
-  "eventStore.tier.extra.requirements": "Acquista tutti gli oggetti dell'evento per ottenere quest'ultima decorazione speciale!",
-  "eventStore.tier.rare.requirements": "Acquista 6 oggetti dell'evento per sbloccare oggetti rari.",
-  "eventStore.tier.epic.requirements": "Acquista 12 oggetti dell'evento per sbloccare oggetti epici.",
-  "eventStore.tier.mega.requirements": "Acquista 16 oggetti dell'evento per sbloccare mega oggetti.",
   "eventColors2026.noticeboard.one": "Benvenuti all'evento comunitario del Festival of Colors 2026!",
   "transaction.upgradePrompt": "Paga meno, ottieni di più! Il pacchetto di gemme {{amount}} è più economico e ti offre gemme extra.",
   "pets.bulkFetch": "Recupero in blocco",
@@ -9288,5 +9283,12 @@
   "skill.longPickings.buff.ranked": "x {{value}} Tempo di crescita di mele e banane",
   "skill.longPickings.debuff.ranked": "+ {{value}}% tempo di crescita per tutti gli altri frutti da orto",
   "skill.shortPickings.buff.ranked": "x {{value}} Tempo di crescita del mirtillo e dell'arancia",
-  "skill.shortPickings.debuff.ranked": "+ {{value}}% tempo di crescita per tutti gli altri frutti da orto"
+  "skill.shortPickings.debuff.ranked": "+ {{value}}% tempo di crescita per tutti gli altri frutti da orto",
+  "colors2026.portal.missionObjectives": "Raccogli la quantità necessaria di sfere exp per ottenere gettoni evento!",
+  "eventStore.tier.extra.requirements": "Acquista TUTTI gli oggetti dell'evento per ottenere quest'ultima decorazione speciale!",
+  "eventStore.tier.rare.requirements": "Acquista 5 oggetti dell'evento unici per sbloccare oggetti rari.",
+  "eventStore.tier.epic.requirements": "Acquista 10 oggetti evento unici per sbloccare oggetti epici.",
+  "eventStore.tier.mega.requirements": "Acquista 14 oggetti unici per l'evento per sbloccare mega oggetti.",
+  "npc.Modal.slimeJoe": "Salve! Spero che vi divertiate a questo nuovo evento! Grazie per tutto il tuo supporto!",
+  "npc.Modal.slimeJim": "Preferisco Halloween... Speriamo sia il prossimo evento..."
 }

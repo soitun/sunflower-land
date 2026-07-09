@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Compre 10 itens de eventos exclusivos para desbloquear itens épicos.",
   "eventStore.tier.mega.requirements": "Compre 14 itens de eventos exclusivos para desbloquear mega itens.",
   "npc.Modal.slimeJoe": "Olá! Espero que você se divirta neste novo evento! Obrigado por todo seu apoio!",
-  "npc.Modal.slimeJim": "Eu prefiro o Halloween... Espero que seja o próximo evento..."
+  "npc.Modal.slimeJim": "Eu prefiro o Halloween... Espero que seja o próximo evento...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} bobinas de pesca diárias",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} bobinas de pesca diárias",
+  "skill.fishermansTenFold.ranked": "+ {{value}} bobinas de pesca diárias",
+  "skill.fishyChance.ranked": "{{value}}% de chance de +1 peixe básico",
+  "skill.fishyRoll.ranked": "{{value}}% de chance de +1 peixe avançado",
+  "skill.fishyGamble.ranked": "{{value}}% de chance de +1 peixe experiente",
+  "skill.reelDeal.ranked": "custo da moeda de haste x {{value}}",
+  "skill.fishyFortune.ranked": "+ {{value}}% de moedas das entregas da Corale",
+  "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin XP de Fish",
+  "skill.frenziedFish.ranked": "Durante o frenesi de peixes, + {{fish}} peixe e {{chance}}% de chance de +1 peixe",
+  "skill.frenziedFish.flat.ranked": "Durante o frenesi de peixes, + {{fish}} peixe"
 }

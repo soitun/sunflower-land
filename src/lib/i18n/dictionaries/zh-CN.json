@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "购买 10 件独一无二的活动物品来解锁史诗物品。",
   "eventStore.tier.mega.requirements": "购买 14 个独特的活动物品来解锁巨型物品。",
   "npc.Modal.slimeJoe": "你好！我希望你在这个新活动中玩得开心！感谢您的支持！",
-  "npc.Modal.slimeJim": "我更喜欢万圣节...希望这是下一个活动..."
+  "npc.Modal.slimeJim": "我更喜欢万圣节...希望这是下一个活动...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} 每日钓鱼卷轴",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} 每日钓鱼卷轴",
+  "skill.fishermansTenFold.ranked": "+ {{value}} 每日钓鱼卷轴",
+  "skill.fishyChance.ranked": "{{value}}% 几率获得 +1 条基础鱼",
+  "skill.fishyRoll.ranked": "{{value}}% 几率获得 +1 条高级鱼",
+  "skill.fishyGamble.ranked": "{{value}} 有% 的几率获得 +1 条专家鱼",
+  "skill.reelDeal.ranked": "x {{value}} 棒币成本",
+  "skill.fishyFortune.ranked": "+ {{value}}% 来自 Corale 配送的硬币",
+  "skill.fishyFeast.ranked": "+ {{value}}% 来自 Fish 的 Bumpkin XP",
+  "skill.frenziedFish.ranked": "在疯狂捕鱼时，+ {{fish}} 条鱼和 {{chance}}% 的几率获得 +1 条鱼",
+  "skill.frenziedFish.flat.ranked": "在疯狂捕鱼时，+ {{fish}} 条鱼"
 }

@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Destansı öğelerin kilidini açmak için 10 benzersiz etkinlik öğesi satın alın.",
   "eventStore.tier.mega.requirements": "Mega eşyaların kilidini açmak için 14 benzersiz etkinlik öğesi satın alın.",
   "npc.Modal.slimeJoe": "Selamlar! Umarım bu yeni etkinlikte eğlenirsiniz! Tüm desteğiniz için teşekkürler!",
-  "npc.Modal.slimeJim": "Cadılar Bayramı'nı tercih ederim... Umarım bir sonraki olay olur..."
+  "npc.Modal.slimeJim": "Cadılar Bayramı'nı tercih ederim... Umarım bir sonraki olay olur...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} günlük balıkçılık makaraları",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} günlük balıkçılık makaraları",
+  "skill.fishermansTenFold.ranked": "+ {{value}} günlük balıkçılık makaraları",
+  "skill.fishyChance.ranked": "{{value}} %+1 temel balık şansı",
+  "skill.fishyRoll.ranked": "{{value}} %+1 ileri balık şansı",
+  "skill.fishyGamble.ranked": "{{value}} %+1 uzman balık şansı",
+  "skill.reelDeal.ranked": "x {{value}} çubuk bozuk para maliyeti",
+  "skill.fishyFortune.ranked": "+ {{value}} %Corale'nin teslimatlarından madeni paralar",
+  "skill.fishyFeast.ranked": "+ {{value}} Balık'tan %Bumpkin XP",
+  "skill.frenziedFish.ranked": "Balık çılgınlığı sırasında, + {{fish}} balık ve {{chance}} %+1 balık şansı",
+  "skill.frenziedFish.flat.ranked": "Balık çılgınlığı sırasında, + {{fish}} balık"
 }

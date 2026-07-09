@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Compra 10 objetos de evento únicos para desbloquear objetos épicos.",
   "eventStore.tier.mega.requirements": "Compra 14 objetos de evento únicos para desbloquear megaobjetos.",
   "npc.Modal.slimeJoe": "¡Hola! ¡Espero que te diviertas en este nuevo evento! ¡Gracias por todo su apoyo!",
-  "npc.Modal.slimeJim": "Prefiero Halloween... Esperemos que sea el próximo evento..."
+  "npc.Modal.slimeJim": "Prefiero Halloween... Esperemos que sea el próximo evento...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} carretes de pesca diarios",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} carretes de pesca diarios",
+  "skill.fishermansTenFold.ranked": "+ {{value}} carretes de pesca diarios",
+  "skill.fishyChance.ranked": "{{value}}% de probabilidad de obtener +1 pez básico",
+  "skill.fishyRoll.ranked": "{{value}}% de probabilidad de obtener +1 pez avanzado",
+  "skill.fishyGamble.ranked": "{{value}}% de probabilidad de obtener +1 pez experto",
+  "skill.reelDeal.ranked": "precio de la moneda de varilla x {{value}}",
+  "skill.fishyFortune.ranked": "+ {{value}}% de monedas de las entregas de Corale",
+  "skill.fishyFeast.ranked": "+ {{value}}% de EXP de Bumpkin por Fish",
+  "skill.frenziedFish.ranked": "Durante el frenesí por los peces, + {{fish}} pescan y {{chance}}% de probabilidad de conseguir +1 pez",
+  "skill.frenziedFish.flat.ranked": "Durante el frenesí de los peces, + {{fish}} peces"
 }

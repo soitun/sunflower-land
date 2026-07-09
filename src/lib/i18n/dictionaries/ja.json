@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "ユニークなイベントアイテムを10個購入して、エピックアイテムをアンロックしましょう。",
   "eventStore.tier.mega.requirements": "14種類のユニークなイベントアイテムを購入して、メガアイテムをアンロックしましょう。",
   "npc.Modal.slimeJoe": "ハウディ!この新しいイベントを楽しんでいただければ幸いです。皆さんのご支援に感謝します！",
-  "npc.Modal.slimeJim": "私はハロウィンが好きです...次のイベントだといいんだけど..."
+  "npc.Modal.slimeJim": "私はハロウィンが好きです...次のイベントだといいんだけど...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} デイリーフィッシングリール",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} デイリーフィッシングリール",
+  "skill.fishermansTenFold.ranked": "+ {{value}} デイリーフィッシングリール",
+  "skill.fishyChance.ranked": "{{value}} %の確率で基本魚が+1匹になる",
+  "skill.fishyRoll.ranked": "{{value}} %の確率で上級魚が+1匹になる",
+  "skill.fishyGamble.ranked": "{{value}}% の確率でエキスパートフィッシュが +1",
+  "skill.reelDeal.ranked": "x {{value}} ロッドコインのコスト",
+  "skill.fishyFortune.ranked": "コラールの配達による+ {{value}} %コイン",
+  "skill.fishyFeast.ranked": "+ {{value}}% 魚から得られるバンプキン経験値",
+  "skill.frenziedFish.ranked": "フィッシュフレンジー中、+ {{fish}} の魚と {{chance}} %の確率で+1匹の魚が出る",
+  "skill.frenziedFish.flat.ranked": "フィッシュフレンジー中、+ {{fish}} 魚"
 }

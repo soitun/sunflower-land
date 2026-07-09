@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Beli 10 item acara unik untuk membuka item epik.",
   "eventStore.tier.mega.requirements": "Beli 14 item acara unik untuk membuka item mega.",
   "npc.Modal.slimeJoe": "Halo! Saya harap Anda bersenang-senang di acara baru ini! Terima kasih atas semua dukungan Anda!",
-  "npc.Modal.slimeJim": "Saya lebih suka Halloween... Mudah-mudahan ini adalah acara berikutnya..."
+  "npc.Modal.slimeJim": "Saya lebih suka Halloween... Mudah-mudahan ini adalah acara berikutnya...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} gulungan memancing harian",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} gulungan memancing harian",
+  "skill.fishermansTenFold.ranked": "+ {{value}} gulungan memancing harian",
+  "skill.fishyChance.ranked": "{{value}}% peluang +1 ikan dasar",
+  "skill.fishyRoll.ranked": "{{value}}% peluang +1 ikan tingkat lanjut",
+  "skill.fishyGamble.ranked": "{{value}}% peluang +1 ikan ahli",
+  "skill.reelDeal.ranked": "x {{value}} biaya koin batang",
+  "skill.fishyFortune.ranked": "+ {{value}}% koin dari pengiriman Corale",
+  "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin XP dari Fish",
+  "skill.frenziedFish.ranked": "Selama hiruk-pikuk ikan, + {{fish}} ikan dan {{chance}}% peluang +1 ikan",
+  "skill.frenziedFish.flat.ranked": "Selama hiruk-pikuk ikan, + {{fish}} ikan"
 }

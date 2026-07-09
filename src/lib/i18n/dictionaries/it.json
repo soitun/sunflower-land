@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Acquista 10 oggetti evento unici per sbloccare oggetti epici.",
   "eventStore.tier.mega.requirements": "Acquista 14 oggetti unici per l'evento per sbloccare mega oggetti.",
   "npc.Modal.slimeJoe": "Salve! Spero che vi divertiate a questo nuovo evento! Grazie per tutto il tuo supporto!",
-  "npc.Modal.slimeJim": "Preferisco Halloween... Speriamo sia il prossimo evento..."
+  "npc.Modal.slimeJim": "Preferisco Halloween... Speriamo sia il prossimo evento...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} mulinelli da pesca giornalieri",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} mulinelli da pesca giornalieri",
+  "skill.fishermansTenFold.ranked": "+ {{value}} mulinelli da pesca giornalieri",
+  "skill.fishyChance.ranked": "{{value}}% di possibilità di +1 pesce base",
+  "skill.fishyRoll.ranked": "{{value}}% di possibilità di +1 pesce avanzato",
+  "skill.fishyGamble.ranked": "{{value}}% di possibilità di +1 pesce esperto",
+  "skill.reelDeal.ranked": "x {{value}} costo della moneta",
+  "skill.fishyFortune.ranked": "+ {{value}}% di monete provenienti dalle consegne di Corale",
+  "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin XP di Fish",
+  "skill.frenziedFish.ranked": "Durante la frenesia dei pesci, + {{fish}} pesce e {{chance}}% di possibilità di +1 pesce",
+  "skill.frenziedFish.flat.ranked": "Durante la frenesia dei pesci, + {{fish}} pesce"
 }

@@ -9290,5 +9290,16 @@
   "eventStore.tier.epic.requirements": "Kaufe 10 einzigartige Event-Gegenstände, um epische Gegenstände freizuschalten.",
   "eventStore.tier.mega.requirements": "Kaufe 14 einzigartige Event-Gegenstände, um Mega-Gegenstände freizuschalten.",
   "npc.Modal.slimeJoe": "Hallöchen! Ich wünsche euch viel Spaß bei dieser neuen Veranstaltung! Danke für all deine Unterstützung!",
-  "npc.Modal.slimeJim": "Ich bevorzuge Halloween... Hoffentlich ist es das nächste Event..."
+  "npc.Modal.slimeJim": "Ich bevorzuge Halloween... Hoffentlich ist es das nächste Event...",
+  "skill.moreWithLess.buff.ranked": "+ {{value}} tägliche Angelrollen",
+  "skill.fishermansFiveFold.ranked": "+ {{value}} tägliche Angelrollen",
+  "skill.fishermansTenFold.ranked": "+ {{value}} tägliche Angelrollen",
+  "skill.fishyChance.ranked": "{{value}}% Chance auf +1 Grundfisch",
+  "skill.fishyRoll.ranked": "{{value}}% Chance auf +1 fortgeschrittene Fische",
+  "skill.fishyGamble.ranked": "{{value}}% Chance auf +1 Expertenfisch",
+  "skill.reelDeal.ranked": "x {{value}} Kosten für Stangenmünzen",
+  "skill.fishyFortune.ranked": "+ {{value}}% Münzen aus Corales Lieferungen",
+  "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin-XP für Fische",
+  "skill.frenziedFish.ranked": "Bei Fischrausch + {{fish}} Fische und {{chance}}% Chance auf +1 Fisch",
+  "skill.frenziedFish.flat.ranked": "Bei Fischrausch + {{fish}} Fische"
 }

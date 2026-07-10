@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}}% 来自 Corale 配送的硬币",
   "skill.fishyFeast.ranked": "+ {{value}}% 来自 Fish 的 Bumpkin XP",
   "skill.frenziedFish.ranked": "在疯狂捕鱼时，+ {{fish}} 条鱼和 {{chance}}% 的几率获得 +1 条鱼",
-  "skill.frenziedFish.flat.ranked": "在疯狂捕鱼时，+ {{fish}} 条鱼"
+  "skill.frenziedFish.flat.ranked": "在疯狂捕鱼时，+ {{fish}} 条鱼",
+  "skill.fastFeasts.ranked": "-{{value}}% Firepit & Kitchen 烹饪时间",
+  "skill.frostedCakes.ranked": "-{{value}}% 蛋糕烹饪时间",
+  "skill.swiftSizzle.ranked": "-{{value}}% Fire Pit 用油烹饪时间",
+  "skill.turboFry.ranked": "-{{value}}% 厨房用油烹饪时间",
+  "skill.fryFrenzy.ranked": "-{{value}}% 熟食店用油烹饪时间",
+  "skill.munchingMastery.ranked": "+ {{value}}% Bumpkin XP",
+  "skill.juicyBoost.ranked": "+ {{value}}% 来自饮料的 Bumpkin XP",
+  "skill.driveThroughDeli.ranked": "+ {{value}}% 来自熟食店的 Bumpkin XP",
+  "skill.nomNom.ranked": "+ {{value}}% 送餐收入",
+  "skill.fieryJackpot.ranked": "+ {{value}}% 几率从 Firepit 获得 +1 个食物",
+  "skill.instantGratification.ranked": "立即完成所有烹饪。{{value}} 冷却时间",
+  "skill.doubleNom.buff.ranked": "+ {{value}} 烹饪产生的食物",
+  "skill.doubleNom.debuff.ranked": "{{value}} x 烹饪所需的食材"
 }

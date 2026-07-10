@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}} %Corale'nin teslimatlarından madeni paralar",
   "skill.fishyFeast.ranked": "+ {{value}} Balık'tan %Bumpkin XP",
   "skill.frenziedFish.ranked": "Balık çılgınlığı sırasında, + {{fish}} balık ve {{chance}} %+1 balık şansı",
-  "skill.frenziedFish.flat.ranked": "Balık çılgınlığı sırasında, + {{fish}} balık"
+  "skill.frenziedFish.flat.ranked": "Balık çılgınlığı sırasında, + {{fish}} balık",
+  "skill.fastFeasts.ranked": "- {{value}} %Firepit & Mutfak pişirme süresi",
+  "skill.frostedCakes.ranked": "- {{value}} %Kek pişirme süresi",
+  "skill.swiftSizzle.ranked": "- {{value}} %Ateş Çukuru yağ ile pişirme süresi",
+  "skill.turboFry.ranked": "- {{value}} %Yağ ile mutfak pişirme süresi",
+  "skill.fryFrenzy.ranked": "- {{value}} %Yağlı şarküteri pişirme süresi",
+  "skill.munchingMastery.ranked": "+ {{value}} %Bumpkin XP",
+  "skill.juicyBoost.ranked": "İçeceklerden + {{value}} %Bumpkin XP",
+  "skill.driveThroughDeli.ranked": "Deli'den + {{value}} %Bumpkin XP",
+  "skill.nomNom.ranked": "+ {{value}} %Gıda teslimatları geliri",
+  "skill.fieryJackpot.ranked": "+ {{value}} %Firepit'ten +1 yiyecek olma şansı",
+  "skill.instantGratification.ranked": "Tüm pişirme işlemlerini anında bitirin. {{value}} bekleme süresi",
+  "skill.doubleNom.buff.ranked": "+ {{value}} yemek pişirmekten elde edilen yiyecekler",
+  "skill.doubleNom.debuff.ranked": "{{value}} x yemek pişirmek için gerekli malzemeler"
 }

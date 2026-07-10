@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}}% de monedas de las entregas de Corale",
   "skill.fishyFeast.ranked": "+ {{value}}% de EXP de Bumpkin por Fish",
   "skill.frenziedFish.ranked": "Durante el frenesí por los peces, + {{fish}} pescan y {{chance}}% de probabilidad de conseguir +1 pez",
-  "skill.frenziedFish.flat.ranked": "Durante el frenesí de los peces, + {{fish}} peces"
+  "skill.frenziedFish.flat.ranked": "Durante el frenesí de los peces, + {{fish}} peces",
+  "skill.fastFeasts.ranked": "- {{value}}% de tiempo de cocción en la hoguera y la cocina",
+  "skill.frostedCakes.ranked": "- {{value}}% de tiempo de cocción de las tartas",
+  "skill.swiftSizzle.ranked": "- {{value}}% de tiempo de cocción de la hoguera con aceite",
+  "skill.turboFry.ranked": "- {{value}}% de tiempo de cocción en la cocina con aceite",
+  "skill.fryFrenzy.ranked": "- {{value}}% de tiempo de cocción de delicatessen con aceite",
+  "skill.munchingMastery.ranked": "+ {{value}}% de EXP",
+  "skill.juicyBoost.ranked": "+ {{value}}% de Bumpkin XP por bebidas",
+  "skill.driveThroughDeli.ranked": "+ {{value}}% de EXP acumulada en Deli",
+  "skill.nomNom.ranked": "+ {{value}}% de ingresos por entrega de alimentos",
+  "skill.fieryJackpot.ranked": "+ {{value}}% de probabilidad de obtener +1 comida de Firepit",
+  "skill.instantGratification.ranked": "Termina toda la cocción al instante. {{value}} tiempo de reutilización",
+  "skill.doubleNom.buff.ranked": "+ {{value}} comida de la cocción",
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necesarios para cocinar"
 }

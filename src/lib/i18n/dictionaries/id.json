@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}}% koin dari pengiriman Corale",
   "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin XP dari Fish",
   "skill.frenziedFish.ranked": "Selama hiruk-pikuk ikan, + {{fish}} ikan dan {{chance}}% peluang +1 ikan",
-  "skill.frenziedFish.flat.ranked": "Selama hiruk-pikuk ikan, + {{fish}} ikan"
+  "skill.frenziedFish.flat.ranked": "Selama hiruk-pikuk ikan, + {{fish}} ikan",
+  "skill.fastFeasts.ranked": "- {{value}}% Waktu memasak Firepit & Dapur",
+  "skill.frostedCakes.ranked": "- {{value}}% Waktu memasak kue",
+  "skill.swiftSizzle.ranked": "- {{value}}% Waktu memasak Fire Pit dengan minyak",
+  "skill.turboFry.ranked": "- {{value}}% Waktu memasak dapur dengan minyak",
+  "skill.fryFrenzy.ranked": "- {{value}}% Waktu memasak Deli dengan minyak",
+  "skill.munchingMastery.ranked": "+ {{value}}% Bumpkin XP",
+  "skill.juicyBoost.ranked": "+ {{value}}% Bumpkin XP dari minuman",
+  "skill.driveThroughDeli.ranked": "+ {{value}}% Bumpkin XP dari Deli",
+  "skill.nomNom.ranked": "+ {{value}}% Pendapatan pengiriman makanan",
+  "skill.fieryJackpot.ranked": "+ {{value}}% peluang +1 makanan dari Firepit",
+  "skill.instantGratification.ranked": "Segera selesaikan semua memasak. {{value}} cooldown",
+  "skill.doubleNom.buff.ranked": "+ {{value}} makanan dari memasak",
+  "skill.doubleNom.debuff.ranked": "{{value}} x bahan yang dibutuhkan untuk memasak"
 }

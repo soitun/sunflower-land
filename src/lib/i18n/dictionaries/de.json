@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}}% Münzen aus Corales Lieferungen",
   "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin-XP für Fische",
   "skill.frenziedFish.ranked": "Bei Fischrausch + {{fish}} Fische und {{chance}}% Chance auf +1 Fisch",
-  "skill.frenziedFish.flat.ranked": "Bei Fischrausch + {{fish}} Fische"
+  "skill.frenziedFish.flat.ranked": "Bei Fischrausch + {{fish}} Fische",
+  "skill.fastFeasts.ranked": "- {{value}}% Kochzeit für Feuerstelle und Küche",
+  "skill.frostedCakes.ranked": "- {{value}}% Backzeit der Kuchen",
+  "skill.swiftSizzle.ranked": "- {{value}}% Kochzeit der Feuerstelle mit Öl",
+  "skill.turboFry.ranked": "- {{value}}% Kochzeit in der Küche mit Öl",
+  "skill.fryFrenzy.ranked": "- {{value}}% Feinkostgarzeit mit Öl",
+  "skill.munchingMastery.ranked": "+ {{value}}% Bumpkin-XP",
+  "skill.juicyBoost.ranked": "+ {{value}}% Bumpkin XP aus Getränken",
+  "skill.driveThroughDeli.ranked": "+ {{value}}% Bumpkin-XP von Deli",
+  "skill.nomNom.ranked": "+ {{value}}% Umsatz mit Lebensmittellieferungen",
+  "skill.fieryJackpot.ranked": "+ {{value}}% Chance auf +1 Nahrung von Firepit",
+  "skill.instantGratification.ranked": "Beende sofort alles mit dem Kochen. {{value}} Abklingzeit",
+  "skill.doubleNom.buff.ranked": "+ {{value}} Essen vom Kochen",
+  "skill.doubleNom.debuff.ranked": "{{value}} x Zutaten, die zum Kochen benötigt werden"
 }

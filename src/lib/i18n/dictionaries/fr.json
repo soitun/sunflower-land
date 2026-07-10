@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}} % de pièces provenant des livraisons de Corale",
   "skill.fishyFeast.ranked": "+ {{value}} % Bumpkin XP depuis Fish",
   "skill.frenziedFish.ranked": "Pendant la frénésie des poissons, + {{fish}} poisson et {{chance}} % de chances d'obtenir +1 poisson",
-  "skill.frenziedFish.flat.ranked": "Pendant la frénésie des poissons, + {{fish}} fish"
+  "skill.frenziedFish.flat.ranked": "Pendant la frénésie des poissons, + {{fish}} fish",
+  "skill.fastFeasts.ranked": "- {{value}} % Temps de cuisson au foyer et dans la cuisine",
+  "skill.frostedCakes.ranked": "- {{value}} % Temps de cuisson des gâteaux",
+  "skill.swiftSizzle.ranked": "- {{value}} % Temps de cuisson au feu de camp avec huile",
+  "skill.turboFry.ranked": "- {{value}} % Temps de cuisson de la cuisine avec huile",
+  "skill.fryFrenzy.ranked": "- {{value}} % Temps de cuisson des charcuteries à l'huile",
+  "skill.munchingMastery.ranked": "+ {{value}} % Bumpkin XP",
+  "skill.juicyBoost.ranked": "+ {{value}} % Bumpkin XP grâce aux boissons",
+  "skill.driveThroughDeli.ranked": "+ {{value}} % Bumpkin XP de Deli",
+  "skill.nomNom.ranked": "+ {{value}} % des recettes provenant des livraisons de nourriture",
+  "skill.fieryJackpot.ranked": "+ {{value}} % de chances d'obtenir +1 nourriture avec Firepit",
+  "skill.instantGratification.ranked": "Terminez instantanément toute la cuisson. {{value}} temps de recharge",
+  "skill.doubleNom.buff.ranked": "+ {{value}} nourriture provenant de la cuisson",
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingrédients nécessaires à la cuisson"
 }

@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "+ {{value}}% de moedas das entregas da Corale",
   "skill.fishyFeast.ranked": "+ {{value}}% Bumpkin XP de Fish",
   "skill.frenziedFish.ranked": "Durante o frenesi de peixes, + {{fish}} peixe e {{chance}}% de chance de +1 peixe",
-  "skill.frenziedFish.flat.ranked": "Durante o frenesi de peixes, + {{fish}} peixe"
+  "skill.frenziedFish.flat.ranked": "Durante o frenesi de peixes, + {{fish}} peixe",
+  "skill.fastFeasts.ranked": "- {{value}}% de tempo de cozimento da fogueira e da cozinha",
+  "skill.frostedCakes.ranked": "- {{value}}% Tempo de cozimento dos bolos",
+  "skill.swiftSizzle.ranked": "- {{value}}% Tempo de cozimento da fogueira com óleo",
+  "skill.turboFry.ranked": "- {{value}}% Tempo de cozimento na cozinha com óleo",
+  "skill.fryFrenzy.ranked": "- {{value}}% Tempo de cozimento da delicatessen com óleo",
+  "skill.munchingMastery.ranked": "+ {{value}}% XP Bumpkin",
+  "skill.juicyBoost.ranked": "+ {{value}}% Bumpkin XP de bebidas",
+  "skill.driveThroughDeli.ranked": "+ {{value}}% Bumpkin XP de Deli",
+  "skill.nomNom.ranked": "+ {{value}}% Receita de entregas de alimentos",
+  "skill.fieryJackpot.ranked": "+ {{value}}% de chance de +1 alimento do Firepit",
+  "skill.instantGratification.ranked": "Termine instantaneamente todo o cozimento. {{value}} tempo de recarga",
+  "skill.doubleNom.buff.ranked": "+ {{value}} comida da culinária",
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necessários para cozinhar"
 }

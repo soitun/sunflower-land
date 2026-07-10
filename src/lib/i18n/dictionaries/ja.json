@@ -9301,5 +9301,18 @@
   "skill.fishyFortune.ranked": "コラールの配達による+ {{value}} %コイン",
   "skill.fishyFeast.ranked": "+ {{value}}% 魚から得られるバンプキン経験値",
   "skill.frenziedFish.ranked": "フィッシュフレンジー中、+ {{fish}} の魚と {{chance}} %の確率で+1匹の魚が出る",
-  "skill.frenziedFish.flat.ranked": "フィッシュフレンジー中、+ {{fish}} 魚"
+  "skill.frenziedFish.flat.ranked": "フィッシュフレンジー中、+ {{fish}} 魚",
+  "skill.fastFeasts.ranked": "-{{value}}% ファイヤーピットとキッチンの調理時間",
+  "skill.frostedCakes.ranked": "-{{value}}% ケーキの調理時間",
+  "skill.swiftSizzle.ranked": "-{{value}}% オイルを使ったファイヤーピットの調理時間",
+  "skill.turboFry.ranked": "-{{value}}% 油を使ったキッチン調理時間",
+  "skill.fryFrenzy.ranked": "-{{value}}% オイルを使ったデリ調理時間",
+  "skill.munchingMastery.ranked": "+ {{value}}% バンプキン XP",
+  "skill.juicyBoost.ranked": "+ {{value}}% ドリンクからのバンプキン経験値",
+  "skill.driveThroughDeli.ranked": "デリからの + {{value}}% バンプキン経験値",
+  "skill.nomNom.ranked": "+ {{value}}% フードデリバリー収益",
+  "skill.fieryJackpot.ranked": "+ {{value}} %の確率でファイヤーピットからフードが+1個付く",
+  "skill.instantGratification.ranked": "すべての調理を即座に終了します。{{value}} クールダウン",
+  "skill.doubleNom.buff.ranked": "+ {{value}} 調理中の食べ物",
+  "skill.doubleNom.debuff.ranked": "{{value}} x 調理に必要な材料"
 }

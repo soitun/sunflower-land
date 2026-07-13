@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "+ {{value}}% di monete quando si vendono colture da orto al mercato",
   "skill.goldenSunflower.ranked": "1/ {{value}} possibilità di 0,35 oro durante la raccolta dei girasoli (esclusa Crop Machine)",
   "skill.chonkyScarecrow.ranked": "Aumenta l'area d'effetto (AOE) dello Spaventapasseri di base a un'area {{size}}; tempo di crescita base del raccolto aggiuntivo x0,9",
-  "skill.horrorMike.ranked": "Aumenta l'area d'effetto (AOE) di Scary Mike a un'area {{size}}; resa media aggiuntiva del raccolto di +0,1",
-  "skill.lauriesGains.ranked": "Aumenta l'area d'effetto (AOE) di Laurie the Chuckle Crow a un'area {{size}}; resa del raccolto avanzata aggiuntiva di +0,1",
   "skill.instantGrowth.ranked": "Raccogli istantaneamente tutte le colture in crescita. {{value}} tempo di recupero",
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento delle colture avanzato",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento delle colture di base e medio",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}}% di possibilità di +1 cibo dal Firepit",
   "skill.instantGratification.ranked": "Termina istantaneamente tutta la cottura. {{value}} tempo di recupero",
   "skill.doubleNom.buff.ranked": "+ {{value}} cibo da cucina",
-  "skill.doubleNom.debuff.ranked": "{{value}} x ingredienti necessari per cucinare"
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingredienti necessari per cucinare",
+  "skill.chonkyScarecrow.ranked.yield": "Aumenta l'area d'effetto dello Spaventapasseri di base (AOE) a un'area {{size}}; tempo di crescita base del raccolto di x0,9 aggiuntivo; + {{value}} resa del raccolto di base",
+  "skill.horrorMike.ranked": "Aumenta l'area d'effetto (AOE) di Scary Mike a un'area {{size}}; resa media aggiuntiva del raccolto di + {{value}}",
+  "skill.lauriesGains.ranked": "Aumenta l'area d'effetto (AOE) di Laurie the Chuckle Crow a un'area {{size}}; resa delle colture avanzata aggiuntiva + {{value}}"
 }

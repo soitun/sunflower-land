@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "+ {{value}} Piyasada arsa mahsulleri satarken %madeni para",
   "skill.goldenSunflower.ranked": "Ayçiçeği hasadı sırasında 1/[ 0@/$] 0,35 altın şansı (Mahsul Makinesi hariç)",
   "skill.chonkyScarecrow.ranked": "Temel Korkuluk etki alanını (AOE) bir {{size}} alana yükseltir; Ek x0.9 temel mahsul büyüme süresi",
-  "skill.horrorMike.ranked": "Scary Mike'ın etki alanını (AOE) {{size}} alana yükseltir; Ek +0.1 orta mahsul verimi",
-  "skill.lauriesGains.ranked": "Laurie the Chuckle Crow'un etki alanını (AOE) bir {{size}} alana yükseltir; Ek +0.1 gelişmiş mahsul verimi",
   "skill.instantGrowth.ranked": "Büyüyen tüm mahsulleri anında hasat edin. {{value}} bekleme süresi",
   "skill.acreFarm.buff.ranked": "+ {{value}} Gelişmiş mahsul verimi",
   "skill.acreFarm.debuff.ranked": "- {{value}} Temel ve Orta mahsul verimi",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}} %Firepit'ten +1 yiyecek olma şansı",
   "skill.instantGratification.ranked": "Tüm pişirme işlemlerini anında bitirin. {{value}} bekleme süresi",
   "skill.doubleNom.buff.ranked": "+ {{value}} yemek pişirmekten elde edilen yiyecekler",
-  "skill.doubleNom.debuff.ranked": "{{value}} x yemek pişirmek için gerekli malzemeler"
+  "skill.doubleNom.debuff.ranked": "{{value}} x yemek pişirmek için gerekli malzemeler",
+  "skill.chonkyScarecrow.ranked.yield": "Temel Korkuluk etki alanını (AOE) bir {{size}} alana yükseltir; Ek x0.9 temel mahsul büyüme süresi; + {{value}} temel mahsul verimi",
+  "skill.horrorMike.ranked": "Scary Mike'ın etki alanını (AOE) bir {{size}} alana yükseltir; Ek + {{value}} orta mahsul verimi",
+  "skill.lauriesGains.ranked": "Laurie the Chuckle Crow'un etki alanını (AOE) bir {{size}} alana yükseltir; Ek + {{value}} gelişmiş mahsul verimi"
 }

@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "+ {{value}}% de moedas ao vender safras parceladas no mercado",
   "skill.goldenSunflower.ranked": "1/ {{value}} chance de ganhar 0,35 de ouro ao colher girassóis (excluindo Crop Machine)",
   "skill.chonkyScarecrow.ranked": "Aumenta a área de efeito (AOE) do Espantalho Básico para uma área de {{size}}; tempo adicional de crescimento básico da cultura de x0,9",
-  "skill.horrorMike.ranked": "Aumenta a área de efeito (AOE) de Scary Mike para uma área de {{size}}; rendimento médio adicional de +0,1 da safra",
-  "skill.lauriesGains.ranked": "Aumenta a área de efeito (AOE) de Laurie the Chuckle Crow para uma área de {{size}}; rendimento de safra avançado adicional de +0,1",
   "skill.instantGrowth.ranked": "Colha instantaneamente todas as safras em crescimento. {{value}} tempo de recarga",
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendimento avançado da safra",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendimento básico e médio da safra",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}}% de chance de +1 alimento do Firepit",
   "skill.instantGratification.ranked": "Termine instantaneamente todo o cozimento. {{value}} tempo de recarga",
   "skill.doubleNom.buff.ranked": "+ {{value}} comida da culinária",
-  "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necessários para cozinhar"
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necessários para cozinhar",
+  "skill.chonkyScarecrow.ranked.yield": "Aumenta a área de efeito (AOE) do Espantalho Básico para uma área de {{size}}; Tempo adicional de crescimento básico da cultura x0,9; + {{value}} rendimento básico da cultura",
+  "skill.horrorMike.ranked": "Aumenta a área de efeito (AOE) de Scary Mike para uma área de {{size}}; rendimento médio adicional de + {{value}} da safra",
+  "skill.lauriesGains.ranked": "Aumenta a área de efeito (AOE) de Laurie the Chuckle Crow para uma área de {{size}}; rendimento de safra adicional avançado de + {{value}}"
 }

@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "+ {{value}} % de pièces lors de la vente de parcelles de cultures au marché",
   "skill.goldenSunflower.ranked": "1/ {{value}} chance de gagner 0,35 or lors de la récolte de tournesols (sauf Crop Machine)",
   "skill.chonkyScarecrow.ranked": "Augmente la zone d'effet (AOE) de l'épouvantail de base à une zone de {{size}} ; temps de croissance de base de la culture supplémentaire x0,9",
-  "skill.horrorMike.ranked": "Augmente la zone d'effet (AOE) de Scary Mike à une zone de {{size}} ; rendement agricole moyen supplémentaire de +0,1",
-  "skill.lauriesGains.ranked": "Augmente la zone d'effet (AOE) de Laurie the Chuckle Crow à une zone de {{size}} ; rendement agricole avancé supplémentaire de +0,1",
   "skill.instantGrowth.ranked": "Récoltez instantanément toutes les cultures en croissance. {{value}} temps de recharge",
   "skill.acreFarm.buff.ranked": "+ {{value}} Rendement des cultures avancé",
   "skill.acreFarm.debuff.ranked": "- {{value}} Rendement des cultures de base et moyen",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}} % de chances d'obtenir +1 nourriture avec Firepit",
   "skill.instantGratification.ranked": "Terminez instantanément toute la cuisson. {{value}} temps de recharge",
   "skill.doubleNom.buff.ranked": "+ {{value}} nourriture provenant de la cuisson",
-  "skill.doubleNom.debuff.ranked": "{{value}} x ingrédients nécessaires à la cuisson"
+  "skill.doubleNom.debuff.ranked": "{{value}} x ingrédients nécessaires à la cuisson",
+  "skill.chonkyScarecrow.ranked.yield": "Augmente la zone d'effet (AOE) de l'épouvantail de base à une surface de {{size}} ; temps de croissance de la culture de base supplémentaire x0,9 ; + {{value}} rendement de base de la culture",
+  "skill.horrorMike.ranked": "Augmente la zone d'effet (AOE) de Scary Mike à une zone de {{size}} ; rendement moyen supplémentaire de + {{value}}",
+  "skill.lauriesGains.ranked": "Augmente la zone d'effet (AOE) de Laurie the Chuckle Crow à une surface de {{size}} ; rendement agricole avancé supplémentaire de + {{value}}"
 }

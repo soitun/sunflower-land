@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "+ {{value}}% Münzen beim Verkauf von Nutzpflanzen auf dem Markt",
   "skill.goldenSunflower.ranked": "1/ {{value}} Chance auf 0,35 Gold beim Ernten von Sonnenblumen (außer Crop Machine)",
   "skill.chonkyScarecrow.ranked": "Erhöht den Wirkungsbereich (AOE) von Basic Scarecrow auf eine Fläche von {{size}}; zusätzliche x0,9 grundlegende Wachstumszeit der Pflanzen",
-  "skill.horrorMike.ranked": "Erhöht den Wirkungsbereich (AOE) von Scary Mike auf einen Bereich von {{size}}; zusätzlich +0,1 mittlerer Ernteertrag",
-  "skill.lauriesGains.ranked": "Erhöht den Wirkungsbereich (AOE) von Laurie the Chuckle Crow auf einen Bereich von {{size}}; zusätzlich +0,1 erweiterter Ernteertrag",
   "skill.instantGrowth.ranked": "Ernten Sie sofort alle wachsenden Pflanzen. {{value}} Abklingzeit",
   "skill.acreFarm.buff.ranked": "+ {{value}} Erweiterter Ernteertrag",
   "skill.acreFarm.debuff.ranked": "- {{value}} Grundernteertrag und mittlerer Ernteertrag",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}}% Chance auf +1 Nahrung von Firepit",
   "skill.instantGratification.ranked": "Beende sofort alles mit dem Kochen. {{value}} Abklingzeit",
   "skill.doubleNom.buff.ranked": "+ {{value}} Essen vom Kochen",
-  "skill.doubleNom.debuff.ranked": "{{value}} x Zutaten, die zum Kochen benötigt werden"
+  "skill.doubleNom.debuff.ranked": "{{value}} x Zutaten, die zum Kochen benötigt werden",
+  "skill.chonkyScarecrow.ranked.yield": "Erhöht den Wirkungsbereich (AOE) von Basic Scarecrow auf eine Fläche von {{size}}; zusätzliche x0,9 grundlegende Wachstumszeit der Pflanzen; + {{value}} Grundernteertrag",
+  "skill.horrorMike.ranked": "Erhöht den Wirkungsbereich (AOE) von Scary Mike auf einen Bereich von {{size}}; zusätzlicher + {{value}} mittlerer Ernteertrag",
+  "skill.lauriesGains.ranked": "Erhöht den Wirkungsbereich (AOE) von Laurie the Chuckle Crow auf einen Bereich von {{size}}; zusätzlicher + {{value}} höherer Ernteertrag"
 }

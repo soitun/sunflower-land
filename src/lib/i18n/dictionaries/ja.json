@@ -9236,8 +9236,6 @@
   "skill.coinSwindler.ranked": "マーケットで区画作物を売るとき+ {{value}} %コイン",
   "skill.goldenSunflower.ranked": "ひまわりを収穫すると、1/ {{value}} の確率で0.35ゴールドを獲得できます (クロップマシンを除く)",
   "skill.chonkyScarecrow.ranked": "基本スケアクロウの効果範囲 (AOE) を {{size}} の範囲に増やします。基本の作物の成長時間がさらに0.9倍になります",
-  "skill.horrorMike.ranked": "スカリー・マイクの効果範囲 (AOE) が {{size}} エリアに増加し、中収穫量+0.1を追加",
-  "skill.lauriesGains.ranked": "ローリー・ザ・チャックル・クロウの効果範囲 (AOE) が {{size}} の範囲に増加し、上級作物収量がさらに+0.1増加します",
   "skill.instantGrowth.ranked": "栽培中の作物をすべて即座に収穫する。{{value}} クールダウン",
   "skill.acreFarm.buff.ranked": "+ {{value}} 高度な作物収量",
   "skill.acreFarm.debuff.ranked": "-{{value}} 基本および中程度の作物収量",
@@ -9314,5 +9312,8 @@
   "skill.fieryJackpot.ranked": "+ {{value}} %の確率でファイヤーピットからフードが+1個付く",
   "skill.instantGratification.ranked": "すべての調理を即座に終了します。{{value}} クールダウン",
   "skill.doubleNom.buff.ranked": "+ {{value}} 調理中の食べ物",
-  "skill.doubleNom.debuff.ranked": "{{value}} x 調理に必要な材料"
+  "skill.doubleNom.debuff.ranked": "{{value}} x 調理に必要な材料",
+  "skill.chonkyScarecrow.ranked.yield": "基本スケアクロウの効果範囲 (AOE) を {{size}} 領域に増やし、基本作物成長時間をx0.9追加、+ {{value}} 基本作物収量",
+  "skill.horrorMike.ranked": "スカリー・マイクの効果範囲 (AOE) が {{size}} の範囲に増加し、収穫量が {{value}} 中程度に増加",
+  "skill.lauriesGains.ranked": "ローリー・ザ・チャックル・クロウの効果範囲 (AOE) が {{size}} の範囲に増加し、さらに+ {{value}} アドバンスドクロップ収量が増加"
 }

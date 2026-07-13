@@ -21,6 +21,7 @@ import {
   getAscensionUpgradeCost,
   ASCENSION_BUMPKIN_LEVEL,
 } from "features/game/events/landExpansion/upgradeFarm";
+import { useTimeBasedFeatureAccess } from "lib/utils/hooks/useTimeBasedFeatureAccess";
 import {
   getAscensionLevel,
   getMaxBumpkinLevel,
@@ -32,7 +33,7 @@ import { createPortal } from "react-dom";
 import confetti from "canvas-confetti";
 import type { IslandType } from "features/game/types/game";
 import { ASCENSION_ISLANDS } from "features/game/types/game";
-import { hasFeatureAccess } from "lib/flags";
+import { hasFeatureAccess, TIME_BASED_FEATURE_FLAG_WINDOWS } from "lib/flags";
 import { Section, useScrollIntoView } from "lib/utils/hooks/useScrollIntoView";
 import { useAppTranslation } from "lib/i18n/useAppTranslations";
 import { Transition } from "@headlessui/react";
@@ -117,10 +118,27 @@ const IslandUpgraderModal: React.FC<{
 
   const { island, inventory, collectibles, home, coins, bumpkin } =
     gameState.context.state;
+
+  // Temporary: ascending from Swamp (A1) to the next island (A2) is gated behind
+  // the SPOOKY_ASCENSION window (testnet bypasses). Mirror the server gate so the
+  // button reflects it.
+  const hasSpookyAscensionAccess = useTimeBasedFeatureAccess({
+    featureName: "SPOOKY_ASCENSION",
+    game: gameState.context.state,
+  });
+  // Match the reducer's authoritative A1→A2 condition (ascensionLevel === 1) so
+  // the button can't enable an upgrade the server rejects, or vice versa.
+  const isNextAscensionLocked =
+    (island.ascensionLevel ?? 0) === 1 && !hasSpookyAscensionAccess;
   const upgrade = isLandUpgradable(island.type)
     ? ISLAND_UPGRADE[island.type]
     : NO_ISLAND_UPGRADE;
-  const { t } = useAppTranslation();
+  const { t, i18n } = useAppTranslation();
+  const nextAscensionUnlockDate =
+    TIME_BASED_FEATURE_FLAG_WINDOWS.SPOOKY_ASCENSION.start.toLocaleDateString(
+      i18n.resolvedLanguage,
+      { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" },
+    );
 
   const remainingExpansions =
     upgrade.expansions - (inventory["Basic Land"]?.toNumber() ?? 0);
@@ -259,6 +277,16 @@ const IslandUpgraderModal: React.FC<{
           </Label>
         )}
 
+        {hasUpgrade && isNextAscensionLocked && (
+          <Label
+            icon={SUNNYSIDE.icons.lock}
+            type="danger"
+            className="mr-3 my-2"
+          >
+            {t("islandupgrade.comingSoon", { date: nextAscensionUnlockDate })}
+          </Label>
+        )}
+
         {hasUpgrade && (
           <>
             <div className="flex items-center mt-2 mb-1 flex-wrap gap-x-2 gap-y-1">
@@ -325,7 +353,8 @@ const IslandUpgraderModal: React.FC<{
           !hasUpgrade ||
           !hasResources ||
           !hasRequiredLevel ||
-          remainingExpansions > 0
+          remainingExpansions > 0 ||
+          isNextAscensionLocked
         }
         onClick={() => setShowConfirmation(true)}
       >

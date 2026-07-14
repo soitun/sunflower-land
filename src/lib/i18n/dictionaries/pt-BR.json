@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necessários para cozinhar",
   "skill.chonkyScarecrow.ranked.yield": "Aumenta a área de efeito (AOE) do Espantalho Básico para uma área de {{size}}; Tempo adicional de crescimento básico da cultura x0,9; + {{value}} rendimento básico da cultura",
   "skill.horrorMike.ranked": "Aumenta a área de efeito (AOE) de Scary Mike para uma área de {{size}}; rendimento médio adicional de + {{value}} da safra",
-  "skill.lauriesGains.ranked": "Aumenta a área de efeito (AOE) de Laurie the Chuckle Crow para uma área de {{size}}; rendimento de safra adicional avançado de + {{value}}"
+  "skill.lauriesGains.ranked": "Aumenta a área de efeito (AOE) de Laurie the Chuckle Crow para uma área de {{size}}; rendimento de safra adicional avançado de + {{value}}",
+  "dailyReset.title": "Chegou um novo dia!",
+  "dailyReset.greeting": "O sol aparece no horizonte e a fazenda volta à vida — um novo dia de aventura espera por você!",
+  "dailyReset.activities": "As seguintes atividades diárias foram redefinidas:",
+  "dailyReset.deliveries": "Entregas",
+  "dailyReset.chores": "Tarefas",
+  "dailyReset.fishing": "Pesca",
+  "dailyReset.digging": "Escavação no deserto",
+  "dailyReset.dailyChest": "Baú diário",
+  "dailyReset.minigames": "Minijogos",
+  "dailyReset.budBox": "Bud Box",
+  "dailyReset.loading.one": "O galo está limpando a garganta",
+  "dailyReset.loading.two": "Regando as colheitas matinais",
+  "dailyReset.loading.three": "Reabastecendo a placa de entrega",
+  "dailyReset.loading.four": "Expulsando goblins da despensa"
 }

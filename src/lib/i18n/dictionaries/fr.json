@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x ingrédients nécessaires à la cuisson",
   "skill.chonkyScarecrow.ranked.yield": "Augmente la zone d'effet (AOE) de l'épouvantail de base à une surface de {{size}} ; temps de croissance de la culture de base supplémentaire x0,9 ; + {{value}} rendement de base de la culture",
   "skill.horrorMike.ranked": "Augmente la zone d'effet (AOE) de Scary Mike à une zone de {{size}} ; rendement moyen supplémentaire de + {{value}}",
-  "skill.lauriesGains.ranked": "Augmente la zone d'effet (AOE) de Laurie the Chuckle Crow à une surface de {{size}} ; rendement agricole avancé supplémentaire de + {{value}}"
+  "skill.lauriesGains.ranked": "Augmente la zone d'effet (AOE) de Laurie the Chuckle Crow à une surface de {{size}} ; rendement agricole avancé supplémentaire de + {{value}}",
+  "dailyReset.title": "Un nouveau jour est arrivé !",
+  "dailyReset.greeting": "Le soleil pointe à l'horizon et la ferme reprend vie : une nouvelle journée d'aventure vous attend !",
+  "dailyReset.activities": "Les activités quotidiennes suivantes ont été réinitialisées :",
+  "dailyReset.deliveries": "Livraisons",
+  "dailyReset.chores": "Corvées",
+  "dailyReset.fishing": "Pêche",
+  "dailyReset.digging": "Creuser dans le désert",
+  "dailyReset.dailyChest": "Coffre quotidien",
+  "dailyReset.minigames": "Mini-jeux",
+  "dailyReset.budBox": "Boîte à boutons",
+  "dailyReset.loading.one": "Le coq se racle la gorge",
+  "dailyReset.loading.two": "Arroser les cultures du matin",
+  "dailyReset.loading.three": "Réapprovisionnement du tableau de livraison",
+  "dailyReset.loading.four": "Chasser les gobelins du garde-manger"
 }

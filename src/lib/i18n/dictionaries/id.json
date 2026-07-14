@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x bahan yang dibutuhkan untuk memasak",
   "skill.chonkyScarecrow.ranked.yield": "Meningkatkan area efek Dasar Scarecrow (AOE) ke area {{size}}; Tambahan x0.9 waktu pertumbuhan tanaman dasar; + {{value}} hasil tanaman dasar",
   "skill.horrorMike.ranked": "Meningkatkan area efek Scary Mike (AOE) ke area {{size}}; Tambahan + {{value}} hasil panen sedang",
-  "skill.lauriesGains.ranked": "Meningkatkan area efek Laurie the Chuckle Crow (AOE) ke area {{size}}; Tambahan + {{value}} hasil panen lanjutan"
+  "skill.lauriesGains.ranked": "Meningkatkan area efek Laurie the Chuckle Crow (AOE) ke area {{size}}; Tambahan + {{value}} hasil panen lanjutan",
+  "dailyReset.title": "Hari baru telah tiba!",
+  "dailyReset.greeting": "Matahari mengintip ke cakrawala dan pertanian hidup kembali - hari petualangan baru menanti!",
+  "dailyReset.activities": "Kegiatan harian berikut telah diatur ulang:",
+  "dailyReset.deliveries": "Pengiriman",
+  "dailyReset.chores": "Tugas",
+  "dailyReset.fishing": "Memancing",
+  "dailyReset.digging": "Penggalian gurun",
+  "dailyReset.dailyChest": "Dada harian",
+  "dailyReset.minigames": "Minigame",
+  "dailyReset.budBox": "Kotak Tunas",
+  "dailyReset.loading.one": "Ayam jantan itu membersihkan tenggorokannya",
+  "dailyReset.loading.two": "Menyiram tanaman pagi",
+  "dailyReset.loading.three": "Mengisi ulang papan pengiriman",
+  "dailyReset.loading.four": "Mengejar goblin keluar dari dapur"
 }

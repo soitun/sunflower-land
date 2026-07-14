@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x 烹饪所需的食材",
   "skill.chonkyScarecrow.ranked.yield": "将基础稻草人的效果区域 (AOE) 增加到 {{size}} 区域；额外的 x0.9 基本作物生长时间；+ {{value}} 基本作物产量",
   "skill.horrorMike.ranked": "将 Scary Mike 的效果区域 (AOE) 增加到 {{size}} 区域；额外 + {{value}} 中等作物产量",
-  "skill.lauriesGains.ranked": "将 Laurie the Chuckle Crow 的效果区域 (AOE) 增加到 {{size}} 区域；额外 + {{value}} 高级作物产量"
+  "skill.lauriesGains.ranked": "将 Laurie the Chuckle Crow 的效果区域 (AOE) 增加到 {{size}} 区域；额外 + {{value}} 高级作物产量",
+  "dailyReset.title": "新的一天已经到来！",
+  "dailyReset.greeting": "太阳从地平线上掠过，农场重获新生，全新的冒险之旅等待着您！",
+  "dailyReset.activities": "以下日常活动已重置：",
+  "dailyReset.deliveries": "配送",
+  "dailyReset.chores": "琐事",
+  "dailyReset.fishing": "钓鱼",
+  "dailyReset.digging": "沙漠挖掘",
+  "dailyReset.dailyChest": "每日胸部",
+  "dailyReset.minigames": "迷你游戏",
+  "dailyReset.budBox": "花蕾盒子",
+  "dailyReset.loading.one": "那只公鸡正在清喉咙",
+  "dailyReset.loading.two": "给早上的农作物浇水",
+  "dailyReset.loading.three": "为配送板补货",
+  "dailyReset.loading.four": "把哥布林赶出储藏室"
 }

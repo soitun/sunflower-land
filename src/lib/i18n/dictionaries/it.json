@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x ingredienti necessari per cucinare",
   "skill.chonkyScarecrow.ranked.yield": "Aumenta l'area d'effetto dello Spaventapasseri di base (AOE) a un'area {{size}}; tempo di crescita base del raccolto di x0,9 aggiuntivo; + {{value}} resa del raccolto di base",
   "skill.horrorMike.ranked": "Aumenta l'area d'effetto (AOE) di Scary Mike a un'area {{size}}; resa media aggiuntiva del raccolto di + {{value}}",
-  "skill.lauriesGains.ranked": "Aumenta l'area d'effetto (AOE) di Laurie the Chuckle Crow a un'area {{size}}; resa delle colture avanzata aggiuntiva + {{value}}"
+  "skill.lauriesGains.ranked": "Aumenta l'area d'effetto (AOE) di Laurie the Chuckle Crow a un'area {{size}}; resa delle colture avanzata aggiuntiva + {{value}}",
+  "dailyReset.title": "È arrivato un nuovo giorno!",
+  "dailyReset.greeting": "Il sole fa capolino all'orizzonte e la fattoria riprende vita: ti aspetta una nuova giornata di avventure!",
+  "dailyReset.activities": "Le seguenti attività giornaliere sono state ripristinate:",
+  "dailyReset.deliveries": "Consegne",
+  "dailyReset.chores": "Faccende",
+  "dailyReset.fishing": "Pesca",
+  "dailyReset.digging": "Scavando nel deserto",
+  "dailyReset.dailyChest": "Petto giornaliero",
+  "dailyReset.minigames": "Minigiochi",
+  "dailyReset.budBox": "Scatola Bud",
+  "dailyReset.loading.one": "Il gallo si sta schiarendo la gola",
+  "dailyReset.loading.two": "Irrigazione delle colture mattutine",
+  "dailyReset.loading.three": "Rifornimento della tavola di consegna",
+  "dailyReset.loading.four": "Cacciare i goblin dalla dispensa"
 }

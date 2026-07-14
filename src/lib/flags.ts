@@ -191,7 +191,7 @@ const FEATURE_FLAGS = {
   // Importing leftover items from the old home into the new interior.
   HOME_ITEM_MIGRATION: betaFeatureFlag,
 
-  SWAMP_ASCENSION: usernameFeatureFlag,
+  SWAMP_ASCENSION: betaFeatureFlag,
 
   // Per-rank skill upgrades (spend Ascension Shards + skill points to rank up a
   // skill). Kept on its own flag so the upgrade UI + `skill.upgraded` event can

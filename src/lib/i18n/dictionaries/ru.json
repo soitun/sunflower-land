@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "The rooster is clearing his throat",
   "dailyReset.loading.two": "Watering the morning crops",
   "dailyReset.loading.three": "Restocking the delivery board",
-  "dailyReset.loading.four": "Chasing goblins out of the pantry"
+  "dailyReset.loading.four": "Chasing goblins out of the pantry",
+  "auction.raffle.vipOnlyPrizes": "Only VIP members can win prizes 1 to 10."
 }

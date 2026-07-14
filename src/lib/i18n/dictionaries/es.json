@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "El gallo se aclara la garganta",
   "dailyReset.loading.two": "Regar los cultivos de la mañana",
   "dailyReset.loading.three": "Reabastecimiento de la tabla de entrega",
-  "dailyReset.loading.four": "Persiguiendo a los duendes para que salgan de la despensa"
+  "dailyReset.loading.four": "Persiguiendo a los duendes para que salgan de la despensa",
+  "auction.raffle.vipOnlyPrizes": "Solo los miembros VIP pueden ganar premios del 1 al 10."
 }

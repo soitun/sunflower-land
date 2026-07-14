@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "Le coq se racle la gorge",
   "dailyReset.loading.two": "Arroser les cultures du matin",
   "dailyReset.loading.three": "Réapprovisionnement du tableau de livraison",
-  "dailyReset.loading.four": "Chasser les gobelins du garde-manger"
+  "dailyReset.loading.four": "Chasser les gobelins du garde-manger",
+  "auction.raffle.vipOnlyPrizes": "Seuls les membres VIP peuvent gagner des prix de 1 à 10."
 }

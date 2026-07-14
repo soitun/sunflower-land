@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "Il gallo si sta schiarendo la gola",
   "dailyReset.loading.two": "Irrigazione delle colture mattutine",
   "dailyReset.loading.three": "Rifornimento della tavola di consegna",
-  "dailyReset.loading.four": "Cacciare i goblin dalla dispensa"
+  "dailyReset.loading.four": "Cacciare i goblin dalla dispensa",
+  "auction.raffle.vipOnlyPrizes": "Solo i membri VIP possono vincere premi da 1 a 10."
 }

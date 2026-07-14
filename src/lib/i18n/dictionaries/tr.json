@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "Horoz boğazını temizliyor",
   "dailyReset.loading.two": "Sabah mahsullerinin sulanması",
   "dailyReset.loading.three": "Teslimat tahtasının yeniden stoklanması",
-  "dailyReset.loading.four": "Goblinleri kilerden kovalamak"
+  "dailyReset.loading.four": "Goblinleri kilerden kovalamak",
+  "auction.raffle.vipOnlyPrizes": "Sadece VIP üyeler 1'den 10'a kadar ödül kazanabilir."
 }

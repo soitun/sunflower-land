@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Den Lieferkarton auffüllen",
   "dailyReset.loading.four": "Kobolde aus der Speisekammer jagen",
   "auction.raffle.vipOnlyPrizes": "Nur VIP-Mitglieder können die Preise 1 bis 10 gewinnen.",
-  "islandupgrade.welcomeAscensionIsland": "Du bist auf {{island}} aufgestiegen! (Himmelfahrt {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "Du bist auf {{island}} aufgestiegen! (Himmelfahrt {{level}})",
+  "savedLayouts.setAscension": "Als Himmelfahrts-Layout festlegen",
+  "savedLayouts.confirmAscension": "Deine aktuelle Basis als dein Himmelfahrts-Layout einrichten? Nur Gegenstände aus den ersten 30 Ländern werden gespeichert, und sie werden jedes Mal, wenn du aufsteigst, erneut angewendet.",
+  "savedLayouts.confirmAscensionReplace": "Dein Ascension Layout durch deine aktuelle Basis ersetzen? Nur Gegenstände aus deinen ersten 30 Ländern werden gespeichert und sie werden jedes Mal, wenn du aufsteigst, erneut angewendet.",
+  "savedLayouts.confirmAscensionFromLayout": "Stellen Sie „{{name}}“ als Ihr Himmelfahrts-Layout ein? Es werden nur Gegenstände aus den ersten 30 Ländern gespeichert, und jedes Mal, wenn du aufsteigst, wird es erneut angewendet.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "Ersetze dein Ascension Layout durch „{{name}}“? Es werden nur Gegenstände aus den ersten 30 Ländern gespeichert, und jedes Mal, wenn du aufsteigst, wird es erneut angewendet.",
+  "savedLayouts.toastAscensionSaved": "Ascension Layout-Set",
+  "savedLayouts.ascensionProtected": "Das ist euer Aufstiegs-Layout — jedes Mal neu angewendet, wenn ihr aufsteigt. Es kann nicht umbenannt, überschrieben oder gelöscht werden."
 }

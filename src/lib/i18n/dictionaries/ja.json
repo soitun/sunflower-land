@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "デリバリーボードの補充",
   "dailyReset.loading.four": "パントリーからゴブリンを追い出す",
   "auction.raffle.vipOnlyPrizes": "VIPメンバーのみが1から10の賞品を獲得できます。",
-  "islandupgrade.welcomeAscensionIsland": "{{island}} に昇格しました！(アセンション {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "{{island}} に昇格しました！(アセンション {{level}})",
+  "savedLayouts.setAscension": "昇順レイアウトとして設定",
+  "savedLayouts.confirmAscension": "現在のベースをアセンション・レイアウトとして設定しますか？最初の 30 土地のアイテムのみが保存され、昇格するたびに再適用されます。",
+  "savedLayouts.confirmAscensionReplace": "アセンション・レイアウトを現在のベースに置き換えたいですか？最初の 30 土地のアイテムのみが保存され、昇格するたびに再適用されます。",
+  "savedLayouts.confirmAscensionFromLayout": "アセンション・レイアウトに「{{name}}」を設定しますか？最初の30土地のアイテムのみが保存され、アセンションするたびに再適用されます。",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "アセンション・レイアウトを「{{name}}」に置き換えませんか?最初の 30 土地のアイテムのみが保存され、アセンションするたびに再適用されます。",
+  "savedLayouts.toastAscensionSaved": "アセンションレイアウトセット",
+  "savedLayouts.ascensionProtected": "これがアセンションレイアウトです。アセンションするたびに再適用されます。名前の変更、上書き、削除はできません。"
 }

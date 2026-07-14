@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Réapprovisionnement du tableau de livraison",
   "dailyReset.loading.four": "Chasser les gobelins du garde-manger",
   "auction.raffle.vipOnlyPrizes": "Seuls les membres VIP peuvent gagner des prix de 1 à 10.",
-  "islandupgrade.welcomeAscensionIsland": "Vous êtes monté jusqu'à {{island}} ! (Ascension {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "Vous êtes monté jusqu'à {{island}} ! (Ascension {{level}})",
+  "savedLayouts.setAscension": "Définir comme mise en page Ascension",
+  "savedLayouts.confirmAscension": "Définissez votre base actuelle comme configuration d'Ascension ? Seuls les objets de vos 30 premiers terrains sont stockés, et ils sont réappliqués à chaque fois que vous montez.",
+  "savedLayouts.confirmAscensionReplace": "Remplacer votre configuration Ascension par votre base actuelle ? Seuls les objets de vos 30 premiers terrains sont stockés, et ils sont réappliqués à chaque fois que vous montez.",
+  "savedLayouts.confirmAscensionFromLayout": "Définissez « {{name}} » comme disposition de votre Ascension ? Seuls les objets se trouvant sur ses 30 premiers terrains sont stockés, et ils sont réappliqués à chaque fois que vous montez.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "Remplacez votre disposition Ascension par « {{name}} » ? Seuls les objets se trouvant sur ses 30 premiers terrains sont stockés, et ils sont réappliqués à chaque fois que vous montez.",
+  "savedLayouts.toastAscensionSaved": "Kit de mise en page Ascension",
+  "savedLayouts.ascensionProtected": "Il s'agit de votre plan d'ascension, réappliqué à chaque ascension. Il ne peut pas être renommé, remplacé ou supprimé."
 }

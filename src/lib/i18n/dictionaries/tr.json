@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Teslimat tahtasının yeniden stoklanması",
   "dailyReset.loading.four": "Goblinleri kilerden kovalamak",
   "auction.raffle.vipOnlyPrizes": "Sadece VIP üyeler 1'den 10'a kadar ödül kazanabilir.",
-  "islandupgrade.welcomeAscensionIsland": "{{island}} 'ye yükseldiniz! (Yükseliş {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "{{island}} 'ye yükseldiniz! (Yükseliş {{level}})",
+  "savedLayouts.setAscension": "Yükseliş Düzeni Olarak Ayarla",
+  "savedLayouts.confirmAscension": "Mevcut tabanınızı Yükseliş Düzeni olarak ayarlayın? Sadece ilk 30 arazinizdeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
+  "savedLayouts.confirmAscensionReplace": "Yükseliş Düzeninizi mevcut üssünüzle değiştirin? Sadece ilk 30 arazinizdeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
+  "savedLayouts.confirmAscensionFromLayout": "Yükseliş Düzeni olarak “{{name}}” mi ayarlayın? Sadece ilk 30 arazisindeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "Yükseliş Düzeninizi “{{name}}” ile değiştirin? Sadece ilk 30 arazisindeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
+  "savedLayouts.toastAscensionSaved": "Yükseliş Düzeni kümesi",
+  "savedLayouts.ascensionProtected": "Bu sizin Yükseliş Düzeninizdir - her yükseldiğinizde yeniden uygulanır. Yeniden adlandırılamaz, üzerine yazılamaz veya silinemez."
 }

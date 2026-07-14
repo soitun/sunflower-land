@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Rifornimento della tavola di consegna",
   "dailyReset.loading.four": "Cacciare i goblin dalla dispensa",
   "auction.raffle.vipOnlyPrizes": "Solo i membri VIP possono vincere premi da 1 a 10.",
-  "islandupgrade.welcomeAscensionIsland": "Sei salito a {{island}}! (Ascensione {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "Sei salito a {{island}}! (Ascensione {{level}})",
+  "savedLayouts.setAscension": "Imposta come layout di Ascensione",
+  "savedLayouts.confirmAscension": "Imposta la tua base attuale come Layout dell'Ascensione? Vengono immagazzinati solo gli oggetti presenti nelle tue prime 30 terre e vengono riapplicati ogni volta che ascendi.",
+  "savedLayouts.confirmAscensionReplace": "Sostituisci il tuo layout dell'Ascensione con la tua base attuale? Vengono immagazzinati solo gli oggetti presenti nelle tue prime 30 terre e vengono riapplicati ogni volta che ascendi.",
+  "savedLayouts.confirmAscensionFromLayout": "Imposta «{{name}}» come layout dell'Ascensione? Vengono immagazzinati solo gli oggetti presenti nelle sue prime 30 terre e viene riapplicato ogni volta che ascendi.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "Sostituisci il layout dell'Ascensione con «{{name}}»? Vengono immagazzinati solo gli oggetti presenti nelle sue prime 30 terre e viene riapplicato ogni volta che ascendi.",
+  "savedLayouts.toastAscensionSaved": "Set di layout dell'Ascensione",
+  "savedLayouts.ascensionProtected": "Questo è il vostro Layout dell'Ascensione, riapplicato ogni volta che ascendete. Non può essere rinominato, sovrascritto o eliminato."
 }

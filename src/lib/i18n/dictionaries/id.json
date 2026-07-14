@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Mengisi ulang papan pengiriman",
   "dailyReset.loading.four": "Mengejar goblin keluar dari dapur",
   "auction.raffle.vipOnlyPrizes": "Hanya anggota VIP yang dapat memenangkan hadiah 1 hingga 10.",
-  "islandupgrade.welcomeAscensionIsland": "Anda telah naik ke {{island}}! (Kenaikan {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "Anda telah naik ke {{island}}! (Kenaikan {{level}})",
+  "savedLayouts.setAscension": "Tetapkan sebagai Tata Letak Ascension",
+  "savedLayouts.confirmAscension": "Tetapkan basis Anda saat ini sebagai Tata Letak Ascension Anda? Hanya item di 30 tanah pertama Anda yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
+  "savedLayouts.confirmAscensionReplace": "Ganti Tata Letak Ascension Anda dengan basis Anda saat ini? Hanya item di 30 tanah pertama Anda yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
+  "savedLayouts.confirmAscensionFromLayout": "Setel “{{name}}” sebagai Tata Letak Kenaikan Anda? Hanya item di 30 tanah pertamanya yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "Ganti Tata Letak Ascension Anda dengan “{{name}}”? Hanya item di 30 tanah pertamanya yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
+  "savedLayouts.toastAscensionSaved": "Set Tata Letak Ascension",
+  "savedLayouts.ascensionProtected": "Ini adalah Tata Letak Kenaikan Anda — diterapkan kembali setiap kali Anda naik. Itu tidak dapat diganti namanya, diganti, atau dihapus."
 }

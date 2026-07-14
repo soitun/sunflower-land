@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "Reabastecimiento de la tabla de entrega",
   "dailyReset.loading.four": "Persiguiendo a los duendes para que salgan de la despensa",
   "auction.raffle.vipOnlyPrizes": "Solo los miembros VIP pueden ganar premios del 1 al 10.",
-  "islandupgrade.welcomeAscensionIsland": "¡Has ascendido a {{island}}! (Ascensión {{level}})"
+  "islandupgrade.welcomeAscensionIsland": "¡Has ascendido a {{island}}! (Ascensión {{level}})",
+  "savedLayouts.setAscension": "Establecer como diseño de ascensión",
+  "savedLayouts.confirmAscension": "¿Establecer tu base actual como tu diseño de ascensión? Solo se almacenan los objetos de tus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
+  "savedLayouts.confirmAscensionReplace": "¿Sustituir tu diseño de ascensión por tu base actual? Solo se almacenan los objetos de tus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
+  "savedLayouts.confirmAscensionFromLayout": "¿Establecer «{{name}}» como tu diseño de ascensión? Solo se almacenan los objetos de sus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "¿Sustituye tu diseño de ascensión por «{{name}}»? Solo se almacenan los objetos de sus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
+  "savedLayouts.toastAscensionSaved": "Conjunto de diseños de ascensión",
+  "savedLayouts.ascensionProtected": "Este es tu diseño de ascensión, que se vuelve a aplicar cada vez que asciendes. No se puede renombrar, sobrescribir ni eliminar."
 }

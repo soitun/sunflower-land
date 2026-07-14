@@ -9331,5 +9331,12 @@
   "dailyReset.loading.three": "为配送板补货",
   "dailyReset.loading.four": "把哥布林赶出储藏室",
   "auction.raffle.vipOnlyPrizes": "只有 VIP 会员可以赢取 1 到 10 个奖品。",
-  "islandupgrade.welcomeAscensionIsland": "你已经升至 {{island}}！（耶稣升天 {{level}}）"
+  "islandupgrade.welcomeAscensionIsland": "你已经升至 {{island}}！（耶稣升天 {{level}}）",
+  "savedLayouts.setAscension": "设置为 Ascension 布局",
+  "savedLayouts.confirmAscension": "将你当前的基地设置为你的 Ascension 布局？仅存储前 30 个土地上的物品，并且每次上升时都会重新使用。",
+  "savedLayouts.confirmAscensionReplace": "用你当前的基地替换你的 Ascension 布局？仅存储前 30 个地块上的物品，并且每次上升时都会重新应用该物品。",
+  "savedLayouts.confirmAscensionFromLayout": "将 “{{name}}” 设置为你的 Ascension 布局？仅存储其前 30 个地带上的物品，并且每次上升时都会重新应用该物品。",
+  "savedLayouts.confirmAscensionReplaceFromLayout": "用 “{{name}}” 替换你的 Ascension 布局？仅存储其前 30 个地带上的物品，并且每次上升时都会重新应用该物品。",
+  "savedLayouts.toastAscensionSaved": "Ascension 布局集",
+  "savedLayouts.ascensionProtected": "这是你的 Ascension 布局——每次上升时都会重新应用。它不能被重命名、覆盖或删除。"
 }

@@ -1624,9 +1624,6 @@ describe("upgradeFarm", () => {
     const readyXp = ascensionBaseline(1) + bandXp(1);
     const swampState = {
       ...INITIAL_FARM,
-      // Team username so the SWAMP_ASCENSION gate passes on mainnet and the
-      // temporary A2 lock is the check under test.
-      username: "elias",
       coins: 10000,
       bumpkin: {
         ...INITIAL_FARM.bumpkin,
@@ -1638,6 +1635,9 @@ describe("upgradeFarm", () => {
       },
       inventory: {
         ...INITIAL_FARM.inventory,
+        // Beta Pass so the SWAMP_ASCENSION beta gate passes on mainnet and the
+        // temporary A2 lock is the check under test.
+        "Beta Pass": new Decimal(1),
         // Meets the expansion requirement but holds no ascension-cost items, so a
         // player past the temporary gate lands on the cost check.
         "Basic Land": new Decimal(42),

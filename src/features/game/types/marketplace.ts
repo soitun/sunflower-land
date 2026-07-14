@@ -404,13 +404,13 @@ const ISLAND_RESOURCE_TAXES: Record<IslandType, number> = {
   basic: 1,
   spring: 0.55,
   desert: 0.25,
-  volcano: 0.2,
-  swamp: 0.2,
+  volcano: 0.15,
+  swamp: 0.15,
   // Ascension islands (spooky onward) reuse the swamp value for now.
-  spooky: 0.2,
-  crystal: 0.2,
-  galaxy: 0.2,
-  marble: 0.2,
+  spooky: 0.15,
+  crystal: 0.15,
+  galaxy: 0.15,
+  marble: 0.15,
 };
 
 export function getResourceTax({

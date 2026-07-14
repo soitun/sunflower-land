@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "O galo está limpando a garganta",
   "dailyReset.loading.two": "Regando as colheitas matinais",
   "dailyReset.loading.three": "Reabastecendo a placa de entrega",
-  "dailyReset.loading.four": "Expulsando goblins da despensa"
+  "dailyReset.loading.four": "Expulsando goblins da despensa",
+  "auction.raffle.vipOnlyPrizes": "Somente membros VIP podem ganhar prêmios de 1 a 10."
 }

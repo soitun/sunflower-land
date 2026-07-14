@@ -199,6 +199,7 @@
   "auction.raffle.details": "Raffle Details",
   "auction.raffle.prizes": "Prize pool",
   "auction.raffle.prizePool": "{{count}} winners will be picked. The total reward pool for this raffle includes:",
+  "auction.raffle.vipOnlyPrizes": "Only VIP members can win prizes 1 to 10.",
   "auction.raffle.entriesLabel": "You have {{count}} entries",
   "auction.raffle.alreadyEntered": "You are already entered in #{{id}} raffle",
   "auction.raffle.addMore": "Add more",

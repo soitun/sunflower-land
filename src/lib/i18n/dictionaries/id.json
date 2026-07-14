@@ -9329,5 +9329,6 @@
   "dailyReset.loading.one": "Ayam jantan itu membersihkan tenggorokannya",
   "dailyReset.loading.two": "Menyiram tanaman pagi",
   "dailyReset.loading.three": "Mengisi ulang papan pengiriman",
-  "dailyReset.loading.four": "Mengejar goblin keluar dari dapur"
+  "dailyReset.loading.four": "Mengejar goblin keluar dari dapur",
+  "auction.raffle.vipOnlyPrizes": "Hanya anggota VIP yang dapat memenangkan hadiah 1 hingga 10."
 }

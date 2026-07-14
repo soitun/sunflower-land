@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x ingredientes necesarios para cocinar",
   "skill.chonkyScarecrow.ranked.yield": "Aumenta el área de efecto (AOE) del espantapájaros básico a un área de {{size}}; el tiempo de crecimiento del cultivo básico adicional x0.9; el rendimiento del cultivo básico de + {{value}}",
   "skill.horrorMike.ranked": "Aumenta el área de efecto (AOE) de Scary Mike a un área de {{size}}; rendimiento adicional de + {{value}} en la cosecha media",
-  "skill.lauriesGains.ranked": "Aumenta el área de efecto (AOE) de Laurie the Chuckle Crow a un área de {{size}}; rendimiento de cultivo avanzado adicional de + {{value}}"
+  "skill.lauriesGains.ranked": "Aumenta el área de efecto (AOE) de Laurie the Chuckle Crow a un área de {{size}}; rendimiento de cultivo avanzado adicional de + {{value}}",
+  "dailyReset.title": "¡Ha llegado un nuevo día!",
+  "dailyReset.greeting": "El sol se asoma por el horizonte y la granja vuelve a la vida: ¡le espera un nuevo día de aventuras!",
+  "dailyReset.activities": "Se han restablecido las siguientes actividades diarias:",
+  "dailyReset.deliveries": "Entregas",
+  "dailyReset.chores": "Tareas",
+  "dailyReset.fishing": "Pesca",
+  "dailyReset.digging": "Cavando en el desierto",
+  "dailyReset.dailyChest": "Cofre diario",
+  "dailyReset.minigames": "Minijuegos",
+  "dailyReset.budBox": "Bud Box",
+  "dailyReset.loading.one": "El gallo se aclara la garganta",
+  "dailyReset.loading.two": "Regar los cultivos de la mañana",
+  "dailyReset.loading.three": "Reabastecimiento de la tabla de entrega",
+  "dailyReset.loading.four": "Persiguiendo a los duendes para que salgan de la despensa"
 }

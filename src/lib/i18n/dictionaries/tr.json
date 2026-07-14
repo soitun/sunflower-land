@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x yemek pişirmek için gerekli malzemeler",
   "skill.chonkyScarecrow.ranked.yield": "Temel Korkuluk etki alanını (AOE) bir {{size}} alana yükseltir; Ek x0.9 temel mahsul büyüme süresi; + {{value}} temel mahsul verimi",
   "skill.horrorMike.ranked": "Scary Mike'ın etki alanını (AOE) bir {{size}} alana yükseltir; Ek + {{value}} orta mahsul verimi",
-  "skill.lauriesGains.ranked": "Laurie the Chuckle Crow'un etki alanını (AOE) bir {{size}} alana yükseltir; Ek + {{value}} gelişmiş mahsul verimi"
+  "skill.lauriesGains.ranked": "Laurie the Chuckle Crow'un etki alanını (AOE) bir {{size}} alana yükseltir; Ek + {{value}} gelişmiş mahsul verimi",
+  "dailyReset.title": "Yeni bir gün geldi!",
+  "dailyReset.greeting": "Güneş ufka bakıyor ve çiftlik hayata dönüyor - yeni bir macera günü sizi bekliyor!",
+  "dailyReset.activities": "Aşağıdaki günlük aktiviteler sıfırlandı:",
+  "dailyReset.deliveries": "Teslimatlar",
+  "dailyReset.chores": "Ev işleri",
+  "dailyReset.fishing": "Balıkçılık",
+  "dailyReset.digging": "Çöl kazma",
+  "dailyReset.dailyChest": "Günlük sandık",
+  "dailyReset.minigames": "Mini oyunlar",
+  "dailyReset.budBox": "Tomurcuk Kutusu",
+  "dailyReset.loading.one": "Horoz boğazını temizliyor",
+  "dailyReset.loading.two": "Sabah mahsullerinin sulanması",
+  "dailyReset.loading.three": "Teslimat tahtasının yeniden stoklanması",
+  "dailyReset.loading.four": "Goblinleri kilerden kovalamak"
 }

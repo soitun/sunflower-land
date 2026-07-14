@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x Zutaten, die zum Kochen benötigt werden",
   "skill.chonkyScarecrow.ranked.yield": "Erhöht den Wirkungsbereich (AOE) von Basic Scarecrow auf eine Fläche von {{size}}; zusätzliche x0,9 grundlegende Wachstumszeit der Pflanzen; + {{value}} Grundernteertrag",
   "skill.horrorMike.ranked": "Erhöht den Wirkungsbereich (AOE) von Scary Mike auf einen Bereich von {{size}}; zusätzlicher + {{value}} mittlerer Ernteertrag",
-  "skill.lauriesGains.ranked": "Erhöht den Wirkungsbereich (AOE) von Laurie the Chuckle Crow auf einen Bereich von {{size}}; zusätzlicher + {{value}} höherer Ernteertrag"
+  "skill.lauriesGains.ranked": "Erhöht den Wirkungsbereich (AOE) von Laurie the Chuckle Crow auf einen Bereich von {{size}}; zusätzlicher + {{value}} höherer Ernteertrag",
+  "dailyReset.title": "Ein neuer Tag ist gekommen!",
+  "dailyReset.greeting": "Die Sonne schaut über den Horizont und die Farm erwacht wieder zum Leben — ein neuer Tag voller Abenteuer erwartet Sie!",
+  "dailyReset.activities": "Die folgenden täglichen Aktivitäten wurden zurückgesetzt:",
+  "dailyReset.deliveries": "Lieferungen",
+  "dailyReset.chores": "Hausarbeiten",
+  "dailyReset.fishing": "Fischen",
+  "dailyReset.digging": "In der Wüste graben",
+  "dailyReset.dailyChest": "Tägliche Truhe",
+  "dailyReset.minigames": "Minispiele",
+  "dailyReset.budBox": "Bud Box",
+  "dailyReset.loading.one": "Der Hahn räuspert sich",
+  "dailyReset.loading.two": "Bewässerung der Morgenfrüchte",
+  "dailyReset.loading.three": "Den Lieferkarton auffüllen",
+  "dailyReset.loading.four": "Kobolde aus der Speisekammer jagen"
 }

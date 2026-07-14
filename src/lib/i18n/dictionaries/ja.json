@@ -9315,5 +9315,19 @@
   "skill.doubleNom.debuff.ranked": "{{value}} x 調理に必要な材料",
   "skill.chonkyScarecrow.ranked.yield": "基本スケアクロウの効果範囲 (AOE) を {{size}} 領域に増やし、基本作物成長時間をx0.9追加、+ {{value}} 基本作物収量",
   "skill.horrorMike.ranked": "スカリー・マイクの効果範囲 (AOE) が {{size}} の範囲に増加し、収穫量が {{value}} 中程度に増加",
-  "skill.lauriesGains.ranked": "ローリー・ザ・チャックル・クロウの効果範囲 (AOE) が {{size}} の範囲に増加し、さらに+ {{value}} アドバンスドクロップ収量が増加"
+  "skill.lauriesGains.ranked": "ローリー・ザ・チャックル・クロウの効果範囲 (AOE) が {{size}} の範囲に増加し、さらに+ {{value}} アドバンスドクロップ収量が増加",
+  "dailyReset.title": "新しい日がやってきた！",
+  "dailyReset.greeting": "太陽が水平線にのぞき、農場は活気づきます。新鮮な冒険の日が待っています！",
+  "dailyReset.activities": "以下のデイリーアクティビティがリセットされました。",
+  "dailyReset.deliveries": "配送",
+  "dailyReset.chores": "雑用",
+  "dailyReset.fishing": "釣り",
+  "dailyReset.digging": "砂漠掘り",
+  "dailyReset.dailyChest": "デイリーチェスト",
+  "dailyReset.minigames": "ミニゲーム",
+  "dailyReset.budBox": "バド・ボックス",
+  "dailyReset.loading.one": "オンドリが喉をすっきりさせている",
+  "dailyReset.loading.two": "朝の作物に水をまく",
+  "dailyReset.loading.three": "デリバリーボードの補充",
+  "dailyReset.loading.four": "パントリーからゴブリンを追い出す"
 }

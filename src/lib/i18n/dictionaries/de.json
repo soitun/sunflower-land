@@ -9330,5 +9330,6 @@
   "dailyReset.loading.two": "Bewässerung der Morgenfrüchte",
   "dailyReset.loading.three": "Den Lieferkarton auffüllen",
   "dailyReset.loading.four": "Kobolde aus der Speisekammer jagen",
-  "auction.raffle.vipOnlyPrizes": "Nur VIP-Mitglieder können die Preise 1 bis 10 gewinnen."
+  "auction.raffle.vipOnlyPrizes": "Nur VIP-Mitglieder können die Preise 1 bis 10 gewinnen.",
+  "islandupgrade.welcomeAscensionIsland": "Du bist auf {{island}} aufgestiegen! (Himmelfahrt {{level}})"
 }

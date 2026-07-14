@@ -9330,5 +9330,6 @@
   "dailyReset.loading.two": "给早上的农作物浇水",
   "dailyReset.loading.three": "为配送板补货",
   "dailyReset.loading.four": "把哥布林赶出储藏室",
-  "auction.raffle.vipOnlyPrizes": "只有 VIP 会员可以赢取 1 到 10 个奖品。"
+  "auction.raffle.vipOnlyPrizes": "只有 VIP 会员可以赢取 1 到 10 个奖品。",
+  "islandupgrade.welcomeAscensionIsland": "你已经升至 {{island}}！（耶稣升天 {{level}}）"
 }

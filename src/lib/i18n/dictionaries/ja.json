@@ -9330,5 +9330,6 @@
   "dailyReset.loading.two": "朝の作物に水をまく",
   "dailyReset.loading.three": "デリバリーボードの補充",
   "dailyReset.loading.four": "パントリーからゴブリンを追い出す",
-  "auction.raffle.vipOnlyPrizes": "VIPメンバーのみが1から10の賞品を獲得できます。"
+  "auction.raffle.vipOnlyPrizes": "VIPメンバーのみが1から10の賞品を獲得できます。",
+  "islandupgrade.welcomeAscensionIsland": "{{island}} に昇格しました！(アセンション {{level}})"
 }

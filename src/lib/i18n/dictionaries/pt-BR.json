@@ -9330,5 +9330,6 @@
   "dailyReset.loading.two": "Regando as colheitas matinais",
   "dailyReset.loading.three": "Reabastecendo a placa de entrega",
   "dailyReset.loading.four": "Expulsando goblins da despensa",
-  "auction.raffle.vipOnlyPrizes": "Somente membros VIP podem ganhar prêmios de 1 a 10."
+  "auction.raffle.vipOnlyPrizes": "Somente membros VIP podem ganhar prêmios de 1 a 10.",
+  "islandupgrade.welcomeAscensionIsland": "Você subiu para {{island}}! (Ascensão {{level}})"
 }

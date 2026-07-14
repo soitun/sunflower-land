@@ -9330,5 +9330,6 @@
   "dailyReset.loading.two": "Watering the morning crops",
   "dailyReset.loading.three": "Restocking the delivery board",
   "dailyReset.loading.four": "Chasing goblins out of the pantry",
-  "auction.raffle.vipOnlyPrizes": "Only VIP members can win prizes 1 to 10."
+  "auction.raffle.vipOnlyPrizes": "Only VIP members can win prizes 1 to 10.",
+  "islandupgrade.welcomeAscensionIsland": "You've ascended to {{island}}! (Ascension {{level}})"
 }

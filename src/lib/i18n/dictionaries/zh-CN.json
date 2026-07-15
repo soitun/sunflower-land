@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "将 “{{name}}” 设置为你的 Ascension 布局？仅存储其前 30 个地带上的物品，并且每次上升时都会重新应用该物品。",
   "savedLayouts.confirmAscensionReplaceFromLayout": "用 “{{name}}” 替换你的 Ascension 布局？仅存储其前 30 个地带上的物品，并且每次上升时都会重新应用该物品。",
   "savedLayouts.toastAscensionSaved": "Ascension 布局集",
-  "savedLayouts.ascensionProtected": "这是你的 Ascension 布局——每次上升时都会重新应用。它不能被重命名、覆盖或删除。"
+  "savedLayouts.ascensionProtected": "这是你的 Ascension 布局——每次上升时都会重新应用。它不能被重命名、覆盖或删除。",
+  "skill.glassRoom.ranked": "+ {{value}} 温室农产品产量",
+  "skill.seedyBusiness.ranked": "x {{value}} 温室种子成本",
+  "skill.riceAndShine.ranked": "x {{value}} 温室农产品的生长时间",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% 来自维多利亚州配送的硬币",
+  "skill.oliveExpress.ranked": "x {{value}} 橄榄生长时间",
+  "skill.riceRocket.ranked": "x {{value}} 水稻生长时间",
+  "skill.vineVelocity.ranked": "x {{value}} 葡萄生长时间",
+  "skill.seededBounty.buff.ranked": "+ {{value}} 温室农产品产量",
+  "skill.greenhouseGuru.ranked": "立即收获所有温室农产品。{{value}} 冷却时间",
+  "skill.greenhouseGamble.ranked": "{{value}} 温室产量 +1 的几率百分比",
+  "skill.slickSaver.ranked": "-{{value}} 石油用于种植温室农产品",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} 温室农产品产量",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室的石油消耗量"
 }

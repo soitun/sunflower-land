@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Yükseliş Düzeni olarak “{{name}}” mi ayarlayın? Sadece ilk 30 arazisindeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Yükseliş Düzeninizi “{{name}}” ile değiştirin? Sadece ilk 30 arazisindeki eşyalar saklanır ve her yükseldiğinizde yeniden uygulanır.",
   "savedLayouts.toastAscensionSaved": "Yükseliş Düzeni kümesi",
-  "savedLayouts.ascensionProtected": "Bu sizin Yükseliş Düzeninizdir - her yükseldiğinizde yeniden uygulanır. Yeniden adlandırılamaz, üzerine yazılamaz veya silinemez."
+  "savedLayouts.ascensionProtected": "Bu sizin Yükseliş Düzeninizdir - her yükseldiğinizde yeniden uygulanır. Yeniden adlandırılamaz, üzerine yazılamaz veya silinemez.",
+  "skill.glassRoom.ranked": "+ {{value}} Sera üretimi verimi",
+  "skill.seedyBusiness.ranked": "x {{value}} Sera tohumlarının maliyeti",
+  "skill.riceAndShine.ranked": "x {{value}} sera ürünleri için büyüme süresi",
+  "skill.victoriasSecretary.ranked": "+ {{value}} %Victoria'nın teslimatlarından madeni paralar",
+  "skill.oliveExpress.ranked": "x {{value}} Zeytin büyüme süresi",
+  "skill.riceRocket.ranked": "x {{value}} Pirinç büyüme süresi",
+  "skill.vineVelocity.ranked": "x {{value}} Üzüm büyüme süresi",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Sera üretimi verimi",
+  "skill.greenhouseGuru.ranked": "Tüm sera ürünlerini anında hasat edin. {{value}} bekleme süresi",
+  "skill.greenhouseGamble.ranked": "{{value}} %+1 sera ürünü şansı",
+  "skill.slickSaver.ranked": "- {{value}} Sera ürünleri yetiştirmek için yağ",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Sera üretimi verimi",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}} %Serada yağ tüketimi"
 }

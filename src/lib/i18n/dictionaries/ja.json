@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "アセンション・レイアウトに「{{name}}」を設定しますか？最初の30土地のアイテムのみが保存され、アセンションするたびに再適用されます。",
   "savedLayouts.confirmAscensionReplaceFromLayout": "アセンション・レイアウトを「{{name}}」に置き換えませんか?最初の 30 土地のアイテムのみが保存され、アセンションするたびに再適用されます。",
   "savedLayouts.toastAscensionSaved": "アセンションレイアウトセット",
-  "savedLayouts.ascensionProtected": "これがアセンションレイアウトです。アセンションするたびに再適用されます。名前の変更、上書き、削除はできません。"
+  "savedLayouts.ascensionProtected": "これがアセンションレイアウトです。アセンションするたびに再適用されます。名前の変更、上書き、削除はできません。",
+  "skill.glassRoom.ranked": "+ {{value}} 温室農産物の収量",
+  "skill.seedyBusiness.ranked": "x {{value}} 温室種子のコスト",
+  "skill.riceAndShine.ranked": "x {{value}} 温室農産物の成長時間",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% ビクトリアの配達によるコイン",
+  "skill.oliveExpress.ranked": "x {{value}} オリーブの成長時間",
+  "skill.riceRocket.ranked": "x {{value}} イネの成長時間",
+  "skill.vineVelocity.ranked": "x {{value}} ブドウの成長時間",
+  "skill.seededBounty.buff.ranked": "+ {{value}} 温室農産物の収量",
+  "skill.greenhouseGuru.ranked": "温室農産物をすべて即座に収穫する。{{value}} クールダウン",
+  "skill.greenhouseGamble.ranked": "温室農産物が+1個になる確率 {{value}}%",
+  "skill.slickSaver.ranked": "-{{value}} 温室農産物を栽培するための油",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} 温室農産物の収量",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室内の石油消費量"
 }

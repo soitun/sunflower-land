@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Setel “{{name}}” sebagai Tata Letak Kenaikan Anda? Hanya item di 30 tanah pertamanya yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Ganti Tata Letak Ascension Anda dengan “{{name}}”? Hanya item di 30 tanah pertamanya yang disimpan, dan itu diterapkan kembali setiap kali Anda naik.",
   "savedLayouts.toastAscensionSaved": "Set Tata Letak Ascension",
-  "savedLayouts.ascensionProtected": "Ini adalah Tata Letak Kenaikan Anda — diterapkan kembali setiap kali Anda naik. Itu tidak dapat diganti namanya, diganti, atau dihapus."
+  "savedLayouts.ascensionProtected": "Ini adalah Tata Letak Kenaikan Anda — diterapkan kembali setiap kali Anda naik. Itu tidak dapat diganti namanya, diganti, atau dihapus.",
+  "skill.glassRoom.ranked": "+ {{value}} Hasil produksi rumah kaca",
+  "skill.seedyBusiness.ranked": "x {{value}} Biaya benih rumah kaca",
+  "skill.riceAndShine.ranked": "x {{value}} waktu pertumbuhan untuk produk rumah kaca",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% Koin dari pengiriman Victoria",
+  "skill.oliveExpress.ranked": "x {{value}} Waktu pertumbuhan zaitun",
+  "skill.riceRocket.ranked": "x {{value}} Waktu pertumbuhan beras",
+  "skill.vineVelocity.ranked": "x {{value}} Waktu pertumbuhan anggur",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Hasil produksi rumah kaca",
+  "skill.greenhouseGuru.ranked": "Panen semua produk rumah kaca secara instan. {{value}} cooldown",
+  "skill.greenhouseGamble.ranked": "{{value}}% peluang +1 hasil rumah kaca",
+  "skill.slickSaver.ranked": "- {{value}} Minyak untuk menumbuhkan produk rumah kaca",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Hasil produksi rumah kaca",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Konsumsi minyak di rumah kaca"
 }

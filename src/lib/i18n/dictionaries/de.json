@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Stellen Sie „{{name}}“ als Ihr Himmelfahrts-Layout ein? Es werden nur Gegenstände aus den ersten 30 Ländern gespeichert, und jedes Mal, wenn du aufsteigst, wird es erneut angewendet.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Ersetze dein Ascension Layout durch „{{name}}“? Es werden nur Gegenstände aus den ersten 30 Ländern gespeichert, und jedes Mal, wenn du aufsteigst, wird es erneut angewendet.",
   "savedLayouts.toastAscensionSaved": "Ascension Layout-Set",
-  "savedLayouts.ascensionProtected": "Das ist euer Aufstiegs-Layout — jedes Mal neu angewendet, wenn ihr aufsteigt. Es kann nicht umbenannt, überschrieben oder gelöscht werden."
+  "savedLayouts.ascensionProtected": "Das ist euer Aufstiegs-Layout — jedes Mal neu angewendet, wenn ihr aufsteigt. Es kann nicht umbenannt, überschrieben oder gelöscht werden.",
+  "skill.glassRoom.ranked": "+ {{value}} Ertrag von Gewächshausprodukten",
+  "skill.seedyBusiness.ranked": "x {{value}} Kosten für Gewächshaussamen",
+  "skill.riceAndShine.ranked": "x {{value}} Wachstumszeit für Gewächshausprodukte",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% Münzen aus Victorias Lieferungen",
+  "skill.oliveExpress.ranked": "x {{value}} Wachstumszeit der Oliven",
+  "skill.riceRocket.ranked": "x {{value}} Wachstumszeit von Reis",
+  "skill.vineVelocity.ranked": "x {{value}} Wachstumszeit der Trauben",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Ertrag von Gewächshausprodukten",
+  "skill.greenhouseGuru.ranked": "Ernten Sie sofort alle Gewächshausprodukte. {{value}} Abklingzeit",
+  "skill.greenhouseGamble.ranked": "{{value}}% Chance auf +1 Gewächshauserzeugnis",
+  "skill.slickSaver.ranked": "- {{value}} Öl für den Anbau von Gewächshausprodukten",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Ertrag von Gewächshausprodukten",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Ölverbrauch im Gewächshaus"
 }

@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Imposta «{{name}}» come layout dell'Ascensione? Vengono immagazzinati solo gli oggetti presenti nelle sue prime 30 terre e viene riapplicato ogni volta che ascendi.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Sostituisci il layout dell'Ascensione con «{{name}}»? Vengono immagazzinati solo gli oggetti presenti nelle sue prime 30 terre e viene riapplicato ogni volta che ascendi.",
   "savedLayouts.toastAscensionSaved": "Set di layout dell'Ascensione",
-  "savedLayouts.ascensionProtected": "Questo è il vostro Layout dell'Ascensione, riapplicato ogni volta che ascendete. Non può essere rinominato, sovrascritto o eliminato."
+  "savedLayouts.ascensionProtected": "Questo è il vostro Layout dell'Ascensione, riapplicato ogni volta che ascendete. Non può essere rinominato, sovrascritto o eliminato.",
+  "skill.glassRoom.ranked": "+ {{value}} Rendimento dei prodotti in serra",
+  "skill.seedyBusiness.ranked": "x {{value}} Costo dei semi in serra",
+  "skill.riceAndShine.ranked": "x {{value}} tempo di crescita per i prodotti in serra",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% di monete provenienti dalle consegne di Victoria",
+  "skill.oliveExpress.ranked": "x {{value}} Tempo di crescita delle olive",
+  "skill.riceRocket.ranked": "x {{value}} Tempo di crescita del riso",
+  "skill.vineVelocity.ranked": "x {{value}} Tempo di crescita dell'uva",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Rendimento dei prodotti in serra",
+  "skill.greenhouseGuru.ranked": "Raccogli istantaneamente tutti i prodotti della serra. {{value}} tempo di recupero",
+  "skill.greenhouseGamble.ranked": "{{value}}% di possibilità di +1 prodotto in serra",
+  "skill.slickSaver.ranked": "- {{value}} Petrolio per la coltivazione di prodotti in serra",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimento dei prodotti in serra",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% consumo di petrolio in serra"
 }

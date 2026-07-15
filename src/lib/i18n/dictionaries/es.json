@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "¿Establecer «{{name}}» como tu diseño de ascensión? Solo se almacenan los objetos de sus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "¿Sustituye tu diseño de ascensión por «{{name}}»? Solo se almacenan los objetos de sus primeras 30 tierras, y se vuelven a usar cada vez que asciendes.",
   "savedLayouts.toastAscensionSaved": "Conjunto de diseños de ascensión",
-  "savedLayouts.ascensionProtected": "Este es tu diseño de ascensión, que se vuelve a aplicar cada vez que asciendes. No se puede renombrar, sobrescribir ni eliminar."
+  "savedLayouts.ascensionProtected": "Este es tu diseño de ascensión, que se vuelve a aplicar cada vez que asciendes. No se puede renombrar, sobrescribir ni eliminar.",
+  "skill.glassRoom.ranked": "+ {{value}} Rendimiento de productos de invernadero",
+  "skill.seedyBusiness.ranked": "x {{value}} Costo de semillas de invernadero",
+  "skill.riceAndShine.ranked": "x {{value}} tiempo de crecimiento de los productos de invernadero",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% Monedas de las entregas de Victoria",
+  "skill.oliveExpress.ranked": "x {{value}} Tiempo de crecimiento de la aceituna",
+  "skill.riceRocket.ranked": "x {{value}} Tiempo de crecimiento del arroz",
+  "skill.vineVelocity.ranked": "x {{value}} Tiempo de crecimiento de la uva",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Rendimiento de productos de invernadero",
+  "skill.greenhouseGuru.ranked": "Coseche al instante todos los productos del invernadero. {{value}} tiempo de reutilización",
+  "skill.greenhouseGamble.ranked": "{{value}}% de probabilidad de obtener +1 producto de invernadero",
+  "skill.slickSaver.ranked": "- {{value}} Petróleo para cultivar productos de invernadero",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimiento de productos de invernadero",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% de consumo de aceite en invernadero"
 }

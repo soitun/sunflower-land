@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Defina “{{name}}” como seu layout de ascensão? Somente itens nos primeiros 30 terrenos são armazenados e são reaplicados toda vez que você sobe.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Substituir seu layout de ascensão por “{{name}}”? Somente itens nos primeiros 30 terrenos são armazenados e são reaplicados toda vez que você sobe.",
   "savedLayouts.toastAscensionSaved": "Conjunto de layout de ascensão",
-  "savedLayouts.ascensionProtected": "Este é o seu Layout de Ascensão — reaplicado toda vez que você sobe. Ele não pode ser renomeado, sobrescrito ou excluído."
+  "savedLayouts.ascensionProtected": "Este é o seu Layout de Ascensão — reaplicado toda vez que você sobe. Ele não pode ser renomeado, sobrescrito ou excluído.",
+  "skill.glassRoom.ranked": "+ {{value}} Rendimento de produção em estufa",
+  "skill.seedyBusiness.ranked": "x {{value}} Custo de sementes de estufa",
+  "skill.riceAndShine.ranked": "x {{value}} tempo de crescimento para produtos em estufa",
+  "skill.victoriasSecretary.ranked": "+ {{value}}% Moedas das entregas de Victoria",
+  "skill.oliveExpress.ranked": "x {{value}} Tempo de crescimento da azeitona",
+  "skill.riceRocket.ranked": "x {{value}} Tempo de crescimento do arroz",
+  "skill.vineVelocity.ranked": "x {{value}} Tempo de crescimento da uva",
+  "skill.seededBounty.buff.ranked": "+ {{value}} Rendimento de produção em estufa",
+  "skill.greenhouseGuru.ranked": "Colha instantaneamente todos os produtos da estufa. {{value}} cooldown",
+  "skill.greenhouseGamble.ranked": "{{value}}% de chance de +1 produto de estufa",
+  "skill.slickSaver.ranked": "- {{value}} Óleo para cultivar produtos de estufa",
+  "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimento de produção em estufa",
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Consumo de óleo em estufa"
 }

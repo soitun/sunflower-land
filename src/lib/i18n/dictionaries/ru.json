@@ -9338,5 +9338,18 @@
   "savedLayouts.confirmAscensionFromLayout": "Set \"{{name}}\" as your Ascension Layout? Only items on its first 30 lands are stored, and it's re-applied each time you ascend.",
   "savedLayouts.confirmAscensionReplaceFromLayout": "Replace your Ascension Layout with \"{{name}}\"? Only items on its first 30 lands are stored, and it's re-applied each time you ascend.",
   "savedLayouts.toastAscensionSaved": "Ascension Layout set",
-  "savedLayouts.ascensionProtected": "This is your Ascension Layout — re-applied each time you ascend. It can't be renamed, overwritten, or deleted."
+  "savedLayouts.ascensionProtected": "This is your Ascension Layout — re-applied each time you ascend. It can't be renamed, overwritten, or deleted.",
+  "skill.glassRoom.ranked": "+{{value}} Greenhouse produce yield",
+  "skill.seedyBusiness.ranked": "x{{value}} Greenhouse seeds cost",
+  "skill.riceAndShine.ranked": "x{{value}} growth time for greenhouse produce",
+  "skill.victoriasSecretary.ranked": "+{{value}}% Coins from Victoria's deliveries",
+  "skill.oliveExpress.ranked": "x{{value}} Olive growth time",
+  "skill.riceRocket.ranked": "x{{value}} Rice growth time",
+  "skill.vineVelocity.ranked": "x{{value}} Grape growth time",
+  "skill.seededBounty.buff.ranked": "+{{value}} Greenhouse produce yield",
+  "skill.greenhouseGuru.ranked": "Instantly harvest all greenhouse produce. {{value}} cooldown",
+  "skill.greenhouseGamble.ranked": "{{value}}% chance of +1 greenhouse produce",
+  "skill.slickSaver.ranked": "-{{value}} Oil to grow greenhouse produce",
+  "skill.greasyPlants.buff.ranked": "+{{value}} Greenhouse produce yield",
+  "skill.greasyPlants.debuff.ranked": "+{{value}}% Oil consumption in greenhouse"
 }

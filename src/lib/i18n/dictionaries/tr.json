@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}} %+1 sera ürünü şansı",
   "skill.slickSaver.ranked": "- {{value}} Sera ürünleri yetiştirmek için yağ",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Sera üretimi verimi",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}} %Serada yağ tüketimi"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}} %Serada yağ tüketimi",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Mahsul Makinesi büyüme süresi",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}} Mahsul Makinesinde %Yağ tüketimi",
+  "skill.oilGadget.ranked": "x {{value}} Mahsul Makinesinde Yağ Tüketimi",
+  "skill.oilExtraction.ranked": "+ {{value}} Rezervlerden toplanırken petrol",
+  "skill.leakProofTank.ranked": "{{value}} x mahsul makinesinde yağ tankı kapasitesi",
+  "skill.rapidRig.buff.ranked": "x {{value}} Mahsul Makinesi büyüme süresi",
+  "skill.rapidRig.debuff.ranked": "+ {{value}} Mahsul Makinesinde %Yağ tüketimi",
+  "skill.oilBeBack.ranked": "x {{value}} Yağ dolum süresi",
+  "skill.oilRig.buff.ranked": "Petrol Matkabı, üretmek için Deri yerine {{value}} Yün gerektirir",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} paketleri makine kuyruğu sistemine eklendi",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} grafikler makineye eklendi",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Mahsul Makinesinde Yağ Tüketimi",
+  "skill.greaseLightning.ranked": "Boş petrol kuyularının anında doldurulmasını sağlayın. {{value}} bekleme süresi"
 }

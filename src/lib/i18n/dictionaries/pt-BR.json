@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% de chance de +1 produto de estufa",
   "skill.slickSaver.ranked": "- {{value}} Óleo para cultivar produtos de estufa",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimento de produção em estufa",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Consumo de óleo em estufa"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Consumo de óleo em estufa",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Tempo de crescimento da Crop Machine",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% de consumo de óleo na máquina de colheita",
+  "skill.oilGadget.ranked": "x {{value}} Consumo de óleo na máquina de colheita",
+  "skill.oilExtraction.ranked": "+ {{value}} Óleo ao coletar das reservas",
+  "skill.leakProofTank.ranked": "{{value}} x capacidade do tanque de óleo na máquina de colheita",
+  "skill.rapidRig.buff.ranked": "x {{value}} Tempo de crescimento da Crop Machine",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% de consumo de óleo na máquina de colheita",
+  "skill.oilBeBack.ranked": "x {{value}} Tempo de reabastecimento de óleo",
+  "skill.oilRig.buff.ranked": "A perfuratriz de óleo requer {{value}} lã em vez de couro para ser fabricada",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} pacotes adicionados ao sistema de fila de máquinas",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} parcelas adicionadas à máquina",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Consumo de óleo na máquina de colheita",
+  "skill.greaseLightning.ranked": "Faça com que poços de petróleo vazios sejam reabastecidos instantaneamente. {{value}} cooldown"
 }

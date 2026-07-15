@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% di possibilità di +1 prodotto in serra",
   "skill.slickSaver.ranked": "- {{value}} Petrolio per la coltivazione di prodotti in serra",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimento dei prodotti in serra",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% consumo di petrolio in serra"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% consumo di petrolio in serra",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Tempo di crescita della Crop Machine",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% consumo di olio nella macchina per la coltivazione",
+  "skill.oilGadget.ranked": "x {{value}} Consumo di olio nella macchina per la coltivazione",
+  "skill.oilExtraction.ranked": "+ {{value}} Petrolio al momento della raccolta dalle riserve",
+  "skill.leakProofTank.ranked": "{{value}} x capacità del serbatoio dell'olio nella macchina per il raccolto",
+  "skill.rapidRig.buff.ranked": "x {{value}} Tempo di crescita della Crop Machine",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% consumo di olio nella macchina per la coltivazione",
+  "skill.oilBeBack.ranked": "x {{value}} Tempo di ricarica dell'olio",
+  "skill.oilRig.buff.ranked": "La trivella petrolifera richiede {{value}} lana anziché pelle per la lavorazione",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} pacchetti aggiunti al sistema di code automatiche",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} grafici aggiunti alla macchina",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Consumo di olio nella macchina per la coltivazione",
+  "skill.greaseLightning.ranked": "Riempi istantaneamente i pozzi petroliferi vuoti. {{value}} tempo di recupero"
 }

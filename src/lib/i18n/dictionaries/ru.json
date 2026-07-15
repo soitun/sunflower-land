@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% chance of +1 greenhouse produce",
   "skill.slickSaver.ranked": "-{{value}} Oil to grow greenhouse produce",
   "skill.greasyPlants.buff.ranked": "+{{value}} Greenhouse produce yield",
-  "skill.greasyPlants.debuff.ranked": "+{{value}}% Oil consumption in greenhouse"
+  "skill.greasyPlants.debuff.ranked": "+{{value}}% Oil consumption in greenhouse",
+  "skill.cropProcessorUnit.buff.ranked": "x{{value}} Crop Machine growth time",
+  "skill.cropProcessorUnit.debuff.ranked": "+{{value}}% Oil consumption in Crop Machine",
+  "skill.oilGadget.ranked": "x{{value}} Oil consumption in Crop Machine",
+  "skill.oilExtraction.ranked": "+{{value}} Oil when collecting from reserves",
+  "skill.leakProofTank.ranked": "{{value}}x oil tank capacity in crop machine",
+  "skill.rapidRig.buff.ranked": "x{{value}} Crop Machine growth time",
+  "skill.rapidRig.debuff.ranked": "+{{value}}% Oil consumption in Crop Machine",
+  "skill.oilBeBack.ranked": "x{{value}} Oil refill time",
+  "skill.oilRig.buff.ranked": "Oil Drill requires {{value}} Wool instead of Leather to craft",
+  "skill.fieldExpansionModule.ranked": "+{{value}} packs added to machine queue system",
+  "skill.fieldExtensionModule.ranked": "+{{value}} plots added to machine",
+  "skill.efficiencyExtensionModule.ranked": "x{{value}} Oil consumption in Crop Machine",
+  "skill.greaseLightning.ranked": "Make empty oil wells instantly refill. {{value}} cooldown"
 }

@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}} 温室产量 +1 的几率百分比",
   "skill.slickSaver.ranked": "-{{value}} 石油用于种植温室农产品",
   "skill.greasyPlants.buff.ranked": "+ {{value}} 温室农产品产量",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室的石油消耗量"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室的石油消耗量",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} 作物机生长时间",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% 作物机油消耗量",
+  "skill.oilGadget.ranked": "x {{value}} 作物机油消耗",
+  "skill.oilExtraction.ranked": "+ {{value}} 从储备中收集石油时",
+  "skill.leakProofTank.ranked": "{{value}} x 作物机油箱容量",
+  "skill.rapidRig.buff.ranked": "x {{value}} 作物机生长时间",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% 作物机油消耗量",
+  "skill.oilBeBack.ranked": "x {{value}} 机油补给时间",
+  "skill.oilRig.buff.ranked": "石油钻探需要 {{value}} 羊毛而不是皮革来制作",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} 包已添加到计算机队列系统",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} 绘图已添加到机器中",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} 作物机油消耗",
+  "skill.greaseLightning.ranked": "让空油井立即充满。{{value}} 冷却时间"
 }

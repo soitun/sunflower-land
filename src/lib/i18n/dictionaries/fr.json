@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}} % de chance d'obtenir +1 produit de serre",
   "skill.slickSaver.ranked": "- {{value}} Du pétrole pour produire des produits de serre",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Rendement des produits de serre",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}} % Consommation de pétrole en serre"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}} % Consommation de pétrole en serre",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Temps de croissance de Crop Machine",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}} % de consommation d'huile dans Crop Machine",
+  "skill.oilGadget.ranked": "x {{value}} Consommation d'huile dans Crop Machine",
+  "skill.oilExtraction.ranked": "+ {{value}} Pétrole collecté dans les réserves",
+  "skill.leakProofTank.ranked": "{{value}} x capacité du réservoir d'huile dans la machine de culture",
+  "skill.rapidRig.buff.ranked": "x {{value}} Temps de croissance de Crop Machine",
+  "skill.rapidRig.debuff.ranked": "+ {{value}} % de consommation d'huile dans Crop Machine",
+  "skill.oilBeBack.ranked": "x {{value}} Temps de remplissage d'huile",
+  "skill.oilRig.buff.ranked": "La perceuse à huile nécessite {{value}} de laine au lieu de cuir pour être fabriquée",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} packs ajoutés au système de file d'attente des machines",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} tracés ajoutés à la machine",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Consommation d'huile dans Crop Machine",
+  "skill.greaseLightning.ranked": "Faites remplir instantanément les puits de pétrole vides. {{value}} temps de recharge"
 }

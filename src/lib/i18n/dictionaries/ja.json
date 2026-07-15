@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "温室農産物が+1個になる確率 {{value}}%",
   "skill.slickSaver.ranked": "-{{value}} 温室農産物を栽培するための油",
   "skill.greasyPlants.buff.ranked": "+ {{value}} 温室農産物の収量",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室内の石油消費量"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% 温室内の石油消費量",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} クロップマシンの成長時間",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% クロップマシンの石油消費量",
+  "skill.oilGadget.ranked": "x {{value}} クロップマシンのオイル消費量",
+  "skill.oilExtraction.ranked": "+ {{value}} 埋蔵量から石油を回収する場合",
+  "skill.leakProofTank.ranked": "{{value}} x クロップマシンのオイルタンク容量",
+  "skill.rapidRig.buff.ranked": "x {{value}} クロップマシンの成長時間",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% クロップマシンの石油消費量",
+  "skill.oilBeBack.ranked": "x {{value}} オイル補充時間",
+  "skill.oilRig.buff.ranked": "オイルドリルのクラフトにはレザーの代わりに {{value}} ウールが必要です",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} パックがマシンキューシステムに追加されました",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} プロットをマシンに追加しました",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} クロップマシンのオイル消費量",
+  "skill.greaseLightning.ranked": "空になった油井を即座に補充する。{{value}} クールダウン"
 }

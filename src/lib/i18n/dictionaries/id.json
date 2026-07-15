@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% peluang +1 hasil rumah kaca",
   "skill.slickSaver.ranked": "- {{value}} Minyak untuk menumbuhkan produk rumah kaca",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Hasil produksi rumah kaca",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Konsumsi minyak di rumah kaca"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Konsumsi minyak di rumah kaca",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Waktu pertumbuhan Mesin Tanaman",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% Konsumsi minyak di Mesin Tanaman",
+  "skill.oilGadget.ranked": "x {{value}} Konsumsi minyak di Mesin Tanaman",
+  "skill.oilExtraction.ranked": "+ {{value}} Minyak saat mengumpulkan dari cadangan",
+  "skill.leakProofTank.ranked": "{{value}} x kapasitas tangki minyak dalam mesin tanaman",
+  "skill.rapidRig.buff.ranked": "x {{value}} Waktu pertumbuhan Mesin Tanaman",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% Konsumsi minyak di Mesin Tanaman",
+  "skill.oilBeBack.ranked": "x {{value}} Waktu pengisian minyak",
+  "skill.oilRig.buff.ranked": "Bor Minyak membutuhkan {{value}} Wol alih-alih Kulit untuk membuat",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} paket ditambahkan ke sistem antrian mesin",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} plot ditambahkan ke mesin",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Konsumsi minyak di Mesin Tanaman",
+  "skill.greaseLightning.ranked": "Isi ulang sumur minyak kosong secara instan. {{value}} cooldown"
 }

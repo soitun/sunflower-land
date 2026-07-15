@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% de probabilidad de obtener +1 producto de invernadero",
   "skill.slickSaver.ranked": "- {{value}} Petróleo para cultivar productos de invernadero",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Rendimiento de productos de invernadero",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% de consumo de aceite en invernadero"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% de consumo de aceite en invernadero",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Tiempo de crecimiento de Crop Machine",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% de consumo de aceite en Crop Machine",
+  "skill.oilGadget.ranked": "x {{value}} Consumo de aceite en Crop Machine",
+  "skill.oilExtraction.ranked": "+ {{value}} Petróleo cuando se recolecta de las reservas",
+  "skill.leakProofTank.ranked": "{{value}} x capacidad del tanque de aceite en la máquina de cultivo",
+  "skill.rapidRig.buff.ranked": "x {{value}} Tiempo de crecimiento de Crop Machine",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% de consumo de aceite en Crop Machine",
+  "skill.oilBeBack.ranked": "x {{value}} Tiempo de recarga de aceite",
+  "skill.oilRig.buff.ranked": "El taladro petrolífero requiere {{value}} lana en lugar de cuero para fabricar",
+  "skill.fieldExpansionModule.ranked": "+ paquetes de {{value}} añadidos al sistema de colas de máquinas",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} gráficos añadidos a la máquina",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Consumo de aceite en Crop Machine",
+  "skill.greaseLightning.ranked": "Haga que los pozos de petróleo vacíos se rellenen al instante. {{value}} tiempo de reutilización"
 }

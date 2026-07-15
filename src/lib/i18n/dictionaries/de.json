@@ -9351,5 +9351,18 @@
   "skill.greenhouseGamble.ranked": "{{value}}% Chance auf +1 Gewächshauserzeugnis",
   "skill.slickSaver.ranked": "- {{value}} Öl für den Anbau von Gewächshausprodukten",
   "skill.greasyPlants.buff.ranked": "+ {{value}} Ertrag von Gewächshausprodukten",
-  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Ölverbrauch im Gewächshaus"
+  "skill.greasyPlants.debuff.ranked": "+ {{value}}% Ölverbrauch im Gewächshaus",
+  "skill.cropProcessorUnit.buff.ranked": "x {{value}} Wachstumszeit der Erntemaschine",
+  "skill.cropProcessorUnit.debuff.ranked": "+ {{value}}% Ölverbrauch in Erntemaschinen",
+  "skill.oilGadget.ranked": "x {{value}} Ölverbrauch in Erntemaschinen",
+  "skill.oilExtraction.ranked": "+ {{value}} Öl beim Sammeln aus Reserven",
+  "skill.leakProofTank.ranked": "{{value}} x Öltankkapazität in der Erntemaschine",
+  "skill.rapidRig.buff.ranked": "x {{value}} Wachstumszeit der Erntemaschine",
+  "skill.rapidRig.debuff.ranked": "+ {{value}}% Ölverbrauch in Erntemaschinen",
+  "skill.oilBeBack.ranked": "x {{value}} Ölnachfüllzeit",
+  "skill.oilRig.buff.ranked": "Für die Herstellung einer Ölbohrmaschine wird {{value}} Wolle statt Leder benötigt",
+  "skill.fieldExpansionModule.ranked": "+ {{value}} -Pakete zum Maschinen-Warteschlangensystem hinzugefügt",
+  "skill.fieldExtensionModule.ranked": "+ {{value}} Plots zur Maschine hinzugefügt",
+  "skill.efficiencyExtensionModule.ranked": "x {{value}} Ölverbrauch in Erntemaschinen",
+  "skill.greaseLightning.ranked": "Sorgen Sie dafür, dass leere Ölquellen sofort wieder aufgefüllt werden. {{value}} Abklingzeit"
 }

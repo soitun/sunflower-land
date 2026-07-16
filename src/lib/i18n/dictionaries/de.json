@@ -5285,7 +5285,6 @@
   "marketplace.quickswap.description": "Du wirst bald zu Quickswap weitergeleitet, einer dezentralen und von der Community betriebenen Börse, um $FLOWER zu kaufen.",
   "marketplace.estimated.price": "*Geschätzter USD/FLOWER-Preis",
   "reputation.seedling.deliveries": "1 BLUMEN-Lieferung pro Tag",
-  "reputation.grower.description": "FLOWER zurückziehen",
   "reputation.grower.sfl": "2 BLUMENLIEFERUNGEN PRO TAG",
   "reputation.cropkeeper.description": "Schalte alle FLOWER-Lieferungen frei",
   "reputation.cropkeeper.deliveries": "Schalte alle BLUMENLIEFERUNGEN FREI",
@@ -9377,5 +9376,6 @@
   "skill.flowerPower.ranked": "x {{value}} Wachstumszeit der Blüte",
   "skill.floweryAbode.buff.ranked": "+ {{value}} Geschwindigkeit der Honigproduktion",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Wachstumszeit der Blüte",
-  "skill.petalBlessed.ranked": "Ernten Sie sofort alle Blumen. {{value}} Abklingzeit"
+  "skill.petalBlessed.ranked": "Ernten Sie sofort alle Blumen. {{value}} Abklingzeit",
+  "reputation.cropkeeper.withdraw": "FLOWER zurückziehen"
 }

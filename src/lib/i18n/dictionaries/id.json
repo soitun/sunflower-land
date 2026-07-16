@@ -5285,7 +5285,6 @@
   "marketplace.quickswap.description": "Anda akan diarahkan ke Quickswap, pertukaran yang terdesentralisasi dan digerakkan oleh komunitas untuk membeli $FLOWER.",
   "marketplace.estimated.price": "*Estimasi harga USD/FLOWER",
   "reputation.seedling.deliveries": "1 Pengiriman BUNGA Per Hari",
-  "reputation.grower.description": "Tarik BUNGA",
   "reputation.grower.sfl": "2 Pengiriman BUNGA Per Hari",
   "reputation.cropkeeper.description": "Buka semua Pengiriman BUNGA",
   "reputation.cropkeeper.deliveries": "Buka Semua Pengiriman BUNGA",
@@ -9377,5 +9376,6 @@
   "skill.flowerPower.ranked": "x {{value}} Waktu pertumbuhan bunga",
   "skill.floweryAbode.buff.ranked": "+ {{value}} Kecepatan produksi madu",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Waktu pertumbuhan bunga",
-  "skill.petalBlessed.ranked": "Panen semua bunga secara instan. {{value}} cooldown"
+  "skill.petalBlessed.ranked": "Panen semua bunga secara instan. {{value}} cooldown",
+  "reputation.cropkeeper.withdraw": "Tarik BUNGA"
 }

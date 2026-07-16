@@ -5389,7 +5389,6 @@
   "reputation.sprout": "Росток",
   "reputation.seedling": "Саженец",
   "reputation.grower": "Садовод",
-  "reputation.grower.description": "Вывод Flower",
   "reputation.grower.sfl": "2 доставки цветов в день",
   "reputation.grower.trades": "3 объявления на торговых площадках в день",
   "reputation.cropkeeper": "Хранитель урожая",
@@ -9377,5 +9376,6 @@
   "skill.flowerPower.ranked": "x{{value}} Flower growth time",
   "skill.floweryAbode.buff.ranked": "+{{value}} Honey production speed",
   "skill.floweryAbode.debuff.ranked": "+{{value}}% Flower growth time",
-  "skill.petalBlessed.ranked": "Instantly harvest all flowers. {{value}} cooldown"
+  "skill.petalBlessed.ranked": "Instantly harvest all flowers. {{value}} cooldown",
+  "reputation.cropkeeper.withdraw": "Withdraw FLOWER"
 }

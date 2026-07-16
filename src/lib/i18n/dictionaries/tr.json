@@ -5285,7 +5285,6 @@
   "marketplace.quickswap.description": "$FLOWER satın almak için merkezi olmayan ve topluluk odaklı bir borsa olan Quickswap'a yönlendirilmek üzeresiniz.",
   "marketplace.estimated.price": "*Tahmini USD/ÇIÇEK fiyatı",
   "reputation.seedling.deliveries": "Günde 1 ÇIÇEK Teslimatı",
-  "reputation.grower.description": "ÇIÇEĞİ çekin",
   "reputation.grower.sfl": "Günde 2 ÇIÇEK Teslimatı",
   "reputation.cropkeeper.description": "Tüm ÇIÇEK Teslimatlarının kilidini açın",
   "reputation.cropkeeper.deliveries": "Tüm ÇIÇEK Teslimatlarını Açın",
@@ -9377,5 +9376,6 @@
   "skill.flowerPower.ranked": "x {{value}} Çiçek büyüme zamanı",
   "skill.floweryAbode.buff.ranked": "+ {{value}} Bal üretim hızı",
   "skill.floweryAbode.debuff.ranked": "+ {{value}} %Çiçek büyüme süresi",
-  "skill.petalBlessed.ranked": "Tüm çiçekleri anında hasat edin. {{value}} bekleme süresi"
+  "skill.petalBlessed.ranked": "Tüm çiçekleri anında hasat edin. {{value}} bekleme süresi",
+  "reputation.cropkeeper.withdraw": "ÇIÇEĞİ çekin"
 }

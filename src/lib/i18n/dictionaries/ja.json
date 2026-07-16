@@ -5285,7 +5285,6 @@
   "marketplace.quickswap.description": "$FLOWERを購入するための分散型のコミュニティ主導の取引所であるQuickswapにリダイレクトされようとしています。",
   "marketplace.estimated.price": "*米ドル/花のおおよその価格",
   "reputation.seedling.deliveries": "1日1本の花の配達",
-  "reputation.grower.description": "花を撤回",
   "reputation.grower.sfl": "1日2本の花の配達",
   "reputation.cropkeeper.description": "フラワーデリバリーをすべてアンロックする",
   "reputation.cropkeeper.deliveries": "すべてのフラワーデリバリーをアンロック",
@@ -9377,5 +9376,6 @@
   "skill.flowerPower.ranked": "x {{value}} 花の成長時間",
   "skill.floweryAbode.buff.ranked": "+ {{value}} ハチミツ生産速度",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% 花の成長時間",
-  "skill.petalBlessed.ranked": "すべての花を即座に収穫する。{{value}} クールダウン"
+  "skill.petalBlessed.ranked": "すべての花を即座に収穫する。{{value}} クールダウン",
+  "reputation.cropkeeper.withdraw": "花を撤回"
 }

@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Ocultar endereço",
   "compost.turbofruitMixBoosted": "O Turbofruit Mix aumenta o rendimento do canteiro de frutas em +0,2 e reduz o tempo de crescimento do canteiro de frutas em 20%.",
   "description.knowledge.crab.yield.boost": "+0,2 Rendimento da parcela de safra do caranguejo do conhecimento",
-  "description.fruitful.bounty.skill.boost": "+0.1 Rendimento da horta de frutas com a habilidade Fruitful Bounty",
   "gameOptions.about.streams": "Transmissões semanais",
   "gameOptions.account.referFriend": "Indique um amigo",
   "linkedAccounts.partialPill": "Configuração pendente",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Velocidade de produção de mel",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Tempo de crescimento da flor",
   "skill.petalBlessed.ranked": "Colha instantaneamente todas as flores. {{value}} tempo de recarga",
-  "reputation.cropkeeper.withdraw": "Retirar FLOWER"
+  "reputation.cropkeeper.withdraw": "Retirar FLOWER",
+  "skill.efficientBin.ranked": "+ {{value}} Mistura de brotos",
+  "skill.turboCharged.ranked": "+ {{value}} Mistura frutífera",
+  "skill.wormyTreat.ranked": "+ {{value}} Minhocas",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x penas para impulsionar os compostores",
+  "skill.premiumWorms.ranked": "+ {{value}} Raiz rápida",
+  "skill.fruitfulBounty.ranked": "{{value}} x Efeito da Mistura Frutífera",
+  "skill.swiftDecomposer.ranked": "x {{value}} tempo de compostagem",
+  "skill.compostingBonanza.buff.ranked": "Acelere os compostores em mais {{value}} ao impulsionar",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Minhocas",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} fertilizantes",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Minhocas",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento de canteiros de frutas com a habilidade Fruitful Bounty"
 }

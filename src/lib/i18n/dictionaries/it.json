@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Nascondi indirizzo",
   "compost.turbofruitMixBoosted": "Turbofruit Mix aumenta la resa dell'orto di +0,2 e riduce il tempo di crescita dell'orto del 20%.",
   "description.knowledge.crab.yield.boost": "+0,2 Rendimento del terreno raccolto da Knowledge Crab",
-  "description.fruitful.bounty.skill.boost": "+0.1 Rendimento in Fruit Patch grazie all'abilità Fruitful Bounty",
   "gameOptions.about.streams": "Stream settimanali",
   "gameOptions.account.referFriend": "Invita un amico",
   "linkedAccounts.partialPill": "Configurazione in sospeso",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Velocità di produzione del miele",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Tempo di crescita dei fiori",
   "skill.petalBlessed.ranked": "Raccogli istantaneamente tutti i fiori. {{value}} tempo di recupero",
-  "reputation.cropkeeper.withdraw": "Ritira FLOWER"
+  "reputation.cropkeeper.withdraw": "Ritira FLOWER",
+  "skill.efficientBin.ranked": "+ {{value}} Miscela di germogli",
+  "skill.turboCharged.ranked": "+ {{value}} Miscela fruttuosa",
+  "skill.wormyTreat.ranked": "+ {{value}} Vermi",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x piume per potenziare le compostiere",
+  "skill.premiumWorms.ranked": "+ {{value}} Radice rapida",
+  "skill.fruitfulBounty.ranked": "{{value}} x Effetto della miscela fruttuosa",
+  "skill.swiftDecomposer.ranked": "x {{value}} tempo di compostaggio",
+  "skill.compostingBonanza.buff.ranked": "Velocizza le compostiere di un ulteriore {{value}} durante il potenziamento",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Vermi",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} fertilizzanti",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Vermi",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento degli appezzamenti di frutta grazie all'abilità Fruitful Bounty"
 }

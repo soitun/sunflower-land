@@ -8780,7 +8780,6 @@
   "linkedAccounts.hideWallet": "Скрыть адрес",
   "compost.turbofruitMixBoosted": "Турбофруктовая смесь увеличивает урожайность фруктовых грядок на +0.2 и уменьшает время их роста на 20%.",
   "description.knowledge.crab.yield.boost": "+0.2 к урожаю с грядок от Knowledge Crab",
-  "description.fruitful.bounty.skill.boost": "+0.1 к урожаю с фруктовых грядок от навыка Fruitful Bounty",
   "gameOptions.about.streams": "Еженедельные стримы",
   "gameOptions.account.referFriend": "Пригласить друга",
   "linkedAccounts.partialPill": "Требуется настройка",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+{{value}} Honey production speed",
   "skill.floweryAbode.debuff.ranked": "+{{value}}% Flower growth time",
   "skill.petalBlessed.ranked": "Instantly harvest all flowers. {{value}} cooldown",
-  "reputation.cropkeeper.withdraw": "Withdraw FLOWER"
+  "reputation.cropkeeper.withdraw": "Withdraw FLOWER",
+  "skill.efficientBin.ranked": "+{{value}} Sprout Mix",
+  "skill.turboCharged.ranked": "+{{value}} Fruitful Blend",
+  "skill.wormyTreat.ranked": "+{{value}} Worms",
+  "skill.featheryBusiness.debuff.ranked": "{{value}}x feathers to boost composters",
+  "skill.premiumWorms.ranked": "+{{value}} Rapid Root",
+  "skill.fruitfulBounty.ranked": "{{value}}x Fruitful Blend's Effect",
+  "skill.swiftDecomposer.ranked": "x{{value}} compost time",
+  "skill.compostingBonanza.buff.ranked": "Speed up composters by an additional {{value}} when boosting",
+  "skill.compostingOverhaul.buff.ranked": "+{{value}} Worms",
+  "skill.compostingRevamp.buff.ranked": "+{{value}} fertilisers",
+  "skill.compostingRevamp.debuff.ranked": "-{{value}} Worms",
+  "description.fruitful.bounty.skill.boost.ranked": "+{{value}} Fruit Patch Yield from Fruitful Bounty Skill"
 }

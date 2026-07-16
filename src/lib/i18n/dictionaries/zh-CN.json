@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "隐藏地址",
   "compost.turbofruitMixBoosted": "极速果蔬拌使果坑产量 +0.2，并使果坑生长时间 -20%。",
   "description.knowledge.crab.yield.boost": "来自 Knowledge Crab 的田坑产量 +0.2",
-  "description.fruitful.bounty.skill.boost": "来自 Fruitful Bounty 技能的果坑产量 +0.1",
   "gameOptions.about.streams": "每周直播",
   "gameOptions.account.referFriend": "推荐朋友",
   "linkedAccounts.partialPill": "待设置",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} 蜂蜜生产速度",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% 花朵生长时间",
   "skill.petalBlessed.ranked": "立即收获所有花。{{value}} 冷却时间",
-  "reputation.cropkeeper.withdraw": "撤回鲜花"
+  "reputation.cropkeeper.withdraw": "撤回鲜花",
+  "skill.efficientBin.ranked": "+ {{value}} Sprout Mix",
+  "skill.turboCharged.ranked": "+ {{value}} 富有成效的混合物",
+  "skill.wormyTreat.ranked": "+ {{value}} 蠕虫",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x 羽毛可增强堆肥者的活力",
+  "skill.premiumWorms.ranked": "+ {{value}} 快速生根",
+  "skill.fruitfulBounty.ranked": "{{value}} x 富有成效的混合效果",
+  "skill.swiftDecomposer.ranked": "x {{value}} 堆肥时间",
+  "skill.compostingBonanza.buff.ranked": "提升时可额外提升 {{value}} 的堆肥速度",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} 蠕虫",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} 肥料",
+  "skill.compostingRevamp.debuff.ranked": "-{{value}} 蠕虫",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 富有成效的赏金技能产生的水果补丁"
 }

@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Adresi gizle",
   "compost.turbofruitMixBoosted": "Turbofruit Mix, meyve yaması veriminizi +0.2 artırır ve meyve yaması büyüme süresini %20 azaltır.",
   "description.knowledge.crab.yield.boost": "Bilgi Yengeçinden +0.2 Mahsul Arsa Verimi",
-  "description.fruitful.bounty.skill.boost": "Verimli Ödül Becerisinden +0.1 Meyve Yaması Verimi",
   "gameOptions.about.streams": "Haftalık yayınlar",
   "gameOptions.account.referFriend": "Bir arkadaşınıza tavsiye edin",
   "linkedAccounts.partialPill": "Kurulum beklemede",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Bal üretim hızı",
   "skill.floweryAbode.debuff.ranked": "+ {{value}} %Çiçek büyüme süresi",
   "skill.petalBlessed.ranked": "Tüm çiçekleri anında hasat edin. {{value}} bekleme süresi",
-  "reputation.cropkeeper.withdraw": "ÇIÇEĞİ çekin"
+  "reputation.cropkeeper.withdraw": "ÇIÇEĞİ çekin",
+  "skill.efficientBin.ranked": "+ {{value}} Filiz Karışımı",
+  "skill.turboCharged.ranked": "+ {{value}} Verimli Karışım",
+  "skill.wormyTreat.ranked": "+ {{value}} Solucanlar",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} kompostörleri güçlendirmek için x tüy",
+  "skill.premiumWorms.ranked": "+ {{value}} Hızlı Kök",
+  "skill.fruitfulBounty.ranked": "{{value}} x Verimli Karışımın Etkisi",
+  "skill.swiftDecomposer.ranked": "x {{value}} kompost süresi",
+  "skill.compostingBonanza.buff.ranked": "Güçlendirirken kompostörleri ek bir {{value}} hızlandırın",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Solucanlar",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} gübreler",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Solucanlar",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Verimli Ödül Becerisinden Meyve Yaması Verimi"
 }

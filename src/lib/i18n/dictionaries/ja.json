@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "住所を非表示にする",
   "compost.turbofruitMixBoosted": "ターボフルーツミックスはフルーツパッチの収穫量を+0.2増やし、フルーツパッチの成長時間を20％短縮します。",
   "description.knowledge.crab.yield.boost": "+0.2 ナレッジクラブからの農地収量",
-  "description.fruitful.bounty.skill.boost": "フルーツフルバウンティスキルによるフルーツパッチ生成量+0.1",
   "gameOptions.about.streams": "ウィークリーストリーム",
   "gameOptions.account.referFriend": "友達を紹介する",
   "linkedAccounts.partialPill": "セットアップは保留中です",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} ハチミツ生産速度",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% 花の成長時間",
   "skill.petalBlessed.ranked": "すべての花を即座に収穫する。{{value}} クールダウン",
-  "reputation.cropkeeper.withdraw": "花を撤回"
+  "reputation.cropkeeper.withdraw": "花を撤回",
+  "skill.efficientBin.ranked": "+ {{value}} スプラウトミックス",
+  "skill.turboCharged.ranked": "+ {{value}} フルーツフルブレンド",
+  "skill.wormyTreat.ranked": "+ {{value}} ワーム",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x フェザーでコンポストを強化",
+  "skill.premiumWorms.ranked": "+ {{value}} ラピッドルート",
+  "skill.fruitfulBounty.ranked": "{{value}} x フルーツフルブレンドの効果",
+  "skill.swiftDecomposer.ranked": "x {{value}} コンポスト時間",
+  "skill.compostingBonanza.buff.ranked": "ブースト時にコンポスターの速度を {{value}} 追加で上げる",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} ワーム",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} 肥料",
+  "skill.compostingRevamp.debuff.ranked": "-{{value}} ワーム",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 実り多い賞金スキルによるフルーツパッチの収穫量"
 }

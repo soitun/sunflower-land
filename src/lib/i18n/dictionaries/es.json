@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Ocultar dirección",
   "compost.turbofruitMixBoosted": "Turbofruit Mix aumenta el rendimiento de sus huertos frutales en un +0,2 y reduce el tiempo de crecimiento de los huertos en un 20%.",
   "description.knowledge.crab.yield.boost": "+0.2 Rendimiento de parcelas de cultivo de Knowledge Crab",
-  "description.fruitful.bounty.skill.boost": "+0.1 Rendimiento de huerto con la habilidad Fruitful Bounty",
   "gameOptions.about.streams": "Transmisiones semanales",
   "gameOptions.account.referFriend": "Recomiende a un amigo",
   "linkedAccounts.partialPill": "Configuración pendiente",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Velocidad de producción de miel",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% de tiempo de crecimiento de la flor",
   "skill.petalBlessed.ranked": "Recolecta todas las flores al instante. {{value}} tiempo de reutilización",
-  "reputation.cropkeeper.withdraw": "Retirar FLOWER"
+  "reputation.cropkeeper.withdraw": "Retirar FLOWER",
+  "skill.efficientBin.ranked": "+ {{value}} Mezcla para brotes",
+  "skill.turboCharged.ranked": "+ {{value}} Mezcla fructífera",
+  "skill.wormyTreat.ranked": "+ {{value}} Gusanos",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x plumas para impulsar los compostadores",
+  "skill.premiumWorms.ranked": "+ {{value}} Raíz rápida",
+  "skill.fruitfulBounty.ranked": "{{value}} x Efecto de Fruitful Blend",
+  "skill.swiftDecomposer.ranked": "x {{value}} tiempo de compostaje",
+  "skill.compostingBonanza.buff.ranked": "Acelera los compostadores en un {{value}} adicional al aumentar",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Gusanos",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} abonos",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Gusanos",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimiento de un huerto frutal con la habilidad Fruitful Bounty"
 }

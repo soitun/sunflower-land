@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Sembunyikan alamat",
   "compost.turbofruitMixBoosted": "Campuran Turbofruit meningkatkan hasil petak buah Anda sebesar +0,2 dan mengurangi waktu pertumbuhan petak buah sebesar 20%.",
   "description.knowledge.crab.yield.boost": "+0.2 Hasil Plot Tanaman dari Kepiting Pengetahuan",
-  "description.fruitful.bounty.skill.boost": "+0.1 Hasil Petak Buah dari Skill Fruitful Bounty",
   "gameOptions.about.streams": "Streaming mingguan",
   "gameOptions.account.referFriend": "Referensikan teman",
   "linkedAccounts.partialPill": "Penyiapan tertunda",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Kecepatan produksi madu",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Waktu pertumbuhan bunga",
   "skill.petalBlessed.ranked": "Panen semua bunga secara instan. {{value}} cooldown",
-  "reputation.cropkeeper.withdraw": "Tarik BUNGA"
+  "reputation.cropkeeper.withdraw": "Tarik BUNGA",
+  "skill.efficientBin.ranked": "+ {{value}} Campuran Kecambah",
+  "skill.turboCharged.ranked": "+ {{value}} Campuran Berbuah",
+  "skill.wormyTreat.ranked": "+ {{value}} Cacing",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x bulu untuk meningkatkan komposter",
+  "skill.premiumWorms.ranked": "+ {{value}} Akar Cepat",
+  "skill.fruitfulBounty.ranked": "{{value}} x Efek Campuran Berbuah",
+  "skill.swiftDecomposer.ranked": "x {{value}} waktu kompos",
+  "skill.compostingBonanza.buff.ranked": "Percepat komposter dengan tambahan {{value}} saat meningkatkan",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Cacing",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} pupuk",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Cacing",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Hasil Petak Buah dari Skill Fruitful Bounty"
 }

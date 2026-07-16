@@ -8777,7 +8777,6 @@
   "linkedAccounts.hideWallet": "Adresse verbergen",
   "compost.turbofruitMixBoosted": "Turbofruit Mix erhöht den Ertrag Ihrer Fruchtbeete um +0,2 und reduziert die Wachstumszeit der Fruchtbeete um 20%.",
   "description.knowledge.crab.yield.boost": "+0.2 Ertrag der Anbaufläche durch Wissenskrabbe",
-  "description.fruitful.bounty.skill.boost": "+0.1 Ertrag aus Fruchtfeldern durch die Fertigkeit Fruchtbares Kopfgeld",
   "gameOptions.about.streams": "Wöchentliche Streams",
   "gameOptions.account.referFriend": "Empfehlen Sie einen Freund",
   "linkedAccounts.partialPill": "Einrichtung steht noch aus",
@@ -9377,5 +9376,17 @@
   "skill.floweryAbode.buff.ranked": "+ {{value}} Geschwindigkeit der Honigproduktion",
   "skill.floweryAbode.debuff.ranked": "+ {{value}}% Wachstumszeit der Blüte",
   "skill.petalBlessed.ranked": "Ernten Sie sofort alle Blumen. {{value}} Abklingzeit",
-  "reputation.cropkeeper.withdraw": "FLOWER zurückziehen"
+  "reputation.cropkeeper.withdraw": "FLOWER zurückziehen",
+  "skill.efficientBin.ranked": "+ {{value}} Sprossenmischung",
+  "skill.turboCharged.ranked": "+ {{value}} Fruchtbare Mischung",
+  "skill.wormyTreat.ranked": "+ {{value}} Würmer",
+  "skill.featheryBusiness.debuff.ranked": "{{value}} x Federn, um Komposter anzukurbeln",
+  "skill.premiumWorms.ranked": "+ {{value}} Schnelle Wurzel",
+  "skill.fruitfulBounty.ranked": "Der Effekt von {{value}} x Fruitful Blend",
+  "skill.swiftDecomposer.ranked": "x {{value}} Kompostierungszeit",
+  "skill.compostingBonanza.buff.ranked": "Beschleunigen Sie Komposter beim Boosten um zusätzliche {{value}}",
+  "skill.compostingOverhaul.buff.ranked": "+ {{value}} Würmer",
+  "skill.compostingRevamp.buff.ranked": "+ {{value}} Düngemittel",
+  "skill.compostingRevamp.debuff.ranked": "- {{value}} Würmer",
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Ertrag aus Fruchtfeldern durch Fertigkeit Fruchtbares Kopfgeld"
 }

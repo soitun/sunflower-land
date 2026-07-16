@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} packs ajoutés au système de file d'attente des machines",
   "skill.fieldExtensionModule.ranked": "+ {{value}} tracés ajoutés à la machine",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Consommation d'huile dans Crop Machine",
-  "skill.greaseLightning.ranked": "Faites remplir instantanément les puits de pétrole vides. {{value}} temps de recharge"
+  "skill.greaseLightning.ranked": "Faites remplir instantanément les puits de pétrole vides. {{value}} temps de recharge",
+  "skill.sweetBonus.ranked": "+ {{value}} Miel par ruche",
+  "skill.hyperBees.ranked": "+ {{value}} Vitesse de production de miel",
+  "skill.bloomingBoost.ranked": "x {{value}} Temps de croissance des fleurs",
+  "skill.flowerSale.ranked": "x {{value}} Coût des graines de fleurs",
+  "skill.buzzworthyTreats.ranked": "+ {{value}} % Bumpkin XP de Honey Foods",
+  "skill.blossomBonding.ranked": "+ {{value}} points de relation pour offrir des fleurs",
+  "skill.pollenPowerUp.ranked": "Rendement agricole supplémentaire de + {{value}} après pollinisation (total + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}} % de chance d'obtenir +1 fleur",
+  "skill.beeCollective.ranked": "+ {{value}} % de chances pour un essaim d'abeilles",
+  "skill.flowerPower.ranked": "x {{value}} Temps de croissance des fleurs",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Vitesse de production de miel",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}} % Temps de croissance des fleurs",
+  "skill.petalBlessed.ranked": "Récoltez instantanément toutes les fleurs. {{value}} temps de recharge"
 }

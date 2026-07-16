@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} pacchetti aggiunti al sistema di code automatiche",
   "skill.fieldExtensionModule.ranked": "+ {{value}} grafici aggiunti alla macchina",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Consumo di olio nella macchina per la coltivazione",
-  "skill.greaseLightning.ranked": "Riempi istantaneamente i pozzi petroliferi vuoti. {{value}} tempo di recupero"
+  "skill.greaseLightning.ranked": "Riempi istantaneamente i pozzi petroliferi vuoti. {{value}} tempo di recupero",
+  "skill.sweetBonus.ranked": "+ {{value}} Miele per alveare",
+  "skill.hyperBees.ranked": "+ {{value}} Velocità di produzione del miele",
+  "skill.bloomingBoost.ranked": "x {{value}} Tempo di crescita dei fiori",
+  "skill.flowerSale.ranked": "x {{value}} Costo dei semi di fiori",
+  "skill.buzzworthyTreats.ranked": "+ {{value}}% Bumpkin XP di Honey Foods",
+  "skill.blossomBonding.ranked": "+ {{value}} punti relazione per regalare fiori",
+  "skill.pollenPowerUp.ranked": "Rendimento agricolo aggiuntivo di + {{value}} dopo l'impollinazione (totale + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}}% di possibilità di +1 fiore",
+  "skill.beeCollective.ranked": "+ {{value}}% probabilità Bee Swarm",
+  "skill.flowerPower.ranked": "x {{value}} Tempo di crescita dei fiori",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Velocità di produzione del miele",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}}% Tempo di crescita dei fiori",
+  "skill.petalBlessed.ranked": "Raccogli istantaneamente tutti i fiori. {{value}} tempo di recupero"
 }

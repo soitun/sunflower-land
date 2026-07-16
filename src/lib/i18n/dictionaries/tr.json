@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} paketleri makine kuyruğu sistemine eklendi",
   "skill.fieldExtensionModule.ranked": "+ {{value}} grafikler makineye eklendi",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Mahsul Makinesinde Yağ Tüketimi",
-  "skill.greaseLightning.ranked": "Boş petrol kuyularının anında doldurulmasını sağlayın. {{value}} bekleme süresi"
+  "skill.greaseLightning.ranked": "Boş petrol kuyularının anında doldurulmasını sağlayın. {{value}} bekleme süresi",
+  "skill.sweetBonus.ranked": "+ {{value}} Kovan başına bal",
+  "skill.hyperBees.ranked": "+ {{value}} Bal üretim hızı",
+  "skill.bloomingBoost.ranked": "x {{value}} Çiçek büyüme zamanı",
+  "skill.flowerSale.ranked": "x {{value}} Çiçek Tohumları maliyeti",
+  "skill.buzzworthyTreats.ranked": "Honey Foods'dan + {{value}} %Bumpkin XP",
+  "skill.blossomBonding.ranked": "+ {{value}} çiçek hediye etmek için ilişki puanları",
+  "skill.pollenPowerUp.ranked": "Tozlaşma sonrası ek + {{value}} mahsul verimi (toplam + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}} %+1 Çiçek şansı",
+  "skill.beeCollective.ranked": "+ {{value}} %Arı Sürü şansı",
+  "skill.flowerPower.ranked": "x {{value}} Çiçek büyüme zamanı",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Bal üretim hızı",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}} %Çiçek büyüme süresi",
+  "skill.petalBlessed.ranked": "Tüm çiçekleri anında hasat edin. {{value}} bekleme süresi"
 }

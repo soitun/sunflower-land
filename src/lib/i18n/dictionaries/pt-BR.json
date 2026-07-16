@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} pacotes adicionados ao sistema de fila de máquinas",
   "skill.fieldExtensionModule.ranked": "+ {{value}} parcelas adicionadas à máquina",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Consumo de óleo na máquina de colheita",
-  "skill.greaseLightning.ranked": "Faça com que poços de petróleo vazios sejam reabastecidos instantaneamente. {{value}} cooldown"
+  "skill.greaseLightning.ranked": "Faça com que poços de petróleo vazios sejam reabastecidos instantaneamente. {{value}} cooldown",
+  "skill.sweetBonus.ranked": "+ {{value}} Mel por colmeia",
+  "skill.hyperBees.ranked": "+ {{value}} Velocidade de produção de mel",
+  "skill.bloomingBoost.ranked": "x {{value}} Tempo de crescimento da flor",
+  "skill.flowerSale.ranked": "x {{value}} Custo das sementes de flores",
+  "skill.buzzworthyTreats.ranked": "+ {{value}}% Bumpkin XP da Honey Foods",
+  "skill.blossomBonding.ranked": "+ {{value}} pontos de relacionamento para presentear flores",
+  "skill.pollenPowerUp.ranked": "Rendimento adicional da cultura + {{value}} após a polinização (total + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}}% de chance de +1 flor",
+  "skill.beeCollective.ranked": "+ {{value}}% de chance de enxame de abelhas",
+  "skill.flowerPower.ranked": "x {{value}} Tempo de crescimento da flor",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Velocidade de produção de mel",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}}% Tempo de crescimento da flor",
+  "skill.petalBlessed.ranked": "Colha instantaneamente todas as flores. {{value}} tempo de recarga"
 }

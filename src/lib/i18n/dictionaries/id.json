@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} paket ditambahkan ke sistem antrian mesin",
   "skill.fieldExtensionModule.ranked": "+ {{value}} plot ditambahkan ke mesin",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Konsumsi minyak di Mesin Tanaman",
-  "skill.greaseLightning.ranked": "Isi ulang sumur minyak kosong secara instan. {{value}} cooldown"
+  "skill.greaseLightning.ranked": "Isi ulang sumur minyak kosong secara instan. {{value}} cooldown",
+  "skill.sweetBonus.ranked": "+ {{value}} Madu per sarang",
+  "skill.hyperBees.ranked": "+ {{value}} Kecepatan produksi madu",
+  "skill.bloomingBoost.ranked": "x {{value}} Waktu pertumbuhan bunga",
+  "skill.flowerSale.ranked": "x {{value}} Biaya Bibit Bunga",
+  "skill.buzzworthyTreats.ranked": "+ {{value}}% Bumpkin XP dari Honey Foods",
+  "skill.blossomBonding.ranked": "+ {{value}} poin hubungan untuk memberikan bunga",
+  "skill.pollenPowerUp.ranked": "Tambahan + {{value}} hasil panen setelah penyerbukan (total + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}}% peluang +1 Bunga",
+  "skill.beeCollective.ranked": "+ {{value}}% Peluang Swarm lebah",
+  "skill.flowerPower.ranked": "x {{value}} Waktu pertumbuhan bunga",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Kecepatan produksi madu",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}}% Waktu pertumbuhan bunga",
+  "skill.petalBlessed.ranked": "Panen semua bunga secara instan. {{value}} cooldown"
 }

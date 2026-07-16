@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+ {{value}} -Pakete zum Maschinen-Warteschlangensystem hinzugefügt",
   "skill.fieldExtensionModule.ranked": "+ {{value}} Plots zur Maschine hinzugefügt",
   "skill.efficiencyExtensionModule.ranked": "x {{value}} Ölverbrauch in Erntemaschinen",
-  "skill.greaseLightning.ranked": "Sorgen Sie dafür, dass leere Ölquellen sofort wieder aufgefüllt werden. {{value}} Abklingzeit"
+  "skill.greaseLightning.ranked": "Sorgen Sie dafür, dass leere Ölquellen sofort wieder aufgefüllt werden. {{value}} Abklingzeit",
+  "skill.sweetBonus.ranked": "+ {{value}} Honig pro Bienenstock",
+  "skill.hyperBees.ranked": "+ {{value}} Geschwindigkeit der Honigproduktion",
+  "skill.bloomingBoost.ranked": "x {{value}} Wachstumszeit der Blüte",
+  "skill.flowerSale.ranked": "x {{value}} Kosten für Blumensamen",
+  "skill.buzzworthyTreats.ranked": "+ {{value}}% Bumpkin-XP von Honey Foods",
+  "skill.blossomBonding.ranked": "+ {{value}} Beziehungspunkte für das Verschenken von Blumen",
+  "skill.pollenPowerUp.ranked": "Zusätzlicher + {{value}} Ernteertrag nach Bestäubung (insgesamt + {{total}})",
+  "skill.petalledPerk.ranked": "{{value}}% Chance auf +1 Blume",
+  "skill.beeCollective.ranked": "+ {{value}}% Chance auf Bienenschwarm",
+  "skill.flowerPower.ranked": "x {{value}} Wachstumszeit der Blüte",
+  "skill.floweryAbode.buff.ranked": "+ {{value}} Geschwindigkeit der Honigproduktion",
+  "skill.floweryAbode.debuff.ranked": "+ {{value}}% Wachstumszeit der Blüte",
+  "skill.petalBlessed.ranked": "Ernten Sie sofort alle Blumen. {{value}} Abklingzeit"
 }

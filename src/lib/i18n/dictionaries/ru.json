@@ -9364,5 +9364,18 @@
   "skill.fieldExpansionModule.ranked": "+{{value}} packs added to machine queue system",
   "skill.fieldExtensionModule.ranked": "+{{value}} plots added to machine",
   "skill.efficiencyExtensionModule.ranked": "x{{value}} Oil consumption in Crop Machine",
-  "skill.greaseLightning.ranked": "Make empty oil wells instantly refill. {{value}} cooldown"
+  "skill.greaseLightning.ranked": "Make empty oil wells instantly refill. {{value}} cooldown",
+  "skill.sweetBonus.ranked": "+{{value}} Honey per hive",
+  "skill.hyperBees.ranked": "+{{value}} Honey production speed",
+  "skill.bloomingBoost.ranked": "x{{value}} Flower growth time",
+  "skill.flowerSale.ranked": "x{{value}} Flower Seeds cost",
+  "skill.buzzworthyTreats.ranked": "+{{value}}% Bumpkin XP from Honey Foods",
+  "skill.blossomBonding.ranked": "+{{value}} relationship points for gifting flowers",
+  "skill.pollenPowerUp.ranked": "Additional +{{value}} crop yield after pollination (total +{{total}})",
+  "skill.petalledPerk.ranked": "{{value}}% chance of +1 Flower",
+  "skill.beeCollective.ranked": "+{{value}}% Bee Swarm chance",
+  "skill.flowerPower.ranked": "x{{value}} Flower growth time",
+  "skill.floweryAbode.buff.ranked": "+{{value}} Honey production speed",
+  "skill.floweryAbode.debuff.ranked": "+{{value}}% Flower growth time",
+  "skill.petalBlessed.ranked": "Instantly harvest all flowers. {{value}} cooldown"
 }

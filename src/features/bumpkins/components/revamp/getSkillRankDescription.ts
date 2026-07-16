@@ -509,6 +509,91 @@ export const getSkillRankDescription = (
           value: SKILL_RANKS["Double Nom"].ingredients[i],
         }),
       };
+    case "Sweet Bonus":
+      return {
+        buff: t("skill.sweetBonus.ranked", {
+          value: SKILL_RANKS["Sweet Bonus"].ranks[i],
+        }),
+      };
+    case "Hyper Bees":
+      return {
+        buff: t("skill.hyperBees.ranked", {
+          value: SKILL_RANKS["Hyper Bees"].ranks[i],
+        }),
+      };
+    case "Blooming Boost":
+      return {
+        buff: t("skill.bloomingBoost.ranked", {
+          value: SKILL_RANKS["Blooming Boost"].ranks[i],
+        }),
+      };
+    case "Flower Sale":
+      return {
+        buff: t("skill.flowerSale.ranked", {
+          value: SKILL_RANKS["Flower Sale"].ranks[i],
+        }),
+      };
+    case "Buzzworthy Treats":
+      return {
+        buff: t("skill.buzzworthyTreats.ranked", {
+          value: SKILL_RANKS["Buzzworthy Treats"].ranks[i] * 100,
+        }),
+      };
+    case "Blossom Bonding":
+      return {
+        buff: t("skill.blossomBonding.ranked", {
+          value: SKILL_RANKS["Blossom Bonding"].ranks[i],
+        }),
+      };
+    case "Pollen Power Up": {
+      const bonus = SKILL_RANKS["Pollen Power Up"].ranks[i];
+      return {
+        buff: t("skill.pollenPowerUp.ranked", {
+          value: bonus,
+          // Base Bee Swarm bonus is +0.2, so the player-facing total is +0.3/+0.35/+0.4
+          total: Math.round((0.2 + bonus) * 100) / 100,
+        }),
+      };
+    }
+    case "Petalled Perk":
+      return {
+        buff: t("skill.petalledPerk.ranked", {
+          value: SKILL_RANKS["Petalled Perk"].ranks[i],
+        }),
+      };
+    case "Bee Collective":
+      return {
+        buff: t("skill.beeCollective.ranked", {
+          value: SKILL_RANKS["Bee Collective"].ranks[i],
+        }),
+      };
+    case "Flower Power":
+      return {
+        buff: t("skill.flowerPower.ranked", {
+          value: SKILL_RANKS["Flower Power"].ranks[i],
+        }),
+      };
+    case "Flowery Abode":
+      return {
+        buff: t("skill.floweryAbode.buff.ranked", {
+          value: SKILL_RANKS["Flowery Abode"].rate[i],
+        }),
+        debuff: t("skill.floweryAbode.debuff.ranked", {
+          value:
+            Math.round((SKILL_RANKS["Flowery Abode"].growth[i] - 1) * 1000) /
+            10,
+        }),
+      };
+    case "Petal Blessed":
+      return {
+        buff: t("skill.petalBlessed.ranked", {
+          value: millisecondsToString(SKILL_RANKS["Petal Blessed"].ranks[i], {
+            length: "short",
+            isShortFormat: true,
+            removeTrailingZeros: true,
+          }),
+        }),
+      };
     case "Frenzied Fish": {
       const { flat, crit } = SKILL_RANKS["Frenzied Fish"];
       // Rank 3 is a flat catch with no crit chance, so drop the "and X% chance"
@@ -525,5 +610,165 @@ export const getSkillRankDescription = (
               }),
       };
     }
+    case "Glass Room":
+      return {
+        buff: t("skill.glassRoom.ranked", {
+          value: SKILL_RANKS["Glass Room"].ranks[i],
+        }),
+      };
+    case "Seedy Business":
+      return {
+        buff: t("skill.seedyBusiness.ranked", {
+          value: SKILL_RANKS["Seedy Business"].ranks[i],
+        }),
+      };
+    case "Rice and Shine":
+      return {
+        buff: t("skill.riceAndShine.ranked", {
+          value: SKILL_RANKS["Rice and Shine"].ranks[i],
+        }),
+      };
+    case "Victoria's Secretary":
+      return {
+        buff: t("skill.victoriasSecretary.ranked", {
+          value: SKILL_RANKS["Victoria's Secretary"].ranks[i] * 100,
+        }),
+      };
+    case "Olive Express":
+      return {
+        buff: t("skill.oliveExpress.ranked", {
+          value: SKILL_RANKS["Olive Express"].ranks[i],
+        }),
+      };
+    case "Rice Rocket":
+      return {
+        buff: t("skill.riceRocket.ranked", {
+          value: SKILL_RANKS["Rice Rocket"].ranks[i],
+        }),
+      };
+    case "Vine Velocity":
+      return {
+        buff: t("skill.vineVelocity.ranked", {
+          value: SKILL_RANKS["Vine Velocity"].ranks[i],
+        }),
+      };
+    case "Seeded Bounty":
+      // Only the yield leg scales; the "+1 seed to plant" debuff is fixed.
+      return {
+        buff: t("skill.seededBounty.buff.ranked", {
+          value: SKILL_RANKS["Seeded Bounty"].ranks[i],
+        }),
+        debuff: t("skill.seededBounty.debuff"),
+      };
+    case "Greenhouse Guru":
+      return {
+        buff: t("skill.greenhouseGuru.ranked", {
+          value: millisecondsToString(SKILL_RANKS["Greenhouse Guru"].ranks[i], {
+            length: "short",
+            isShortFormat: true,
+            removeTrailingZeros: true,
+          }),
+        }),
+      };
+    case "Greenhouse Gamble":
+      return {
+        buff: t("skill.greenhouseGamble.ranked", {
+          value: SKILL_RANKS["Greenhouse Gamble"].ranks[i],
+        }),
+      };
+    case "Slick Saver":
+      return {
+        buff: t("skill.slickSaver.ranked", {
+          value: SKILL_RANKS["Slick Saver"].ranks[i],
+        }),
+      };
+    case "Greasy Plants":
+      return {
+        buff: t("skill.greasyPlants.buff.ranked", {
+          value: SKILL_RANKS["Greasy Plants"].yield[i],
+        }),
+        debuff: t("skill.greasyPlants.debuff.ranked", {
+          value: (SKILL_RANKS["Greasy Plants"].oilMultiplier[i] - 1) * 100,
+        }),
+      };
+    case "Crop Processor Unit":
+      return {
+        buff: t("skill.cropProcessorUnit.buff.ranked", {
+          value: SKILL_RANKS["Crop Processor Unit"].growth[i],
+        }),
+        debuff: t("skill.cropProcessorUnit.debuff.ranked", {
+          value: SKILL_RANKS["Crop Processor Unit"].oilPenalty[i] * 100,
+        }),
+      };
+    case "Oil Gadget":
+      return {
+        buff: t("skill.oilGadget.ranked", {
+          value: 1 - SKILL_RANKS["Oil Gadget"].ranks[i],
+        }),
+      };
+    case "Oil Extraction":
+      return {
+        buff: t("skill.oilExtraction.ranked", {
+          value: SKILL_RANKS["Oil Extraction"].ranks[i],
+        }),
+      };
+    case "Leak-Proof Tank":
+      return {
+        buff: t("skill.leakProofTank.ranked", {
+          value: SKILL_RANKS["Leak-Proof Tank"].ranks[i],
+        }),
+      };
+    case "Rapid Rig":
+      return {
+        buff: t("skill.rapidRig.buff.ranked", {
+          value: SKILL_RANKS["Rapid Rig"].growth[i],
+        }),
+        debuff: t("skill.rapidRig.debuff.ranked", {
+          value: SKILL_RANKS["Rapid Rig"].oilPenalty[i] * 100,
+        }),
+      };
+    case "Oil Be Back":
+      return {
+        buff: t("skill.oilBeBack.ranked", {
+          value: SKILL_RANKS["Oil Be Back"].ranks[i],
+        }),
+      };
+    case "Oil Rig":
+      return {
+        buff: t("skill.oilRig.buff.ranked", {
+          value: SKILL_RANKS["Oil Rig"].ranks[i],
+        }),
+      };
+    case "Field Expansion Module":
+      return {
+        buff: t("skill.fieldExpansionModule.ranked", {
+          value: SKILL_RANKS["Field Expansion Module"].ranks[i],
+        }),
+      };
+    case "Field Extension Module":
+      return {
+        buff: t("skill.fieldExtensionModule.ranked", {
+          value: SKILL_RANKS["Field Extension Module"].ranks[i],
+        }),
+      };
+    case "Efficiency Extension Module":
+      return {
+        buff: t("skill.efficiencyExtensionModule.ranked", {
+          value: 1 - SKILL_RANKS["Efficiency Extension Module"].ranks[i],
+        }),
+      };
+    case "Grease Lightning":
+      return {
+        buff: t("skill.greaseLightning.ranked", {
+          value: millisecondsToString(
+            SKILL_RANKS["Grease Lightning"].ranks[i],
+            {
+              length: "short",
+              isShortFormat: true,
+              removeTrailingZeros: true,
+            },
+          ),
+        }),
+      };
   }
 };

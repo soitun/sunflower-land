@@ -31,8 +31,8 @@ import type { CollectibleName } from "features/game/types/craftables";
 import { getKeys } from "lib/object";
 import { createPortal } from "react-dom";
 import confetti from "canvas-confetti";
-import type { IslandType } from "features/game/types/game";
-import { ASCENSION_ISLANDS } from "features/game/types/game";
+import type { AscensionIslandType, IslandType } from "features/game/types/game";
+import { ASCENSION_ISLANDS, getIslandName } from "features/game/types/game";
 import { hasFeatureAccess, TIME_BASED_FEATURE_FLAG_WINDOWS } from "lib/flags";
 import { Section, useScrollIntoView } from "lib/utils/hooks/useScrollIntoView";
 import { useAppTranslation } from "lib/i18n/useAppTranslations";
@@ -370,6 +370,8 @@ interface Props {
 
 const _islandType = (state: MachineState) =>
   state.context.state.island?.type ?? "basic";
+const _ascensionLevel = (state: MachineState) =>
+  state.context.state.island?.ascensionLevel ?? 0;
 const _expansionCount = (state: MachineState) =>
   state.context.state.inventory["Basic Land"]?.toNumber() ?? 3;
 
@@ -379,6 +381,7 @@ export const IslandUpgrader: React.FC<Props> = ({ offset }) => {
   const { gameService, showAnimations } = useContext(Context);
 
   const islandType = useSelector(gameService, _islandType);
+  const ascensionLevel = useSelector(gameService, _ascensionLevel);
   const expansionCount = useSelector(gameService, _expansionCount);
 
   const [showModal, setShowModal] = useState(false);
@@ -495,6 +498,18 @@ export const IslandUpgrader: React.FC<Props> = ({ offset }) => {
   const upgradeRaft = UPGRADE_RAFTS[islandType];
   const preview = UPGRADE_PREVIEW[islandType];
 
+  // Ascension islands (swamp onward) share the volcano welcome copy, so surface
+  // the real island name plus the ascension level instead of a hardcoded title.
+  const isAscensionIsland = ASCENSION_ISLANDS.includes(
+    islandType as AscensionIslandType,
+  );
+  const welcomeMessage = isAscensionIsland
+    ? t("islandupgrade.welcomeAscensionIsland", {
+        island: getIslandName(islandType),
+        level: ascensionLevel,
+      })
+    : UPGRADE_MESSAGES[islandType];
+
   return (
     <>
       {createPortal(
@@ -525,7 +540,7 @@ export const IslandUpgrader: React.FC<Props> = ({ offset }) => {
       <Modal show={showUpgraded}>
         <CloseButtonPanel bumpkinParts={NPC_WEARABLES.grubnuk}>
           <div className="p-2">
-            <p className="text-sm mb-2">{UPGRADE_MESSAGES[islandType]}</p>
+            <p className="text-sm mb-2">{welcomeMessage}</p>
             <p className="text-xs mb-2">{UPGRADE_DESCRIPTIONS[islandType]}</p>
             {preview && (
               <img src={preview} className="w-full rounded-md mb-2" />

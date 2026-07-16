@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Vermi",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} fertilizzanti",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Vermi",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento degli appezzamenti di frutta grazie all'abilità Fruitful Bounty"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento degli appezzamenti di frutta grazie all'abilità Fruitful Bounty",
+  "skill.cheapRakes.ranked": "x {{value}} costo della moneta salt rake",
+  "skill.speedyAging.ranked": "x {{value}} Tempo di stagionatura del pesce",
+  "skill.saltySeas.ranked": "x {{value}} tempo di rifornimento della carica di sale",
+  "skill.fishSmoking.ranked": "{{value}} x chance Il pesce invecchiato diventa Prime Aged",
+  "skill.refiner.ranked": "{{value}}% di possibilità di +1 di sale raffinato quando si prepara il sale raffinato",
+  "skill.ager.buff.ranked": "{{value}} × uscita da Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}} × Aging Shed input (ingredienti, pesce e sale)",
+  "skill.wideRakes.ranked": "+ {{value}} Sale per raccolto",
+  "skill.seaBlessed.ranked": "{{value}}% di possibilità di ripristinare 1 carica su 4 nodi Salt al momento della raccolta",
+  "skill.bacalhau.ranked": "+ {{value}} Resa dell'esca dal rack di fermentazione",
+  "skill.saltSurge.ranked": "Ricarica tutti i Salt Nodes fino al tempo di recupero massimo {{value}}"
 }

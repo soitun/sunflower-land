@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Gusanos",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} abonos",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Gusanos",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimiento de un huerto frutal con la habilidad Fruitful Bounty"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimiento de un huerto frutal con la habilidad Fruitful Bounty",
+  "skill.cheapRakes.ranked": "precio de la moneda x {{value}} Salt Rake",
+  "skill.speedyAging.ranked": "x {{value}} Tiempo de envejecimiento del pescado",
+  "skill.saltySeas.ranked": "x {{value}} tiempo de reposición del cargo por sal",
+  "skill.fishSmoking.ranked": "{{value}} x probabilidad de que Aged Fish se convierta en Prime Aged",
+  "skill.refiner.ranked": "{{value}}% de probabilidad de obtener +1 sal refinada al hacer sal refinada",
+  "skill.ager.buff.ranked": "{{value}} × producción de Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}} × Aging Shed Insumos (ingredientes, pescado y sal)",
+  "skill.wideRakes.ranked": "+ {{value}} Sal por cosecha",
+  "skill.seaBlessed.ranked": "{{value}}% de probabilidad de restaurar 1 carga en 4 nodos de sal al cosechar",
+  "skill.bacalhau.ranked": "+ {{value}} Rendimiento de cebo en una rejilla de fermentación",
+  "skill.saltSurge.ranked": "Recarga todos los nodos de sal al máximo de tiempo de reutilización de {{value}}"
 }

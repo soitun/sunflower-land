@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Cacing",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} pupuk",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Cacing",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Hasil Petak Buah dari Skill Fruitful Bounty"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Hasil Petak Buah dari Skill Fruitful Bounty",
+  "skill.cheapRakes.ranked": "x {{value}} biaya koin penggaruk garam",
+  "skill.speedyAging.ranked": "x {{value}} Waktu penuaan ikan",
+  "skill.saltySeas.ranked": "x {{value}} waktu pengisian muatan garam",
+  "skill.fishSmoking.ranked": "{{value}} x kesempatan Ikan Tua menjadi Prime Aged",
+  "skill.refiner.ranked": "{{value}}% peluang +1 Garam Halus saat membuat Garam Halus",
+  "skill.ager.buff.ranked": "{{value}} × keluaran dari Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}} × Input Aging Shed (bahan, ikan & garam)",
+  "skill.wideRakes.ranked": "+ {{value}} Garam per panen",
+  "skill.seaBlessed.ranked": "{{value}}% peluang untuk mengembalikan 1 muatan ke 4 Node Garam saat panen",
+  "skill.bacalhau.ranked": "+ {{value}} Hasil umpan dari rak fermentasi",
+  "skill.saltSurge.ranked": "Isi ulang semua Salt Nodes hingga maksimal {{value}} cooldown"
 }

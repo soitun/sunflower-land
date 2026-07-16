@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} ワーム",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} 肥料",
   "skill.compostingRevamp.debuff.ranked": "-{{value}} ワーム",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 実り多い賞金スキルによるフルーツパッチの収穫量"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 実り多い賞金スキルによるフルーツパッチの収穫量",
+  "skill.cheapRakes.ranked": "x {{value}} ソルトレイクコインコスト",
+  "skill.speedyAging.ranked": "x {{value}} 魚の熟成時間",
+  "skill.saltySeas.ranked": "x {{value}} ソルトチャージ補充時間",
+  "skill.fishSmoking.ranked": "{{value}} x 確率で熟成した魚がプライムエイジドになる",
+  "skill.refiner.ranked": "精製塩を作る時、{{value}} %の確率で精製塩1個を獲得する",
+  "skill.ager.buff.ranked": "{{value}} × エージング・シェッド・ラックの出力",
+  "skill.ager.debuff.ranked": "{{value}} × エイジングシェッドのインプット（食材、魚、塩）",
+  "skill.wideRakes.ranked": "+ {{value}} 収穫ごとの塩",
+  "skill.seaBlessed.ranked": "収穫時に {{value}} %の確率で4つのソルトノードにチャージを1つ回復する",
+  "skill.bacalhau.ranked": "+ {{value}} 発酵ラックからの餌の収量",
+  "skill.saltSurge.ranked": "すべてのソルトノードを最大 {{value}} クールダウンまでリチャージする"
 }

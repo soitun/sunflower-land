@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Minhocas",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} fertilizantes",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Minhocas",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento de canteiros de frutas com a habilidade Fruitful Bounty"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Rendimento de canteiros de frutas com a habilidade Fruitful Bounty",
+  "skill.cheapRakes.ranked": "x {{value}} custo da moeda de ancinho de sal",
+  "skill.speedyAging.ranked": "x {{value}} Tempo de envelhecimento do peixe",
+  "skill.saltySeas.ranked": "x {{value}} tempo de reabastecimento da carga de sal",
+  "skill.fishSmoking.ranked": "{{value}} x chance de Peixe Envelhecido se tornar Prime Aged",
+  "skill.refiner.ranked": "{{value}}% de chance de +1 sal refinado ao fazer sal refinado",
+  "skill.ager.buff.ranked": "{{value}} × saída do Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}} × Entradas do Aging Shed (ingredientes, peixe e sal)",
+  "skill.wideRakes.ranked": "+ {{value}} Sal por colheita",
+  "skill.seaBlessed.ranked": "{{value}}% de chance de restaurar 1 carga em 4 Nodos de Sal na colheita",
+  "skill.bacalhau.ranked": "+ {{value}} Rendimento de isca da prateleira de fermentação",
+  "skill.saltSurge.ranked": "Recarregue todos os Salt Nodes até o máximo de {{value}} de recarga"
 }

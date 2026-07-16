@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Würmer",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} Düngemittel",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Würmer",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Ertrag aus Fruchtfeldern durch Fertigkeit Fruchtbares Kopfgeld"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Ertrag aus Fruchtfeldern durch Fertigkeit Fruchtbares Kopfgeld",
+  "skill.cheapRakes.ranked": "x {{value}} Kosten für Salt-Rake-Münzen",
+  "skill.speedyAging.ranked": "x {{value}} Reifezeit der Fische",
+  "skill.saltySeas.ranked": "x {{value}} Zeit zum Auffüllen der Salzladung",
+  "skill.fishSmoking.ranked": "{{value}} x Chance, dass Aged Fish zu Prime Aged wird",
+  "skill.refiner.ranked": "{{value}}% Chance auf +1 Raffiniertes Salz bei der Herstellung von raffiniertem Salz",
+  "skill.ager.buff.ranked": "{{value}} × Ausgabe von Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}} × Aging Shed Inputs (Zutaten, Fisch und Salz)",
+  "skill.wideRakes.ranked": "+ {{value}} Salz pro Ernte",
+  "skill.seaBlessed.ranked": "{{value}}% Chance, bei Ernte 1 Ladung auf 4 Salzknoten wiederherzustellen",
+  "skill.bacalhau.ranked": "+ {{value}} Köderausbeute aus dem Gärregal",
+  "skill.saltSurge.ranked": "Lädt alle Salzknoten bis zur maximalen Abklingzeit von {{value}} auf"
 }

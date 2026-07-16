@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} Solucanlar",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} gübreler",
   "skill.compostingRevamp.debuff.ranked": "- {{value}} Solucanlar",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Verimli Ödül Becerisinden Meyve Yaması Verimi"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} Verimli Ödül Becerisinden Meyve Yaması Verimi",
+  "skill.cheapRakes.ranked": "x {{value}} tuz tırmığı madeni para maliyeti",
+  "skill.speedyAging.ranked": "x {{value}} Balık Yaşlanma süresi",
+  "skill.saltySeas.ranked": "x {{value}} tuz şarjı yenileme süresi",
+  "skill.fishSmoking.ranked": "{{value}} Yaşlı Balığın İlk Yaşlı Olma şansı x",
+  "skill.refiner.ranked": "{{value}} Rafine Tuz yaparken %+1 Rafine Tuz şansı",
+  "skill.ager.buff.ranked": "{{value}} × Yaşlanma Kulübesi Raflarından çıktı",
+  "skill.ager.debuff.ranked": "{{value}} × Yaşlanma Kulübesi girdileri (malzemeler, balık ve tuz)",
+  "skill.wideRakes.ranked": "+ {{value}} Hasat başına tuz",
+  "skill.seaBlessed.ranked": "{{value}} Hasatta 4 Tuz Düğümüne 1 şarjı geri yükleme şansı",
+  "skill.bacalhau.ranked": "+ {{value}} Fermantasyon rafından yem verimi",
+  "skill.saltSurge.ranked": "Tüm Tuz Düğümlerini maksimum {{value}} bekleme süresine kadar şarj edin"
 }

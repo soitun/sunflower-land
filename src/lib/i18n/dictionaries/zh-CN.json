@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+ {{value}} 蠕虫",
   "skill.compostingRevamp.buff.ranked": "+ {{value}} 肥料",
   "skill.compostingRevamp.debuff.ranked": "-{{value}} 蠕虫",
-  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 富有成效的赏金技能产生的水果补丁"
+  "description.fruitful.bounty.skill.boost.ranked": "+ {{value}} 富有成效的赏金技能产生的水果补丁",
+  "skill.cheapRakes.ranked": "x {{value}} 盐矿硬币成本",
+  "skill.speedyAging.ranked": "x {{value}} 鱼类老化时间",
+  "skill.saltySeas.ranked": "x {{value}} 盐分充值时间",
+  "skill.fishSmoking.ranked": "{{value}} x 次机会 Aged Fish 变成 Prime Aged",
+  "skill.refiner.ranked": "{{value}} 制作精制盐时获得 +1 精制盐的几率为%",
+  "skill.ager.buff.ranked": "{{value}} × 老化棚架的产量",
+  "skill.ager.debuff.ranked": "{{value}} × 老化棚投入（食材、鱼和盐）",
+  "skill.wideRakes.ranked": "+ {{value}} 每次收获的盐分",
+  "skill.seaBlessed.ranked": "{{value}} 收获时有% 的几率恢复 4 个盐分节点 1 点充能",
+  "skill.bacalhau.ranked": "+ {{value}} 发酵架的诱饵产量",
+  "skill.saltSurge.ranked": "将所有 Salt 节点充值至最大 {{value}} 冷却时间"
 }

@@ -9388,5 +9388,16 @@
   "skill.compostingOverhaul.buff.ranked": "+{{value}} Worms",
   "skill.compostingRevamp.buff.ranked": "+{{value}} fertilisers",
   "skill.compostingRevamp.debuff.ranked": "-{{value}} Worms",
-  "description.fruitful.bounty.skill.boost.ranked": "+{{value}} Fruit Patch Yield from Fruitful Bounty Skill"
+  "description.fruitful.bounty.skill.boost.ranked": "+{{value}} Fruit Patch Yield from Fruitful Bounty Skill",
+  "skill.cheapRakes.ranked": "x{{value}} salt rake coin cost",
+  "skill.speedyAging.ranked": "x{{value}} Fish Aging time",
+  "skill.saltySeas.ranked": "x{{value}} salt charge replenishment time",
+  "skill.fishSmoking.ranked": "{{value}}x chance Aged Fish becomes Prime Aged",
+  "skill.refiner.ranked": "{{value}}% chance of +1 Refined Salt when making Refined Salt",
+  "skill.ager.buff.ranked": "{{value}}× output from Aging Shed Racks",
+  "skill.ager.debuff.ranked": "{{value}}× Aging Shed inputs (ingredients, fish & salt)",
+  "skill.wideRakes.ranked": "+{{value}} Salt per harvest",
+  "skill.seaBlessed.ranked": "{{value}}% chance to restore 1 charge to 4 Salt Nodes on harvest",
+  "skill.bacalhau.ranked": "+{{value}} Bait yield from fermentation rack",
+  "skill.saltSurge.ranked": "Recharge all Salt Nodes to max. {{value}} cooldown"
 }

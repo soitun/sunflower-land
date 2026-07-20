@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "拥有的等级 {{rank}}",
   "skill.unlockTierFirst": "先解锁等级 {{tier}}",
   "skill.reachRankFirst": "首先达到等级 {{rank}}",
-  "skill.upgradeTierLock": "在此树中解锁等级 {{tier}} 进行升级"
+  "skill.upgradeTierLock": "在此树中解锁等级 {{tier}} 进行升级",
+  "chapterCropWeek.ascensionBoostsPaused": "在章节作物周期间，升天技能提升不适用"
 }

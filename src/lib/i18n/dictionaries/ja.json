@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "所有ランク {{rank}}",
   "skill.unlockTierFirst": "最初に階層 {{tier}} をアンロック",
   "skill.reachRankFirst": "最初にランク {{rank}} に到達",
-  "skill.upgradeTierLock": "アップグレードするには、このツリーの階層 {{tier}} をアンロックしてください"
+  "skill.upgradeTierLock": "アップグレードするには、このツリーの階層 {{tier}} をアンロックしてください",
+  "chapterCropWeek.ascensionBoostsPaused": "昇天スキルブーストはチャプタークロップウィーク中には適用されません"
 }

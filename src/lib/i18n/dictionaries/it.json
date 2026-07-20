@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Rango {{rank}} posseduto",
   "skill.unlockTierFirst": "Sblocca prima il livello {{tier}}",
   "skill.reachRankFirst": "Raggiungi per primo il rango {{rank}}",
-  "skill.upgradeTierLock": "Sblocca il livello {{tier}} in questo albero per effettuare l'upgrade"
+  "skill.upgradeTierLock": "Sblocca il livello {{tier}} in questo albero per effettuare l'upgrade",
+  "chapterCropWeek.ascensionBoostsPaused": "I potenziamenti delle abilità dell'Ascensione non si applicano durante la Chapter Crop Week"
 }

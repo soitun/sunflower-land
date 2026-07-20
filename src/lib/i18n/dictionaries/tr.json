@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Sahip olunan rütbe {{rank}}",
   "skill.unlockTierFirst": "Önce Seviye {{tier}} kilidini açın",
   "skill.reachRankFirst": "Önce Sıralamaya {{rank}} ulaşın",
-  "skill.upgradeTierLock": "Yükseltmek için bu ağaçtaki Seviye {{tier}} kilidini açın"
+  "skill.upgradeTierLock": "Yükseltmek için bu ağaçtaki Seviye {{tier}} kilidini açın",
+  "chapterCropWeek.ascensionBoostsPaused": "Bölüm Mahsul Haftası'nda Yükseliş beceri artışları geçerli değildir"
 }

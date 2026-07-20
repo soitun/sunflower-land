@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Rango {{rank}} poseído",
   "skill.unlockTierFirst": "Desbloquea primero el nivel {{tier}}",
   "skill.reachRankFirst": "Alcanza el rango {{rank}} primero",
-  "skill.upgradeTierLock": "Desbloquea el nivel {{tier}} de este árbol para mejorar"
+  "skill.upgradeTierLock": "Desbloquea el nivel {{tier}} de este árbol para mejorar",
+  "chapterCropWeek.ascensionBoostsPaused": "Los aumentos de habilidad de ascensión no se aplican durante la Semana de la Cosecha de Capítulos"
 }

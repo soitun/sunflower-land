@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Peringkat {{rank}} dimiliki",
   "skill.unlockTierFirst": "Buka Tier {{tier}} terlebih dahulu",
   "skill.reachRankFirst": "Mencapai Peringkat {{rank}} terlebih dahulu",
-  "skill.upgradeTierLock": "Buka kunci Tingkat {{tier}} di pohon ini untuk meningkatkan"
+  "skill.upgradeTierLock": "Buka kunci Tingkat {{tier}} di pohon ini untuk meningkatkan",
+  "chapterCropWeek.ascensionBoostsPaused": "Peningkatan keterampilan Ascension tidak berlaku selama Chapter Crop Week"
 }

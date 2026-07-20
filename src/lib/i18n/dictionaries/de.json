@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Rang {{rank}} gehört",
   "skill.unlockTierFirst": "Schalte zuerst Stufe {{tier}} frei",
   "skill.reachRankFirst": "Erreiche zuerst Rang {{rank}}",
-  "skill.upgradeTierLock": "Schalte Stufe {{tier}} in diesem Baum frei, um ein Upgrade durchzuführen"
+  "skill.upgradeTierLock": "Schalte Stufe {{tier}} in diesem Baum frei, um ein Upgrade durchzuführen",
+  "chapterCropWeek.ascensionBoostsPaused": "Aufstiegs-Skill-Boosts gelten während der Chapter Crop Week nicht"
 }

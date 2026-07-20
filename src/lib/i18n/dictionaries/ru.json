@@ -9429,5 +9429,6 @@
   "skill.rankOwned": "Rank {{rank}} owned",
   "skill.unlockTierFirst": "Unlock Tier {{tier}} first",
   "skill.reachRankFirst": "Reach Rank {{rank}} first",
-  "skill.upgradeTierLock": "Unlock Tier {{tier}} in this tree to upgrade"
+  "skill.upgradeTierLock": "Unlock Tier {{tier}} in this tree to upgrade",
+  "chapterCropWeek.ascensionBoostsPaused": "Ascension skill boosts don't apply during Chapter Crop Week"
 }

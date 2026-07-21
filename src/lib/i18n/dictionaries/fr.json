@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "Confirmer l'achat d'un appareil portable",
   "flower": "FLEUR",
   "vipDays": "Journées VIP",
-  "feed.olderPosts": "Anciens posts"
+  "feed.olderPosts": "Anciens posts",
+  "bounties.sell.animal.sickReducedBounty": "Les animaux malades ne gagnent que 75 % de cette prime.",
+  "bounties.sell.animal.stateChanged": "L'état de santé de cet animal a changé. Veuillez consulter la prime mise à jour et confirmer à nouveau."
 }

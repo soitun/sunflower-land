@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "Giyilebilir ürün satın almayı onaylayın",
   "flower": "ÇİÇEK",
   "vipDays": "VIP Günleri",
-  "feed.olderPosts": "Eski gönderiler"
+  "feed.olderPosts": "Eski gönderiler",
+  "bounties.sell.animal.sickReducedBounty": "Hasta hayvanlar bu ödülün sadece% 75'ini kazanır.",
+  "bounties.sell.animal.stateChanged": "Bu hayvanın sağlığı değişti. Lütfen güncellenmiş ödülü inceleyin ve tekrar onaylayın."
 }

@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "Confirm buy wearable",
   "flower": "FLOWER",
   "vipDays": "VIP Days",
-  "feed.olderPosts": "Older posts"
+  "feed.olderPosts": "Older posts",
+  "bounties.sell.animal.sickReducedBounty": "Sick animals only earn 75% of this bounty.",
+  "bounties.sell.animal.stateChanged": "This animal's health changed. Please review the updated bounty and confirm again."
 }

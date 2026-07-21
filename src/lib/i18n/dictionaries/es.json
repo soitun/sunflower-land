@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "Confirme la compra de un dispositivo portátil",
   "flower": "FLOR",
   "vipDays": "Días VIP",
-  "feed.olderPosts": "Publicaciones más antiguas"
+  "feed.olderPosts": "Publicaciones más antiguas",
+  "bounties.sell.animal.sickReducedBounty": "Los animales enfermos solo obtienen el 75% de esta recompensa.",
+  "bounties.sell.animal.stateChanged": "La salud de este animal cambió. Revisa la recompensa actualizada y vuelve a confirmarla."
 }

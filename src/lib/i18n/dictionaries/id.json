@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "Konfirmasikan membeli perangkat yang dapat dikenakan",
   "flower": "BUNGA",
   "vipDays": "Hari VIP",
-  "feed.olderPosts": "Posting lama"
+  "feed.olderPosts": "Posting lama",
+  "bounties.sell.animal.sickReducedBounty": "Hewan yang sakit hanya mendapatkan 75% dari karunia ini.",
+  "bounties.sell.animal.stateChanged": "Kesehatan hewan ini berubah. Silakan tinjau hadiah yang diperbarui dan konfirmasikan lagi."
 }

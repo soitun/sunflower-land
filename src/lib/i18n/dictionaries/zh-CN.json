@@ -9437,5 +9437,7 @@
   "confirmBuy.wearable": "确认购买可穿戴设备",
   "flower": "花",
   "vipDays": "贵宾日",
-  "feed.olderPosts": "较旧的帖子"
+  "feed.olderPosts": "较旧的帖子",
+  "bounties.sell.animal.sickReducedBounty": "生病的动物只能获得这笔赏金的75％。",
+  "bounties.sell.animal.stateChanged": "这只动物的健康状况发生了变化。请查看更新的赏金并再次确认。"
 }

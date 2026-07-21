@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "生病的动物只能获得这笔赏金的75％。",
   "bounties.sell.animal.stateChanged": "这只动物的健康状况发生了变化。请查看更新的赏金并再次确认。",
   "marketplace.economy.petalParadise": "花瓣天堂-55% 的资源税",
-  "marketplace.economy.desertIsland": "荒岛-25% 的资源税"
+  "marketplace.economy.desertIsland": "荒岛-25% 的资源税",
+  "temporaryBoosts": "临时提升"
 }

@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "Kranke Tiere erhalten nur 75% dieser Prämie.",
   "bounties.sell.animal.stateChanged": "Die Gesundheit dieses Tieres hat sich verändert. Bitte überprüfe die aktualisierte Prämie und bestätige sie erneut.",
   "marketplace.economy.petalParadise": "Petal Paradise — 55% Ressourcensteuer",
-  "marketplace.economy.desertIsland": "Desert Island — 25% Ressourcensteuer"
+  "marketplace.economy.desertIsland": "Desert Island — 25% Ressourcensteuer",
+  "temporaryBoosts": "Temporäre Boosts"
 }

@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "病気の動物はこの賞金の75％しか獲得できません。",
   "bounties.sell.animal.stateChanged": "この動物の健康状態は変わりました。更新されたバウンティを確認して、もう一度確認してください。",
   "marketplace.economy.petalParadise": "ペタルパラダイス-55% 資源税",
-  "marketplace.economy.desertIsland": "デザートアイランド-25% 資源税"
+  "marketplace.economy.desertIsland": "デザートアイランド-25% 資源税",
+  "temporaryBoosts": "テンポラリー・ブースト"
 }

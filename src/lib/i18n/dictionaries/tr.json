@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "Hasta hayvanlar bu ödülün sadece% 75'ini kazanır.",
   "bounties.sell.animal.stateChanged": "Bu hayvanın sağlığı değişti. Lütfen güncellenmiş ödülü inceleyin ve tekrar onaylayın.",
   "marketplace.economy.petalParadise": "Petal Paradise -% 55 kaynak vergisi",
-  "marketplace.economy.desertIsland": "Çöl Adası -% 25 kaynak vergisi"
+  "marketplace.economy.desertIsland": "Çöl Adası -% 25 kaynak vergisi",
+  "temporaryBoosts": "Geçici Güçlendirmeler"
 }

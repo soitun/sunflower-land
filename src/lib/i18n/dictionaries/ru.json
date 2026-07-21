@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "Sick animals only earn 75% of this bounty.",
   "bounties.sell.animal.stateChanged": "This animal's health changed. Please review the updated bounty and confirm again.",
   "marketplace.economy.petalParadise": "Petal Paradise - 55% resource tax",
-  "marketplace.economy.desertIsland": "Desert Island - 25% resource tax"
+  "marketplace.economy.desertIsland": "Desert Island - 25% resource tax",
+  "temporaryBoosts": "Temporary Boosts"
 }

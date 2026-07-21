@@ -9439,5 +9439,6 @@
   "bounties.sell.animal.sickReducedBounty": "Hewan yang sakit hanya mendapatkan 75% dari karunia ini.",
   "bounties.sell.animal.stateChanged": "Kesehatan hewan ini berubah. Silakan tinjau hadiah yang diperbarui dan konfirmasikan lagi.",
   "marketplace.economy.petalParadise": "Petal Paradise - pajak sumber daya 55%",
-  "marketplace.economy.desertIsland": "Pulau Gurun - pajak sumber daya 25%"
+  "marketplace.economy.desertIsland": "Pulau Gurun - pajak sumber daya 25%",
+  "temporaryBoosts": "Peningkatan Sementara"
 }

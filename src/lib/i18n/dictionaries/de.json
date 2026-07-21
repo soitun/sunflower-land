@@ -9430,5 +9430,12 @@
   "skill.unlockTierFirst": "Schalte zuerst Stufe {{tier}} frei",
   "skill.reachRankFirst": "Erreiche zuerst Rang {{rank}}",
   "skill.upgradeTierLock": "Schalte Stufe {{tier}} in diesem Baum frei, um ein Upgrade durchzuführen",
-  "chapterCropWeek.ascensionBoostsPaused": "Aufstiegs-Skill-Boosts gelten während der Chapter Crop Week nicht"
+  "chapterCropWeek.ascensionBoostsPaused": "Aufstiegs-Skill-Boosts gelten während der Chapter Crop Week nicht",
+  "buy.collectible": "Sammlerstück kaufen",
+  "buy.wearable": "Wearable kaufen",
+  "confirmBuy.collectible": "Bestätigen Kauf eines Sammlerstücks",
+  "confirmBuy.wearable": "Bestätigen Sie den Kauf eines tragbaren Geräts",
+  "flower": "BLUME",
+  "vipDays": "VIP-Tage",
+  "feed.olderPosts": "Ältere Beiträge"
 }

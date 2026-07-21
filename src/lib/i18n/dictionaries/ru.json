@@ -9430,5 +9430,12 @@
   "skill.unlockTierFirst": "Unlock Tier {{tier}} first",
   "skill.reachRankFirst": "Reach Rank {{rank}} first",
   "skill.upgradeTierLock": "Unlock Tier {{tier}} in this tree to upgrade",
-  "chapterCropWeek.ascensionBoostsPaused": "Ascension skill boosts don't apply during Chapter Crop Week"
+  "chapterCropWeek.ascensionBoostsPaused": "Ascension skill boosts don't apply during Chapter Crop Week",
+  "buy.collectible": "Buy collectible",
+  "buy.wearable": "Buy wearable",
+  "confirmBuy.collectible": "Confirm buy collectible",
+  "confirmBuy.wearable": "Confirm buy wearable",
+  "flower": "FLOWER",
+  "vipDays": "VIP Days",
+  "feed.olderPosts": "Older posts"
 }

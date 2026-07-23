@@ -2039,7 +2039,7 @@ export const ITEM_TRADE_TYPES: {
     "Research Uniform": "instant",
     "Sweet Devil Dress": "instant",
     "Underworld Stimpack": "instant",
-    "Sweet Devil Wings": "onchain",
+    "Sweet Devil Wings": "instant",
     "Wisp Aura": "onchain",
     "Luna's Crescent": "onchain",
     "Master Chef's Cleaver": "onchain",

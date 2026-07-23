@@ -1436,6 +1436,37 @@ export const ITEM_TRADE_TYPES: {
     "Salt Awakening Raffle Ticket": "instant",
     "Salt Awakening Banner": "instant",
     "Salt Dino Egg": "instant",
+
+    // Ascension Age Mutants + fish
+    "Ascended Chicken": "instant",
+    "Ascended Cow": "instant",
+    "Ascended Sheep": "instant",
+    "Ruins Flower": "instant",
+    Crocodile: "instant",
+    "Dumbo Octopus": "instant",
+    "Seahorse Dad": "instant",
+
+    // Ascension Age Tickets + banner + artefact
+    "Shiny Feather": "instant",
+    "Ascension Age Raffle Ticket": "instant",
+    "Ascension Age Banner": "instant",
+    "Otter Pebble": "instant",
+    "Cloud Bed": "instant",
+    "Ascension Monument": "instant",
+
+    // Ascension Age decorations
+    "Salt Rug": "instant",
+    "Ascended Idol": "instant",
+    "Ascended Wheel": "instant",
+    Astrolabe: "instant",
+    "Coat Rack": "instant",
+    Lampshade: "instant",
+    "Marble Head": "instant",
+    "Otty the Otter": "instant",
+    "Salt Worker Gnome": "instant",
+    "Shards Turtle": "instant",
+    Vibraphone: "instant",
+    "Winged Vase": "instant",
     "Big Table": "instant",
     Crate: "instant",
     "Empty Pot": "instant",

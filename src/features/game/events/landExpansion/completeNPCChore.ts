@@ -116,6 +116,12 @@ export const CHAPTER_TICKET_BOOST_ITEMS: Record<
     rare: "Spa Robe",
     epic: "Spa Slippers",
   },
+  // TODO(Ascension Age): real chapter wearables — placeholder reuses "Cow Scratcher"
+  "Ascension Age": {
+    basic: "Cow Scratcher",
+    rare: "Cow Scratcher",
+    epic: "Cow Scratcher",
+  },
 };
 
 export function completeNPCChore({

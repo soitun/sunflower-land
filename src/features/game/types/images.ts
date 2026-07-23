@@ -7229,6 +7229,110 @@ export const ITEM_DETAILS: Items = {
     image: spaBear,
     description: translate("description.jacuzziBear"),
   },
+  "Letter A Tile": {
+    image: SUNNYSIDE.tiles.letterATile,
+    description: translate("description.letterATile"),
+  },
+  "Letter B Tile": {
+    image: SUNNYSIDE.tiles.letterBTile,
+    description: translate("description.letterBTile"),
+  },
+  "Letter C Tile": {
+    image: SUNNYSIDE.tiles.letterCTile,
+    description: translate("description.letterCTile"),
+  },
+  "Letter D Tile": {
+    image: SUNNYSIDE.tiles.letterDTile,
+    description: translate("description.letterDTile"),
+  },
+  "Letter E Tile": {
+    image: SUNNYSIDE.tiles.letterETile,
+    description: translate("description.letterETile"),
+  },
+  "Letter F Tile": {
+    image: SUNNYSIDE.tiles.letterFTile,
+    description: translate("description.letterFTile"),
+  },
+  "Letter G Tile": {
+    image: SUNNYSIDE.tiles.letterGTile,
+    description: translate("description.letterGTile"),
+  },
+  "Letter H Tile": {
+    image: SUNNYSIDE.tiles.letterHTile,
+    description: translate("description.letterHTile"),
+  },
+  "Letter I Tile": {
+    image: SUNNYSIDE.tiles.letterITile,
+    description: translate("description.letterITile"),
+  },
+  "Letter J Tile": {
+    image: SUNNYSIDE.tiles.letterJTile,
+    description: translate("description.letterJTile"),
+  },
+  "Letter K Tile": {
+    image: SUNNYSIDE.tiles.letterKTile,
+    description: translate("description.letterKTile"),
+  },
+  "Letter L Tile": {
+    image: SUNNYSIDE.tiles.letterLTile,
+    description: translate("description.letterLTile"),
+  },
+  "Letter M Tile": {
+    image: SUNNYSIDE.tiles.letterMTile,
+    description: translate("description.letterMTile"),
+  },
+  "Letter N Tile": {
+    image: SUNNYSIDE.tiles.letterNTile,
+    description: translate("description.letterNTile"),
+  },
+  "Letter O Tile": {
+    image: SUNNYSIDE.tiles.letterOTile,
+    description: translate("description.letterOTile"),
+  },
+  "Letter P Tile": {
+    image: SUNNYSIDE.tiles.letterPTile,
+    description: translate("description.letterPTile"),
+  },
+  "Letter Q Tile": {
+    image: SUNNYSIDE.tiles.letterQTile,
+    description: translate("description.letterQTile"),
+  },
+  "Letter R Tile": {
+    image: SUNNYSIDE.tiles.letterRTile,
+    description: translate("description.letterRTile"),
+  },
+  "Letter S Tile": {
+    image: SUNNYSIDE.tiles.letterSTile,
+    description: translate("description.letterSTile"),
+  },
+  "Letter T Tile": {
+    image: SUNNYSIDE.tiles.letterTTile,
+    description: translate("description.letterTTile"),
+  },
+  "Letter U Tile": {
+    image: SUNNYSIDE.tiles.letterUTile,
+    description: translate("description.letterUTile"),
+  },
+  "Letter V Tile": {
+    image: SUNNYSIDE.tiles.letterVTile,
+    description: translate("description.letterVTile"),
+  },
+  "Letter W Tile": {
+    image: SUNNYSIDE.tiles.letterWTile,
+    description: translate("description.letterWTile"),
+  },
+  "Letter X Tile": {
+    image: SUNNYSIDE.tiles.letterXTile,
+    description: translate("description.letterXTile"),
+  },
+  "Letter Y Tile": {
+    image: SUNNYSIDE.tiles.letterYTile,
+    description: translate("description.letterYTile"),
+  },
+  "Letter Z Tile": {
+    image: SUNNYSIDE.tiles.letterZTile,
+    description: translate("description.letterZTile"),
+  },
   Trash: {
     image: trash,
     description: translate("description.trash"),

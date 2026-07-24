@@ -8906,7 +8906,6 @@
   "referral.vipRewards.progress": "{{count}}/{{max}} VIP",
   "referral.vipRewards.description": "Получай дополнительные награды, когда приглашённые тобой друзья становятся VIP. Достигай этапов и забирай призы!",
   "referral.vipRewards.commission": "Комиссия в FLOWER увеличивается до 20%",
-  "gameOptions.experiments.designShowcase": "Витрина дизайнов",
   "designShowcase.heading": "Лучшие дизайны",
   "designShowcase.description": "Подборка лучших дизайнов ферм от сообщества.",
   "designShowcase.error": "Не удалось загрузить лучшие дизайны.",

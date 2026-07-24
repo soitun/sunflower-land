@@ -8906,7 +8906,6 @@
   "referral.vipRewards.progress": "{{count}}/{{max}} VIP",
   "referral.vipRewards.description": "Verdiene Bonuspreise, wenn die Freunde, die du empfiehlst, VIP werden. Erreiche einen Meilenstein, um seine Belohnung zu erhalten!",
   "referral.vipRewards.commission": "Die Blumenprovision steigt auf 20%",
-  "gameOptions.experiments.designShowcase": "Design-Showcase",
   "designShowcase.heading": "Ausgewählte Designs",
   "designShowcase.description": "Ein Schaufenster herausragender Farmdesigns aus der Community.",
   "designShowcase.error": "Beim Laden der vorgestellten Designs ist ein Fehler aufgetreten.",

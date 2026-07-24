@@ -8906,7 +8906,6 @@
   "referral.vipRewards.progress": "{{count}}/{{max}} VIP",
   "referral.vipRewards.description": "Gagnez des prix bonus lorsque les amis que vous parrainez deviennent VIP. Atteignez un objectif pour obtenir sa récompense !",
   "referral.vipRewards.commission": "La commission des fleurs passe à 20 %",
-  "gameOptions.experiments.designShowcase": "Vitrine de design",
   "designShowcase.heading": "Designs en vedette",
   "designShowcase.description": "Une vitrine de designs de fermes remarquables réalisés par la communauté.",
   "designShowcase.error": "Une erreur s'est produite lors du chargement des designs en vedette.",

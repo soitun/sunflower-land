@@ -16,6 +16,7 @@ import { PIXEL_SCALE } from "features/game/lib/constants";
 
 import { PlayerModal } from "features/social/PlayerModal";
 import { playerModalManager } from "features/social/lib/playerModalManager";
+import { QuickCheerButton } from "features/social/components/QuickCheerButton";
 
 import { getShowcasedDesigns } from "features/game/actions/getShowcasedDesigns";
 import type { ShowcasedDesign } from "features/game/types/social";
@@ -119,22 +120,28 @@ export const DesignShowcaseSettings: React.FC<ContentComponentProps> = () => {
               alt={designAuthorName(selected)}
             />
 
-            <div
-              className="flex items-center gap-2 cursor-pointer w-fit"
-              onClick={() => openAuthor(selected)}
-            >
-              <BumpkinAvatar parts={selected.bumpkin} size={PIXEL_SCALE * 12} />
-              <div className="flex flex-col">
-                <div className="flex items-center gap-1">
-                  <p className="text-xs capitalize">
-                    {designAuthorName(selected)}
-                  </p>
-                  <span className="text-xs underline">{`#${selected.farmId}`}</span>
+            <div className="flex items-center justify-between gap-2">
+              <div
+                className="flex items-center gap-2 cursor-pointer w-fit"
+                onClick={() => openAuthor(selected)}
+              >
+                <BumpkinAvatar
+                  parts={selected.bumpkin}
+                  size={PIXEL_SCALE * 12}
+                />
+                <div className="flex flex-col">
+                  <div className="flex items-center gap-1">
+                    <p className="text-xs capitalize">
+                      {designAuthorName(selected)}
+                    </p>
+                    <span className="text-xs underline">{`#${selected.farmId}`}</span>
+                  </div>
+                  <span className="text-xxs">
+                    {getRelativeTime(selected.showcasedAt, now)}
+                  </span>
                 </div>
-                <span className="text-xxs">
-                  {getRelativeTime(selected.showcasedAt, now)}
-                </span>
               </div>
+              <QuickCheerButton farmId={selected.farmId} />
             </div>
           </div>
         </InnerPanel>

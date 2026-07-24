@@ -107,8 +107,9 @@ export const DesignShowcaseContent: React.FC = () => {
       clothing: design.bumpkin,
     });
 
-  // Detail view for a single design: back button, full-size image, then a
-  // clickable NPC + name that opens the player model.
+  // Detail view for a single design: back button, then a header with the
+  // clickable NPC + name (opens the player modal) on the left and a quick cheer
+  // on the right, then the full-size image.
   if (selected) {
     return (
       <>
@@ -121,30 +122,32 @@ export const DesignShowcaseContent: React.FC = () => {
             <p className="text-xs underline">{t("back")}</p>
           </div>
 
+          <div className="flex items-center justify-between gap-2 mb-2">
+            <div
+              className="flex items-center gap-2 cursor-pointer w-fit"
+              onClick={() => openAuthor(selected)}
+            >
+              <BumpkinAvatar parts={selected.bumpkin} size={PIXEL_SCALE * 12} />
+              <div className="flex flex-col">
+                <div className="flex items-center gap-1">
+                  <p className="text-xs capitalize">
+                    {designAuthorName(selected)}
+                  </p>
+                  <span className="text-xs underline">{`#${selected.farmId}`}</span>
+                </div>
+                <span className="text-xxs">
+                  {getRelativeTime(selected.showcasedAt, now)}
+                </span>
+              </div>
+            </div>
+            <QuickCheerButton farmId={selected.farmId} />
+          </div>
+
           <img
             src={selected.image}
             className="w-full mb-2 rounded object-contain"
             alt={designAuthorName(selected)}
           />
-
-          <div
-            className="flex items-center gap-2 cursor-pointer w-fit"
-            onClick={() => openAuthor(selected)}
-          >
-            <BumpkinAvatar parts={selected.bumpkin} size={PIXEL_SCALE * 12} />
-            <div className="flex flex-col">
-              <div className="flex items-center gap-1">
-                <p className="text-xs capitalize">
-                  {designAuthorName(selected)}
-                </p>
-                <span className="text-xs underline">{`#${selected.farmId}`}</span>
-              </div>
-              <span className="text-xxs">
-                {getRelativeTime(selected.showcasedAt, now)}
-              </span>
-            </div>
-            <QuickCheerButton farmId={selected.farmId} />
-          </div>
         </div>
         <PlayerModal
           loggedInFarmId={farmId}
